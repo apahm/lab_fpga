@@ -46,10 +46,11 @@
 \contentsline {section}{\numberline {8.1}Интерфейс IIC}{88}{section.8.1}%
 \contentsline {section}{\numberline {8.2}Организация шины IIC на плате VC707}{89}{section.8.2}%
 \contentsline {section}{\numberline {8.3}Синтезатор частот Si570}{90}{section.8.3}%
-\contentsline {section}{\numberline {8.4}AXI IIC Bus Interface IP Core}{90}{section.8.4}%
-\contentsline {section}{\numberline {8.5}Проект в Vivado}{90}{section.8.5}%
-\contentsline {section}{\numberline {8.6}Проект в Xilinx SDK}{90}{section.8.6}%
-\contentsline {chapter}{\numberline {9}Лабораторная работа №7. Взаимодействие ПЛИС с памятью типа DDR3}{91}{chapter.9}%
+\contentsline {subsection}{\numberline {8.3.1}Программирование новой выходной частоты}{90}{subsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.3.2}Перенастройка выходного тактового сигнала для небольшого изменения частоты}{90}{subsection.8.3.2}%
+\contentsline {section}{\numberline {8.4}AXI IIC Bus Interface IP Core}{91}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Проект в Vivado}{91}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Проект в Xilinx SDK}{91}{section.8.6}%
 \contentsline {chapter}{\numberline {A}Конфигурация ПЛИС из флеш-памяти}{92}{appendix.A}%
 \contentsline {chapter}{\numberline {B}Использование JTAG для отладки в Vivado}{93}{appendix.B}%
 \contentsline {chapter}{\numberline {C}Основные конструкции для верификации}{94}{appendix.C}%
