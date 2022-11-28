@@ -1,0 +1,25 @@
+\newcommand\blank[1][\textwidth]{\noindent\rule[-.2ex]{#1}{.4pt}}
+
+\pgfplotsset{cycle list/Dark2, cycle list/Set1}
+\pgfplotsset{
+    % create custom style and add all keys/options that are valid for this
+    % particular style
+    RCS Plot/.style={
+%        height=0.4\textwidth,
+        width=\textwidth,
+        minor tick num = 4,
+        enlarge x limits = 0,
+        grid=major,
+        xtick distance=10,
+        xlabel near ticks,
+        ytick distance=10,
+        ylabel near ticks,
+        legend pos = north west,
+        legend style={font={\tiny}},
+        mark=none,
+        thin,
+        line join=bevel,
+        cycle list name=Dark2,
+        font={\footnotesize}
+    },
+}

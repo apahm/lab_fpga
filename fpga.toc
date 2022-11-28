@@ -1,0 +1,126 @@
+\babel@toc {russian}{}\relax 
+<<<<<<< HEAD
+\contentsline {chapter}{\numberline {1}Лабораторная работа №1. Реализация комбинационных логических элементов}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Основы работы в САПР Vivado}{3}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Шаг 1: создаём проект}{3}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Шаг 2: создаём исходные файлы проекта}{6}{subsection.1.1.2}%
+\contentsline {subsubsection}{Создание HDL-файлов}{7}{section*.12}%
+\contentsline {subsubsection}{Создание файлов ограничений}{8}{section*.15}%
+\contentsline {subsubsection}{Основы моделирования в Vivado}{10}{section*.18}%
+\contentsline {subsection}{\numberline {1.1.3}Шаг 3: Synthesis, Implementation, and Generate Bitstream}{13}{subsection.1.1.3}%
+\contentsline {subsubsection}{Синтез}{13}{section*.23}%
+\contentsline {subsubsection}{Размещение и трассировка проекта}{13}{section*.25}%
+\contentsline {subsubsection}{Генерация .bit файла}{13}{section*.26}%
+\contentsline {subsection}{\numberline {1.1.4}Шаг 4: Загрузка конфигурационного файла в ПЛИС}{14}{subsection.1.1.4}%
+\contentsline {section}{\numberline {1.2}Иерархия проекта и простые логические элементы}{14}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Мультиплексор и параметризация модуля}{18}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Лабораторная работа №2. Реализация ШИМ-контроллера скорости вентилятора}{21}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Лабораторная работа №3. Реализация конечного автомата для управления ЖКИ}{35}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Лабораторная работа №4. Софт-процессор MicroBlaze}{49}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Проект в Vivado}{49}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Проект в Xilinx SDK}{56}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Лабораторная работа №5. Создание IP ядра с управлением по AXI4-Lite}{61}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Интерфейс AXI4-Lite}{61}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Транзакции чтения и записи интерфейса AXI4-Lite}{63}{section.5.2}%
+\contentsline {section}{\numberline {5.3}AXI4-Lite и конфигурационные регистры ядра}{65}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Создание IP ядра в Vivado}{65}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Верификация ядра с интерфейсом AXI4-Lite}{68}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Проект в Vivado}{71}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Проект в Xilinx SDK}{71}{section.5.7}%
+\contentsline {chapter}{\numberline {6}Лабораторная работа №6. Цифровая обработка сигналов}{74}{chapter.6}%
+\contentsline {section}{\numberline {6.1}AXI4-Stream и FIFO}{74}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}AXI4-Stream}{74}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}FIFO}{74}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}AXI4-Stream FIFO IP Сore}{74}{subsection.6.1.3}%
+\contentsline {section}{\numberline {6.2}Арифметика с плавающей точкой}{74}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Быстрое преобразование Фурье}{74}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Алгоритм CORDIC и его применение}{74}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Реализация окна Хэмминга на ПЛИС}{76}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}Проект в Vivado}{76}{subsection.6.5.1}%
+\contentsline {subsection}{\numberline {6.5.2}Проект в Xilinx SDK}{76}{subsection.6.5.2}%
+\contentsline {chapter}{\numberline {7}Лабораторная работа №7. Взаимодействие ПЛИС с памятью типа DDR3 SODIMM}{79}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Проект в Vivado}{79}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Проект в Xilinx SDK}{83}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Лабораторная работа №8. Программирование синтезатора частот с управлением по IIC}{87}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Интерфейс IIC}{87}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Организация шины IIC на плате VC707}{88}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Синтезатор частот Si570}{89}{section.8.3}%
+\contentsline {section}{\numberline {8.4}AXI IIC Bus Interface IP Core}{89}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Проект в Vivado}{89}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Проект в Xilinx SDK}{89}{section.8.6}%
+\contentsline {chapter}{\numberline {A}Конфигурация ПЛИС из флеш-памяти}{90}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Использование JTAG для отладки в Vivado}{91}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Основные конструкции для верификации}{92}{appendix.C}%
+\contentsline {section}{\numberline {C.1}Инициализация: initial}{92}{section.C.1}%
+\contentsline {section}{\numberline {C.2}Управление временем}{92}{section.C.2}%
+\contentsline {subsubsection}{Временная задержка}{92}{section*.108}%
+\contentsline {subsubsection}{События: символ @}{92}{section*.109}%
+\contentsline {subsubsection}{Ожидание: wait}{93}{section*.110}%
+\contentsline {section}{\numberline {C.3}Создание тактового сигнала}{93}{section.C.3}%
+\contentsline {section}{\numberline {C.4}Создание сценариев: task}{93}{section.C.4}%
+\contentsline {section}{\numberline {C.5}Циклы}{93}{section.C.5}%
+\contentsline {section}{\numberline {C.6}Системные функции Verilog}{93}{section.C.6}%
+\contentsline {section}{\numberline {C.7}Вывод отладочной информации}{93}{section.C.7}%
+\contentsline {section}{\numberline {C.8}Ввод/вывод информации из файла}{95}{section.C.8}%
+\contentsline {section}{\numberline {C.9}Получение случайных чисел}{95}{section.C.9}%
+\contentsline {section}{\numberline {C.10}Управление процессом симуляции}{95}{section.C.10}%
+=======
+\contentsline {chapter}{\numberline {1}Лабораторная работа №1. Основы работы в САПР Vivado}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Шаг 1: создаём проект}{3}{section.1.1}%
+\contentsline {subsubsection}{Новый проект}{3}{section*.2}%
+\contentsline {subsubsection}{Название проекта}{4}{section*.5}%
+\contentsline {subsubsection}{Тип проекта}{4}{section*.7}%
+\contentsline {subsubsection}{Добавление различных файлов}{4}{section*.9}%
+\contentsline {subsubsection}{Выбор ПЛИС}{5}{section*.12}%
+\contentsline {subsubsection}{Резюме}{6}{section*.14}%
+\contentsline {section}{\numberline {1.2}Шаг 2: создаём исходные файлы проекта}{7}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Краткий обзор}{7}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Design Sources}{8}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Создание файлов ограничений}{9}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Основы верификации в Vivado}{11}{subsection.1.2.4}%
+\contentsline {section}{\numberline {1.3}Шаг 3: Synthesis, Implementation, and Generate Bitstream}{14}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Synthesis}{14}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Implementation}{14}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Generate Bitstream}{15}{subsection.1.3.3}%
+\contentsline {section}{\numberline {1.4}Шаг 4: прошивка ПЛИС}{15}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Open Hardware Manager}{15}{subsection.1.4.1}%
+\contentsline {chapter}{\numberline {2}Лабораторная работа №2. Основы Verilog}{17}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Иерархия проекта и простые логические элементы}{17}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Мультиплексор и параметризация модуля}{19}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Реализация ШИМ-контроллера скорости вентилятора}{20}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Лабораторная работа №3. Реализация конечного автомата для управления ЖКИ}{23}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Лабораторная работа №4. Софт-процессор MicroBlaze}{40}{chapter.4}%
+\contentsline {section}{\numberline {4.1}IP Integrator}{40}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Xilinx SDK}{47}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Лабораторная работа №5. Создание IP ядра с управлением по AXI4-Lite}{52}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Интерфейс AXI4-Lite}{52}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Транзакции чтения и записи интерфейса AXI4-Lite}{54}{section.5.2}%
+\contentsline {section}{\numberline {5.3}AXI4-Lite и конфигурационные регистры ядра}{56}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Создание IP ядра в Vivado}{56}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Верификация ядра с интерфейсом AXI4-Lite}{64}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Лабораторная работа №6. Цифровая обработка сигналов}{66}{chapter.6}%
+\contentsline {section}{\numberline {6.1}AXI4-Stream и FIFO}{66}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}AXI4-Stream}{66}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}FIFO}{66}{subsection.6.1.2}%
+\contentsline {section}{\numberline {6.2}Арифметика с плавающей точкой}{66}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Быстрое преобразование Фурье}{66}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Алгоритм CORDIC и его применение}{66}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Реализация окна Хэмминга на ПЛИС}{69}{section.6.5}%
+\contentsline {chapter}{\numberline {7}Лабораторная работа №7. Взаимодействие ПЛИС с памятью типа DDR3}{70}{chapter.7}%
+\contentsline {chapter}{\numberline {A}Конфигурация ПЛИС из флеш-памяти}{71}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Использование JTAG для отладки в Vivado}{72}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Основные конструкции для верификации}{73}{appendix.C}%
+\contentsline {section}{\numberline {C.1}Инициализация: initial}{73}{section.C.1}%
+\contentsline {section}{\numberline {C.2}Управление временем}{73}{section.C.2}%
+\contentsline {subsubsection}{Временная задержка}{73}{section*.74}%
+\contentsline {subsubsection}{События: символ @}{73}{section*.75}%
+\contentsline {subsubsection}{Ожидание: wait}{74}{section*.76}%
+\contentsline {section}{\numberline {C.3}Создание тактового сигнала}{74}{section.C.3}%
+\contentsline {section}{\numberline {C.4}Создание сценариев: task}{74}{section.C.4}%
+\contentsline {section}{\numberline {C.5}Циклы}{74}{section.C.5}%
+\contentsline {section}{\numberline {C.6}Системные функции Verilog}{74}{section.C.6}%
+\contentsline {section}{\numberline {C.7}Вывод отладочной информации}{74}{section.C.7}%
+\contentsline {section}{\numberline {C.8}Ввод/вывод информации из файла}{76}{section.C.8}%
+\contentsline {section}{\numberline {C.9}Получение случайных чисел}{76}{section.C.9}%
+\contentsline {section}{\numberline {C.10}Управление процессом симуляции}{76}{section.C.10}%
+>>>>>>> 978c00574865e89e47278e1954e7daa712355d70
