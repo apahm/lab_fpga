@@ -151,6 +151,7 @@
 \@writefile{toc}{\contentsline {chapter}{\numberline {3}Лабораторная работа №3. Реализация конечного автомата для управления ЖКИ}{35}{chapter.3}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
+\@writefile{toc}{\contentsline {section}{\numberline {3.1}Протокол работы с ЖКИ S162D}{35}{section.3.1}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces Внешний вид индикатора S162D\relax }}{35}{figure.caption.41}\protected@file@percent }
 \newlabel{LCD1602}{{3.1}{35}{Внешний вид индикатора S162D\relax }{figure.caption.41}{}}
 \@writefile{lot}{\contentsline {table}{\numberline {3.1}{\ignorespaces Выводы индикатора\relax }}{35}{table.caption.42}\protected@file@percent }
@@ -165,275 +166,237 @@
 \newlabel{full_adder}{{3.3}{37}{Временная диаграмма операции чтения\relax }{figure.caption.46}{}}
 \@writefile{lot}{\contentsline {table}{\numberline {3.4}{\ignorespaces Временные характеристики сигналов при чтении(нс)\relax }}{37}{table.caption.47}\protected@file@percent }
 \newlabel{LCD_TO_FPGA_RD_TABLE}{{3.4}{37}{Временные характеристики сигналов при чтении(нс)\relax }{table.caption.47}{}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {4}Лабораторная работа №4. Софт-процессор MicroBlaze}{49}{chapter.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3.2}Разработка конечного автомата для управления ЖКИ}{38}{section.3.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {4}Лабораторная работа №4. Софт-процессор MicroBlaze}{50}{chapter.4}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {section}{\numberline {4.1}Проект в Vivado}{49}{section.4.1}\protected@file@percent }
-\newlabel{m_12}{{4.1(a)}{49}{Subfigure 4 4.1(a)}{subfigure.4.1.1}{}}
-\newlabel{sub@m_12}{{(a)}{49}{Subfigure 4 4.1(a)\relax }{subfigure.4.1.1}{}}
-\newlabel{m_13}{{4.1(b)}{49}{Subfigure 4 4.1(b)}{subfigure.4.1.2}{}}
-\newlabel{sub@m_13}{{(b)}{49}{Subfigure 4 4.1(b)\relax }{subfigure.4.1.2}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Окно мастера подключения нового файла: кнопка и имя\relax }}{49}{figure.caption.48}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Create Block Design}}}{49}{figure.caption.48}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Назначаем имя файлу}}}{49}{figure.caption.48}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Поиск Microblaze\relax }}{50}{figure.caption.49}\protected@file@percent }
-\newlabel{m_16}{{4.2}{50}{Поиск Microblaze\relax }{figure.caption.49}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces Настройка меню Run Block Automation\relax }}{51}{figure.caption.50}\protected@file@percent }
-\newlabel{m_18}{{4.3}{51}{Настройка меню Run Block Automation\relax }{figure.caption.50}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces Настройка ядра GPIO\relax }}{52}{figure.caption.51}\protected@file@percent }
-\newlabel{m_22}{{4.4}{52}{Настройка ядра GPIO\relax }{figure.caption.51}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces Автоматическое подключение ядра GPIO\relax }}{52}{figure.caption.52}\protected@file@percent }
-\newlabel{m_24}{{4.5}{52}{Автоматическое подключение ядра GPIO\relax }{figure.caption.52}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.6}{\ignorespaces Автоматическое подключение ядра UART\relax }}{53}{figure.caption.53}\protected@file@percent }
-\newlabel{m_28}{{4.6}{53}{Автоматическое подключение ядра UART\relax }{figure.caption.53}{}}
-\newlabel{sys_clk}{{4.7(a)}{54}{Subfigure 4 4.7(a)}{subfigure.4.7.1}{}}
-\newlabel{sub@sys_clk}{{(a)}{54}{Subfigure 4 4.7(a)\relax }{subfigure.4.7.1}{}}
-\newlabel{m_35}{{4.7(b)}{54}{Subfigure 4 4.7(b)}{subfigure.4.7.2}{}}
-\newlabel{sub@m_35}{{(b)}{54}{Subfigure 4 4.7(b)\relax }{subfigure.4.7.2}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.7}{\ignorespaces Создание внешнего подключения интерфейсов: тактовый сигнал и GPIO\relax }}{54}{figure.caption.54}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Тактовый сигнал}}}{54}{figure.caption.54}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {GPIO}}}{54}{figure.caption.54}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4.8}{\ignorespaces Создание внешнего подключения интерфейса UART\relax }}{54}{figure.caption.55}\protected@file@percent }
-\newlabel{m_37}{{4.8}{54}{Создание внешнего подключения интерфейса UART\relax }{figure.caption.55}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.9}{\ignorespaces Address Editor\relax }}{55}{figure.caption.56}\protected@file@percent }
-\newlabel{Address_Editor}{{4.9}{55}{Address Editor\relax }{figure.caption.56}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.10}{\ignorespaces Настройка Constant\relax }}{55}{figure.caption.57}\protected@file@percent }
-\newlabel{m_41}{{4.10}{55}{Настройка Constant\relax }{figure.caption.57}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.11}{\ignorespaces Подключение Constant к Processor System Reset\relax }}{55}{figure.caption.58}\protected@file@percent }
-\newlabel{m_44}{{4.11}{55}{Подключение Constant к Processor System Reset\relax }{figure.caption.58}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.12}{\ignorespaces Create HDL Wrapper: первый шаг\relax }}{56}{figure.caption.59}\protected@file@percent }
-\newlabel{m_46}{{4.12}{56}{Create HDL Wrapper: первый шаг\relax }{figure.caption.59}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.13}{\ignorespaces Create HDL Wrapper: второй шаг\relax }}{56}{figure.caption.60}\protected@file@percent }
-\newlabel{m_47}{{4.13}{56}{Create HDL Wrapper: второй шаг\relax }{figure.caption.60}{}}
-\@writefile{toc}{\contentsline {section}{\numberline {4.2}Проект в Xilinx SDK}{56}{section.4.2}\protected@file@percent }
-\newlabel{hw_1}{{4.14(a)}{57}{Subfigure 4 4.14(a)}{subfigure.4.14.1}{}}
-\newlabel{sub@hw_1}{{(a)}{57}{Subfigure 4 4.14(a)\relax }{subfigure.4.14.1}{}}
-\newlabel{hw_2}{{4.14(b)}{57}{Subfigure 4 4.14(b)}{subfigure.4.14.2}{}}
-\newlabel{sub@hw_2}{{(b)}{57}{Subfigure 4 4.14(b)\relax }{subfigure.4.14.2}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.14}{\ignorespaces Экспорт HW-части проекта в Xilinx SDK\relax }}{57}{figure.caption.61}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Экспорт HW-части проекта в Xilinx SDK}}}{57}{figure.caption.61}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Параметры экспорта HW части}}}{57}{figure.caption.61}\protected@file@percent }
-\newlabel{image61}{{4.15(a)}{58}{Subfigure 4 4.15(a)}{subfigure.4.15.1}{}}
-\newlabel{sub@image61}{{(a)}{58}{Subfigure 4 4.15(a)\relax }{subfigure.4.15.1}{}}
-\newlabel{image62}{{4.15(b)}{58}{Subfigure 4 4.15(b)}{subfigure.4.15.2}{}}
-\newlabel{sub@image62}{{(b)}{58}{Subfigure 4 4.15(b)\relax }{subfigure.4.15.2}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.15}{\ignorespaces Создание нового проекта в Xilinx SDK\relax }}{58}{figure.caption.62}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Назначаем проекту имя}}}{58}{figure.caption.62}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Настраиваем параметры проекта}}}{58}{figure.caption.62}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4.16}{\ignorespaces Project Explorer в Xilinx SDK\relax }}{58}{figure.caption.63}\protected@file@percent }
-\newlabel{SDK_Exp}{{4.16}{58}{Project Explorer в Xilinx SDK\relax }{figure.caption.63}{}}
-\newlabel{terra_wind}{{4.17(a)}{59}{Subfigure 4 4.17(a)}{subfigure.4.17.1}{}}
-\newlabel{sub@terra_wind}{{(a)}{59}{Subfigure 4 4.17(a)\relax }{subfigure.4.17.1}{}}
-\newlabel{terra_com}{{4.17(b)}{59}{Subfigure 4 4.17(b)}{subfigure.4.17.2}{}}
-\newlabel{sub@terra_com}{{(b)}{59}{Subfigure 4 4.17(b)\relax }{subfigure.4.17.2}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.17}{\ignorespaces Настройка программы Terra Term\relax }}{59}{figure.caption.64}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Настройка->COM-порт...}}}{59}{figure.caption.64}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Terra Term: Serial Port and Setup Connection}}}{59}{figure.caption.64}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4.18}{\ignorespaces Program FPGA в Xilinx SDK\relax }}{59}{figure.caption.65}\protected@file@percent }
-\newlabel{program_FPGA}{{4.18}{59}{Program FPGA в Xilinx SDK\relax }{figure.caption.65}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.19}{\ignorespaces Результаты вывода сообщения в консоль\relax }}{60}{figure.caption.66}\protected@file@percent }
-\newlabel{terra_result}{{4.19}{60}{Результаты вывода сообщения в консоль\relax }{figure.caption.66}{}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {5}Лабораторная работа №5. Создание IP ядра с управлением по AXI4-Lite}{61}{chapter.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.1}Проект в Vivado}{50}{section.4.1}\protected@file@percent }
+\newlabel{m_12}{{4.1(a)}{50}{Subfigure 4 4.1(a)}{subfigure.4.1.1}{}}
+\newlabel{sub@m_12}{{(a)}{50}{Subfigure 4 4.1(a)\relax }{subfigure.4.1.1}{}}
+\newlabel{m_13}{{4.1(b)}{50}{Subfigure 4 4.1(b)}{subfigure.4.1.2}{}}
+\newlabel{sub@m_13}{{(b)}{50}{Subfigure 4 4.1(b)\relax }{subfigure.4.1.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Окно мастера подключения нового файла: кнопка и имя\relax }}{50}{figure.caption.48}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Create Block Design}}}{50}{figure.caption.48}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Назначаем имя файлу}}}{50}{figure.caption.48}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Поиск Microblaze\relax }}{51}{figure.caption.49}\protected@file@percent }
+\newlabel{m_16}{{4.2}{51}{Поиск Microblaze\relax }{figure.caption.49}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces Настройка меню Run Block Automation\relax }}{52}{figure.caption.50}\protected@file@percent }
+\newlabel{m_18}{{4.3}{52}{Настройка меню Run Block Automation\relax }{figure.caption.50}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces Настройка ядра GPIO\relax }}{53}{figure.caption.51}\protected@file@percent }
+\newlabel{m_22}{{4.4}{53}{Настройка ядра GPIO\relax }{figure.caption.51}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces Автоматическое подключение ядра GPIO\relax }}{53}{figure.caption.52}\protected@file@percent }
+\newlabel{m_24}{{4.5}{53}{Автоматическое подключение ядра GPIO\relax }{figure.caption.52}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.6}{\ignorespaces Автоматическое подключение ядра UART\relax }}{54}{figure.caption.53}\protected@file@percent }
+\newlabel{m_28}{{4.6}{54}{Автоматическое подключение ядра UART\relax }{figure.caption.53}{}}
+\newlabel{sys_clk}{{4.7(a)}{55}{Subfigure 4 4.7(a)}{subfigure.4.7.1}{}}
+\newlabel{sub@sys_clk}{{(a)}{55}{Subfigure 4 4.7(a)\relax }{subfigure.4.7.1}{}}
+\newlabel{m_35}{{4.7(b)}{55}{Subfigure 4 4.7(b)}{subfigure.4.7.2}{}}
+\newlabel{sub@m_35}{{(b)}{55}{Subfigure 4 4.7(b)\relax }{subfigure.4.7.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.7}{\ignorespaces Создание внешнего подключения интерфейсов: тактовый сигнал и GPIO\relax }}{55}{figure.caption.54}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Тактовый сигнал}}}{55}{figure.caption.54}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {GPIO}}}{55}{figure.caption.54}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.8}{\ignorespaces Создание внешнего подключения интерфейса UART\relax }}{55}{figure.caption.55}\protected@file@percent }
+\newlabel{m_37}{{4.8}{55}{Создание внешнего подключения интерфейса UART\relax }{figure.caption.55}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.9}{\ignorespaces Address Editor\relax }}{56}{figure.caption.56}\protected@file@percent }
+\newlabel{Address_Editor}{{4.9}{56}{Address Editor\relax }{figure.caption.56}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.10}{\ignorespaces Настройка Constant\relax }}{56}{figure.caption.57}\protected@file@percent }
+\newlabel{m_41}{{4.10}{56}{Настройка Constant\relax }{figure.caption.57}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.11}{\ignorespaces Подключение Constant к Processor System Reset\relax }}{56}{figure.caption.58}\protected@file@percent }
+\newlabel{m_44}{{4.11}{56}{Подключение Constant к Processor System Reset\relax }{figure.caption.58}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.12}{\ignorespaces Create HDL Wrapper: первый шаг\relax }}{57}{figure.caption.59}\protected@file@percent }
+\newlabel{m_46}{{4.12}{57}{Create HDL Wrapper: первый шаг\relax }{figure.caption.59}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.13}{\ignorespaces Create HDL Wrapper: второй шаг\relax }}{57}{figure.caption.60}\protected@file@percent }
+\newlabel{m_47}{{4.13}{57}{Create HDL Wrapper: второй шаг\relax }{figure.caption.60}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}Проект в Xilinx SDK}{57}{section.4.2}\protected@file@percent }
+\newlabel{hw_1}{{4.14(a)}{58}{Subfigure 4 4.14(a)}{subfigure.4.14.1}{}}
+\newlabel{sub@hw_1}{{(a)}{58}{Subfigure 4 4.14(a)\relax }{subfigure.4.14.1}{}}
+\newlabel{hw_2}{{4.14(b)}{58}{Subfigure 4 4.14(b)}{subfigure.4.14.2}{}}
+\newlabel{sub@hw_2}{{(b)}{58}{Subfigure 4 4.14(b)\relax }{subfigure.4.14.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.14}{\ignorespaces Экспорт HW-части проекта в Xilinx SDK\relax }}{58}{figure.caption.61}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Экспорт HW-части проекта в Xilinx SDK}}}{58}{figure.caption.61}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Параметры экспорта HW части}}}{58}{figure.caption.61}\protected@file@percent }
+\newlabel{image61}{{4.15(a)}{59}{Subfigure 4 4.15(a)}{subfigure.4.15.1}{}}
+\newlabel{sub@image61}{{(a)}{59}{Subfigure 4 4.15(a)\relax }{subfigure.4.15.1}{}}
+\newlabel{image62}{{4.15(b)}{59}{Subfigure 4 4.15(b)}{subfigure.4.15.2}{}}
+\newlabel{sub@image62}{{(b)}{59}{Subfigure 4 4.15(b)\relax }{subfigure.4.15.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.15}{\ignorespaces Создание нового проекта в Xilinx SDK\relax }}{59}{figure.caption.62}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Назначаем проекту имя}}}{59}{figure.caption.62}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Настраиваем параметры проекта}}}{59}{figure.caption.62}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.16}{\ignorespaces Project Explorer в Xilinx SDK\relax }}{59}{figure.caption.63}\protected@file@percent }
+\newlabel{SDK_Exp}{{4.16}{59}{Project Explorer в Xilinx SDK\relax }{figure.caption.63}{}}
+\newlabel{terra_wind}{{4.17(a)}{60}{Subfigure 4 4.17(a)}{subfigure.4.17.1}{}}
+\newlabel{sub@terra_wind}{{(a)}{60}{Subfigure 4 4.17(a)\relax }{subfigure.4.17.1}{}}
+\newlabel{terra_com}{{4.17(b)}{60}{Subfigure 4 4.17(b)}{subfigure.4.17.2}{}}
+\newlabel{sub@terra_com}{{(b)}{60}{Subfigure 4 4.17(b)\relax }{subfigure.4.17.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.17}{\ignorespaces Настройка программы Terra Term\relax }}{60}{figure.caption.64}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Настройка->COM-порт...}}}{60}{figure.caption.64}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Terra Term: Serial Port and Setup Connection}}}{60}{figure.caption.64}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.18}{\ignorespaces Program FPGA в Xilinx SDK\relax }}{60}{figure.caption.65}\protected@file@percent }
+\newlabel{program_FPGA}{{4.18}{60}{Program FPGA в Xilinx SDK\relax }{figure.caption.65}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.19}{\ignorespaces Результаты вывода сообщения в консоль\relax }}{61}{figure.caption.66}\protected@file@percent }
+\newlabel{terra_result}{{4.19}{61}{Результаты вывода сообщения в консоль\relax }{figure.caption.66}{}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {5}Лабораторная работа №5. Создание IP ядра с управлением по AXI4-Lite}{62}{chapter.5}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {section}{\numberline {5.1}Интерфейс AXI4-Lite}{61}{section.5.1}\protected@file@percent }
-\newlabel{AXI_read_channel}{{5.1(a)}{61}{Subfigure 5 5.1(a)}{subfigure.5.1.1}{}}
-\newlabel{sub@AXI_read_channel}{{(a)}{61}{Subfigure 5 5.1(a)\relax }{subfigure.5.1.1}{}}
-\newlabel{AXI_write_ch}{{5.1(b)}{61}{Subfigure 5 5.1(b)}{subfigure.5.1.2}{}}
-\newlabel{sub@AXI_write_ch}{{(b)}{61}{Subfigure 5 5.1(b)\relax }{subfigure.5.1.2}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces Архитектура каналов чтения и записи в AXI\relax }}{61}{figure.caption.67}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Архитектура канала чтения интерфейса AXI}}}{61}{figure.caption.67}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Архитектура канала записи интерфейса AXI}}}{61}{figure.caption.67}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {5.1}{\ignorespaces Cигналы Write Address Channel AXI4-Lite\relax }}{62}{table.caption.68}\protected@file@percent }
-\newlabel{WA}{{5.1}{62}{Cигналы Write Address Channel AXI4-Lite\relax }{table.caption.68}{}}
-\@writefile{lot}{\contentsline {table}{\numberline {5.2}{\ignorespaces Описание сигналов Read Address Channel интерфейса AXI4-Lite\relax }}{62}{table.caption.69}\protected@file@percent }
-\newlabel{RA}{{5.2}{62}{Описание сигналов Read Address Channel интерфейса AXI4-Lite\relax }{table.caption.69}{}}
-\@writefile{lot}{\contentsline {table}{\numberline {5.3}{\ignorespaces Сигналы Write Data Channel AXI4-Lite\relax }}{62}{table.caption.70}\protected@file@percent }
-\newlabel{WD}{{5.3}{62}{Сигналы Write Data Channel AXI4-Lite\relax }{table.caption.70}{}}
-\@writefile{lot}{\contentsline {table}{\numberline {5.4}{\ignorespaces Сигналы Read Data Channel AXI4-Lite\relax }}{62}{table.caption.71}\protected@file@percent }
-\newlabel{RD}{{5.4}{62}{Сигналы Read Data Channel AXI4-Lite\relax }{table.caption.71}{}}
-\@writefile{lot}{\contentsline {table}{\numberline {5.5}{\ignorespaces Сигналы Write Response Channel AXI4-Lite\relax }}{62}{table.caption.72}\protected@file@percent }
-\newlabel{WRC}{{5.5}{62}{Сигналы Write Response Channel AXI4-Lite\relax }{table.caption.72}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.2}{\ignorespaces Механизм обмена данными - VALID до READY\relax }}{63}{figure.caption.73}\protected@file@percent }
-\newlabel{AXI-valid_before_ready}{{5.2}{63}{Механизм обмена данными - VALID до READY\relax }{figure.caption.73}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.3}{\ignorespaces Механизм обмена данными - READY и VALID одновременно\relax }}{63}{figure.caption.74}\protected@file@percent }
-\newlabel{AXI-valid_ready}{{5.3}{63}{Механизм обмена данными - READY и VALID одновременно\relax }{figure.caption.74}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.4}{\ignorespaces Механизм обмена данными - READY до VALID\relax }}{63}{figure.caption.75}\protected@file@percent }
-\newlabel{AXI-handshape}{{5.4}{63}{Механизм обмена данными - READY до VALID\relax }{figure.caption.75}{}}
-\@writefile{toc}{\contentsline {section}{\numberline {5.2}Транзакции чтения и записи интерфейса AXI4-Lite}{63}{section.5.2}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {5.5}{\ignorespaces AXI4-Lite транзакция записи\relax }}{64}{figure.caption.76}\protected@file@percent }
-\newlabel{AXI_wr_tr}{{5.5}{64}{AXI4-Lite транзакция записи\relax }{figure.caption.76}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.6}{\ignorespaces AXI4-Lite транзакция чтения\relax }}{64}{figure.caption.77}\protected@file@percent }
-\newlabel{AXI_rd_tr}{{5.6}{64}{AXI4-Lite транзакция чтения\relax }{figure.caption.77}{}}
-\@writefile{toc}{\contentsline {section}{\numberline {5.3}AXI4-Lite и конфигурационные регистры ядра}{65}{section.5.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {5.4}Создание IP ядра в Vivado}{65}{section.5.4}\protected@file@percent }
-\newlabel{create_and_pkg_new_ip_0}{{5.7(a)}{65}{Subfigure 5 5.7(a)}{subfigure.5.7.1}{}}
-\newlabel{sub@create_and_pkg_new_ip_0}{{(a)}{65}{Subfigure 5 5.7(a)\relax }{subfigure.5.7.1}{}}
-\newlabel{create_and_pkg_new_ip_1}{{5.7(b)}{65}{Subfigure 5 5.7(b)}{subfigure.5.7.2}{}}
-\newlabel{sub@create_and_pkg_new_ip_1}{{(b)}{65}{Subfigure 5 5.7(b)\relax }{subfigure.5.7.2}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.7}{\ignorespaces Запуск мастера создания IP ядра\relax }}{65}{figure.caption.78}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Tools->Create and Package New Ip...}}}{65}{figure.caption.78}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Окно мастера создания IP ядра}}}{65}{figure.caption.78}\protected@file@percent }
-\newlabel{create_and_pkg_new_ip_2}{{5.8(a)}{66}{Subfigure 5 5.8(a)}{subfigure.5.8.1}{}}
-\newlabel{sub@create_and_pkg_new_ip_2}{{(a)}{66}{Subfigure 5 5.8(a)\relax }{subfigure.5.8.1}{}}
-\newlabel{create_and_pkg_new_ip_3}{{5.8(b)}{66}{Subfigure 5 5.8(b)}{subfigure.5.8.2}{}}
-\newlabel{sub@create_and_pkg_new_ip_3}{{(b)}{66}{Subfigure 5 5.8(b)\relax }{subfigure.5.8.2}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.8}{\ignorespaces Тип и параметры ядра\relax }}{66}{figure.caption.79}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Create a new AXI4 peripheral}}}{66}{figure.caption.79}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Создаём параметры нового IP ядра}}}{66}{figure.caption.79}\protected@file@percent }
-\newlabel{create_and_pkg_new_ip_4}{{5.9(a)}{66}{Subfigure 5 5.9(a)}{subfigure.5.9.1}{}}
-\newlabel{sub@create_and_pkg_new_ip_4}{{(a)}{66}{Subfigure 5 5.9(a)\relax }{subfigure.5.9.1}{}}
-\newlabel{create_and_pkg_new_ip_5}{{5.9(b)}{66}{Subfigure 5 5.9(b)}{subfigure.5.9.2}{}}
-\newlabel{sub@create_and_pkg_new_ip_5}{{(b)}{66}{Subfigure 5 5.9(b)\relax }{subfigure.5.9.2}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.9}{\ignorespaces Выбор интерфейса и следующего шага после генерации ядра\relax }}{66}{figure.caption.80}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Выбор интерфейса}}}{66}{figure.caption.80}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Выбор следующий шага после генерации ядра}}}{66}{figure.caption.80}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {5.5}Верификация ядра с интерфейсом AXI4-Lite}{68}{section.5.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {5.6}Проект в Vivado}{71}{section.5.6}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {5.7}Проект в Xilinx SDK}{71}{section.5.7}\protected@file@percent }
-\@writefile{toc}{\contentsline {chapter}{\numberline {6}Лабораторная работа №6. Цифровая обработка сигналов}{74}{chapter.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5.1}Интерфейс AXI4-Lite}{62}{section.5.1}\protected@file@percent }
+\newlabel{AXI_read_channel}{{5.1(a)}{62}{Subfigure 5 5.1(a)}{subfigure.5.1.1}{}}
+\newlabel{sub@AXI_read_channel}{{(a)}{62}{Subfigure 5 5.1(a)\relax }{subfigure.5.1.1}{}}
+\newlabel{AXI_write_ch}{{5.1(b)}{62}{Subfigure 5 5.1(b)}{subfigure.5.1.2}{}}
+\newlabel{sub@AXI_write_ch}{{(b)}{62}{Subfigure 5 5.1(b)\relax }{subfigure.5.1.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces Архитектура каналов чтения и записи в AXI\relax }}{62}{figure.caption.67}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Архитектура канала чтения интерфейса AXI}}}{62}{figure.caption.67}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Архитектура канала записи интерфейса AXI}}}{62}{figure.caption.67}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {5.1}{\ignorespaces Cигналы Write Address Channel AXI4-Lite\relax }}{63}{table.caption.68}\protected@file@percent }
+\newlabel{WA}{{5.1}{63}{Cигналы Write Address Channel AXI4-Lite\relax }{table.caption.68}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {5.2}{\ignorespaces Описание сигналов Read Address Channel интерфейса AXI4-Lite\relax }}{63}{table.caption.69}\protected@file@percent }
+\newlabel{RA}{{5.2}{63}{Описание сигналов Read Address Channel интерфейса AXI4-Lite\relax }{table.caption.69}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {5.3}{\ignorespaces Сигналы Write Data Channel AXI4-Lite\relax }}{63}{table.caption.70}\protected@file@percent }
+\newlabel{WD}{{5.3}{63}{Сигналы Write Data Channel AXI4-Lite\relax }{table.caption.70}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {5.4}{\ignorespaces Сигналы Read Data Channel AXI4-Lite\relax }}{63}{table.caption.71}\protected@file@percent }
+\newlabel{RD}{{5.4}{63}{Сигналы Read Data Channel AXI4-Lite\relax }{table.caption.71}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {5.5}{\ignorespaces Сигналы Write Response Channel AXI4-Lite\relax }}{63}{table.caption.72}\protected@file@percent }
+\newlabel{WRC}{{5.5}{63}{Сигналы Write Response Channel AXI4-Lite\relax }{table.caption.72}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.2}{\ignorespaces Механизм обмена данными - VALID до READY\relax }}{64}{figure.caption.73}\protected@file@percent }
+\newlabel{AXI-valid_before_ready}{{5.2}{64}{Механизм обмена данными - VALID до READY\relax }{figure.caption.73}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.3}{\ignorespaces Механизм обмена данными - READY и VALID одновременно\relax }}{64}{figure.caption.74}\protected@file@percent }
+\newlabel{AXI-valid_ready}{{5.3}{64}{Механизм обмена данными - READY и VALID одновременно\relax }{figure.caption.74}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.4}{\ignorespaces Механизм обмена данными - READY до VALID\relax }}{64}{figure.caption.75}\protected@file@percent }
+\newlabel{AXI-handshape}{{5.4}{64}{Механизм обмена данными - READY до VALID\relax }{figure.caption.75}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.2}Транзакции чтения и записи интерфейса AXI4-Lite}{64}{section.5.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {5.5}{\ignorespaces AXI4-Lite транзакция записи\relax }}{65}{figure.caption.76}\protected@file@percent }
+\newlabel{AXI_wr_tr}{{5.5}{65}{AXI4-Lite транзакция записи\relax }{figure.caption.76}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.6}{\ignorespaces AXI4-Lite транзакция чтения\relax }}{65}{figure.caption.77}\protected@file@percent }
+\newlabel{AXI_rd_tr}{{5.6}{65}{AXI4-Lite транзакция чтения\relax }{figure.caption.77}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.3}AXI4-Lite и конфигурационные регистры ядра}{66}{section.5.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5.4}Создание IP ядра в Vivado}{66}{section.5.4}\protected@file@percent }
+\newlabel{create_and_pkg_new_ip_0}{{5.7(a)}{66}{Subfigure 5 5.7(a)}{subfigure.5.7.1}{}}
+\newlabel{sub@create_and_pkg_new_ip_0}{{(a)}{66}{Subfigure 5 5.7(a)\relax }{subfigure.5.7.1}{}}
+\newlabel{create_and_pkg_new_ip_1}{{5.7(b)}{66}{Subfigure 5 5.7(b)}{subfigure.5.7.2}{}}
+\newlabel{sub@create_and_pkg_new_ip_1}{{(b)}{66}{Subfigure 5 5.7(b)\relax }{subfigure.5.7.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.7}{\ignorespaces Запуск мастера создания IP ядра\relax }}{66}{figure.caption.78}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Tools->Create and Package New Ip...}}}{66}{figure.caption.78}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Окно мастера создания IP ядра}}}{66}{figure.caption.78}\protected@file@percent }
+\newlabel{create_and_pkg_new_ip_2}{{5.8(a)}{67}{Subfigure 5 5.8(a)}{subfigure.5.8.1}{}}
+\newlabel{sub@create_and_pkg_new_ip_2}{{(a)}{67}{Subfigure 5 5.8(a)\relax }{subfigure.5.8.1}{}}
+\newlabel{create_and_pkg_new_ip_3}{{5.8(b)}{67}{Subfigure 5 5.8(b)}{subfigure.5.8.2}{}}
+\newlabel{sub@create_and_pkg_new_ip_3}{{(b)}{67}{Subfigure 5 5.8(b)\relax }{subfigure.5.8.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.8}{\ignorespaces Тип и параметры ядра\relax }}{67}{figure.caption.79}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Create a new AXI4 peripheral}}}{67}{figure.caption.79}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Создаём параметры нового IP ядра}}}{67}{figure.caption.79}\protected@file@percent }
+\newlabel{create_and_pkg_new_ip_4}{{5.9(a)}{67}{Subfigure 5 5.9(a)}{subfigure.5.9.1}{}}
+\newlabel{sub@create_and_pkg_new_ip_4}{{(a)}{67}{Subfigure 5 5.9(a)\relax }{subfigure.5.9.1}{}}
+\newlabel{create_and_pkg_new_ip_5}{{5.9(b)}{67}{Subfigure 5 5.9(b)}{subfigure.5.9.2}{}}
+\newlabel{sub@create_and_pkg_new_ip_5}{{(b)}{67}{Subfigure 5 5.9(b)\relax }{subfigure.5.9.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.9}{\ignorespaces Выбор интерфейса и следующего шага после генерации ядра\relax }}{67}{figure.caption.80}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Выбор интерфейса}}}{67}{figure.caption.80}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Выбор следующий шага после генерации ядра}}}{67}{figure.caption.80}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5.5}Верификация ядра с интерфейсом AXI4-Lite}{69}{section.5.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5.6}Проект в Vivado}{72}{section.5.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5.7}Проект в Xilinx SDK}{72}{section.5.7}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {6}Лабораторная работа №6. Цифровая обработка сигналов}{75}{chapter.6}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-<<<<<<< HEAD
-\@writefile{toc}{\contentsline {section}{\numberline {6.1}AXI4-Stream и FIFO}{74}{section.6.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {6.1.1}AXI4-Stream}{74}{subsection.6.1.1}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {6.1}{\ignorespaces Временная диаграмма работы интерфейса AXI4-Stream\relax }}{74}{figure.caption.81}\protected@file@percent }
-\newlabel{axis}{{6.1}{74}{Временная диаграмма работы интерфейса AXI4-Stream\relax }{figure.caption.81}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {6.1.2}FIFO}{74}{subsection.6.1.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {6.1.3}AXI4-Stream FIFO IP Сore}{74}{subsection.6.1.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {6.2}Арифметика с плавающей точкой}{74}{section.6.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {6.3}Быстрое преобразование Фурье}{74}{section.6.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {6.4}Алгоритм CORDIC и его применение}{74}{section.6.4}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {6.2}{\ignorespaces Квадратурная составляющая ЛЧМ сигнала\relax }}{75}{figure.caption.82}\protected@file@percent }
-\newlabel{fig:chirp_q}{{6.2}{75}{Квадратурная составляющая ЛЧМ сигнала\relax }{figure.caption.82}{}}
-\@writefile{toc}{\contentsline {section}{\numberline {6.5}Реализация окна Хэмминга на ПЛИС}{76}{section.6.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {6.5.1}Проект в Vivado}{76}{subsection.6.5.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {6.5.2}Проект в Xilinx SDK}{76}{subsection.6.5.2}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {6.3}{\ignorespaces Вкладка "Configuration Options"\relax }}{77}{figure.caption.83}\protected@file@percent }
-\newlabel{cordic_config_options}{{6.3}{77}{Вкладка "Configuration Options"\relax }{figure.caption.83}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {6.4}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{77}{figure.caption.84}\protected@file@percent }
-\newlabel{cordic_axi4_stream_options}{{6.4}{77}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.84}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {6.5}{\ignorespaces Квадратурная составляющая ЛЧМ сигнала\relax }}{77}{figure.caption.85}\protected@file@percent }
-\newlabel{fig:chirp_q}{{6.5}{77}{Квадратурная составляющая ЛЧМ сигнала\relax }{figure.caption.85}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {6.6}{\ignorespaces Синфазная составляющая ЛЧМ сигнала\relax }}{78}{figure.caption.86}\protected@file@percent }
-\newlabel{fig:chirp_i}{{6.6}{78}{Синфазная составляющая ЛЧМ сигнала\relax }{figure.caption.86}{}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {7}Лабораторная работа №7. Взаимодействие ПЛИС с памятью типа DDR3 SODIMM}{79}{chapter.7}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {6.1}AXI4-Stream и FIFO}{75}{section.6.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.1.1}AXI4-Stream}{75}{subsection.6.1.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {6.1}{\ignorespaces Временная диаграмма работы интерфейса AXI4-Stream\relax }}{75}{figure.caption.81}\protected@file@percent }
+\newlabel{axis}{{6.1}{75}{Временная диаграмма работы интерфейса AXI4-Stream\relax }{figure.caption.81}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.1.2}FIFO}{75}{subsection.6.1.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.1.3}AXI4-Stream FIFO IP Сore}{75}{subsection.6.1.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {6.2}Арифметика с плавающей точкой}{75}{section.6.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {6.3}Быстрое преобразование Фурье}{75}{section.6.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {6.4}Алгоритм CORDIC и его применение}{75}{section.6.4}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {6.2}{\ignorespaces Квадратурная составляющая ЛЧМ сигнала\relax }}{76}{figure.caption.82}\protected@file@percent }
+\newlabel{fig:chirp_q}{{6.2}{76}{Квадратурная составляющая ЛЧМ сигнала\relax }{figure.caption.82}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.5}Реализация окна Хэмминга на ПЛИС}{77}{section.6.5}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {6.3}{\ignorespaces Вкладка "Configuration Options"\relax }}{78}{figure.caption.83}\protected@file@percent }
+\newlabel{cordic_config_options}{{6.3}{78}{Вкладка "Configuration Options"\relax }{figure.caption.83}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.4}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{78}{figure.caption.84}\protected@file@percent }
+\newlabel{cordic_axi4_stream_options}{{6.4}{78}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.84}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.5.1}Проект в Vivado}{78}{subsection.6.5.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.5.2}Проект в Xilinx SDK}{78}{subsection.6.5.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {6.5}{\ignorespaces Квадратурная составляющая ЛЧМ сигнала\relax }}{79}{figure.caption.85}\protected@file@percent }
+\newlabel{fig:chirp_q}{{6.5}{79}{Квадратурная составляющая ЛЧМ сигнала\relax }{figure.caption.85}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.6}{\ignorespaces Синфазная составляющая ЛЧМ сигнала\relax }}{79}{figure.caption.86}\protected@file@percent }
+\newlabel{fig:chirp_i}{{6.6}{79}{Синфазная составляющая ЛЧМ сигнала\relax }{figure.caption.86}{}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {7}Лабораторная работа №7. Взаимодействие ПЛИС с памятью типа DDR3 SODIMM}{80}{chapter.7}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {section}{\numberline {7.1}Проект в Vivado}{79}{section.7.1}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {7.1}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{79}{figure.caption.87}\protected@file@percent }
-\newlabel{mig_0_2}{{7.1}{79}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.87}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {7.2}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{80}{figure.caption.88}\protected@file@percent }
-\newlabel{mig_1}{{7.2}{80}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.88}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {7.3}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{80}{figure.caption.89}\protected@file@percent }
-\newlabel{mig_2}{{7.3}{80}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.89}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {7.4}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{81}{figure.caption.90}\protected@file@percent }
-\newlabel{cordic_axi4_stream_options}{{7.4}{81}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.90}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {7.5}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{81}{figure.caption.91}\protected@file@percent }
-\newlabel{cordic_axi4_stream_options}{{7.5}{81}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.91}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {7.6}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{82}{figure.caption.92}\protected@file@percent }
-\newlabel{cordic_axi4_stream_options}{{7.6}{82}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.92}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {7.7}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{82}{figure.caption.93}\protected@file@percent }
-\newlabel{cordic_axi4_stream_options}{{7.7}{82}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.93}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {7.8}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{83}{figure.caption.94}\protected@file@percent }
-\newlabel{cordic_axi4_stream_options}{{7.8}{83}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.94}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {7.9}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{83}{figure.caption.95}\protected@file@percent }
-\newlabel{cordic_axi4_stream_options}{{7.9}{83}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.95}{}}
-\@writefile{toc}{\contentsline {section}{\numberline {7.2}Проект в Xilinx SDK}{83}{section.7.2}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {7.10}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{84}{figure.caption.96}\protected@file@percent }
-\newlabel{cordic_axi4_stream_options}{{7.10}{84}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.96}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {7.11}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{84}{figure.caption.97}\protected@file@percent }
-\newlabel{mig_m_0}{{7.11}{84}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.97}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {7.12}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{84}{figure.caption.98}\protected@file@percent }
-\newlabel{mig_m_1}{{7.12}{84}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.98}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {7.13}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{85}{figure.caption.99}\protected@file@percent }
-\newlabel{mig_m_3}{{7.13}{85}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.99}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {7.14}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{85}{figure.caption.100}\protected@file@percent }
-\newlabel{mig_m_4}{{7.14}{85}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.100}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {7.15}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{85}{figure.caption.101}\protected@file@percent }
-\newlabel{mig_m_sdk_0}{{7.15}{85}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.101}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {7.16}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{86}{figure.caption.102}\protected@file@percent }
-\newlabel{mig_m_sdk_1}{{7.16}{86}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.102}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {7.17}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{86}{figure.caption.103}\protected@file@percent }
-\newlabel{mig_result}{{7.17}{86}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.103}{}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {8}Лабораторная работа №8. Программирование синтезатора частот с управлением по IIC}{87}{chapter.8}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {7.1}Проект в Vivado}{80}{section.7.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {7.1}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{80}{figure.caption.87}\protected@file@percent }
+\newlabel{mig_0_2}{{7.1}{80}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.87}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.2}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{81}{figure.caption.88}\protected@file@percent }
+\newlabel{mig_1}{{7.2}{81}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.88}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.3}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{81}{figure.caption.89}\protected@file@percent }
+\newlabel{mig_2}{{7.3}{81}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.89}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.4}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{82}{figure.caption.90}\protected@file@percent }
+\newlabel{cordic_axi4_stream_options}{{7.4}{82}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.90}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.5}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{82}{figure.caption.91}\protected@file@percent }
+\newlabel{cordic_axi4_stream_options}{{7.5}{82}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.91}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.6}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{83}{figure.caption.92}\protected@file@percent }
+\newlabel{cordic_axi4_stream_options}{{7.6}{83}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.92}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.7}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{83}{figure.caption.93}\protected@file@percent }
+\newlabel{cordic_axi4_stream_options}{{7.7}{83}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.93}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.8}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{84}{figure.caption.94}\protected@file@percent }
+\newlabel{cordic_axi4_stream_options}{{7.8}{84}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.94}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.9}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{84}{figure.caption.95}\protected@file@percent }
+\newlabel{cordic_axi4_stream_options}{{7.9}{84}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.95}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {7.2}Проект в Xilinx SDK}{84}{section.7.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {7.10}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{85}{figure.caption.96}\protected@file@percent }
+\newlabel{cordic_axi4_stream_options}{{7.10}{85}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.96}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.11}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{85}{figure.caption.97}\protected@file@percent }
+\newlabel{mig_m_0}{{7.11}{85}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.97}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.12}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{85}{figure.caption.98}\protected@file@percent }
+\newlabel{mig_m_1}{{7.12}{85}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.98}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.13}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{86}{figure.caption.99}\protected@file@percent }
+\newlabel{mig_m_3}{{7.13}{86}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.99}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.14}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{86}{figure.caption.100}\protected@file@percent }
+\newlabel{mig_m_4}{{7.14}{86}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.100}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.15}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{86}{figure.caption.101}\protected@file@percent }
+\newlabel{mig_m_sdk_0}{{7.15}{86}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.101}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.16}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{87}{figure.caption.102}\protected@file@percent }
+\newlabel{mig_m_sdk_1}{{7.16}{87}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.102}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.17}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{87}{figure.caption.103}\protected@file@percent }
+\newlabel{mig_result}{{7.17}{87}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.103}{}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {8}Лабораторная работа №8. Программирование синтезатора частот с управлением по IIC}{88}{chapter.8}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {section}{\numberline {8.1}Интерфейс IIC}{87}{section.8.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {8.2}Организация шины IIC на плате VC707}{88}{section.8.2}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {8.1}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{88}{figure.caption.104}\protected@file@percent }
-\newlabel{PCA9548.PNG}{{8.1}{88}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.104}{}}
-\@writefile{lot}{\contentsline {table}{\numberline {8.1}{\ignorespaces Подключение индикатора к ПЛИС\relax }}{88}{table.caption.105}\protected@file@percent }
-\newlabel{LCD_TO_FPGA}{{8.1}{88}{Подключение индикатора к ПЛИС\relax }{table.caption.105}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {8.2}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{88}{figure.caption.106}\protected@file@percent }
-\newlabel{PCA9548_addr.PNG}{{8.2}{88}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.106}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {8.3}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{89}{figure.caption.107}\protected@file@percent }
-\newlabel{PCA9548_CR.PNG}{{8.3}{89}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.107}{}}
-\@writefile{toc}{\contentsline {section}{\numberline {8.3}Синтезатор частот Si570}{89}{section.8.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {8.4}AXI IIC Bus Interface IP Core}{89}{section.8.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {8.5}Проект в Vivado}{89}{section.8.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {8.6}Проект в Xilinx SDK}{89}{section.8.6}\protected@file@percent }
-\@writefile{toc}{\contentsline {chapter}{\numberline {A}Конфигурация ПЛИС из флеш-памяти}{90}{appendix.A}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {8.1}Интерфейс IIC}{88}{section.8.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {8.2}Организация шины IIC на плате VC707}{89}{section.8.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {8.1}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{89}{figure.caption.104}\protected@file@percent }
+\newlabel{PCA9548.PNG}{{8.1}{89}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.104}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {8.1}{\ignorespaces Подключение индикатора к ПЛИС\relax }}{89}{table.caption.105}\protected@file@percent }
+\newlabel{LCD_TO_FPGA}{{8.1}{89}{Подключение индикатора к ПЛИС\relax }{table.caption.105}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8.2}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{89}{figure.caption.106}\protected@file@percent }
+\newlabel{PCA9548_addr.PNG}{{8.2}{89}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.106}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8.3}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{90}{figure.caption.107}\protected@file@percent }
+\newlabel{PCA9548_CR.PNG}{{8.3}{90}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.107}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {8.3}Синтезатор частот Si570}{90}{section.8.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {8.4}AXI IIC Bus Interface IP Core}{90}{section.8.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {8.5}Проект в Vivado}{90}{section.8.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {8.6}Проект в Xilinx SDK}{90}{section.8.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {9}Лабораторная работа №7. Взаимодействие ПЛИС с памятью типа DDR3}{91}{chapter.9}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {chapter}{\numberline {B}Использование JTAG для отладки в Vivado}{91}{appendix.B}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {A}Конфигурация ПЛИС из флеш-памяти}{92}{appendix.A}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {chapter}{\numberline {C}Основные конструкции для верификации}{92}{appendix.C}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {B}Использование JTAG для отладки в Vivado}{93}{appendix.B}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {section}{\numberline {C.1}Инициализация: initial}{92}{section.C.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {C.2}Управление временем}{92}{section.C.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{Временная задержка}{92}{section*.108}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{События: символ @}{92}{section*.109}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{Ожидание: wait}{93}{section*.110}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {C.3}Создание тактового сигнала}{93}{section.C.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {C.4}Создание сценариев: task}{93}{section.C.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {C.5}Циклы}{93}{section.C.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {C.6}Системные функции Verilog}{93}{section.C.6}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {C.7}Вывод отладочной информации}{93}{section.C.7}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {C.8}Ввод/вывод информации из файла}{95}{section.C.8}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {C.9}Получение случайных чисел}{95}{section.C.9}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {C.10}Управление процессом симуляции}{95}{section.C.10}\protected@file@percent }
-\gdef \@abspage@last{96}
-=======
-\@writefile{toc}{\contentsline {section}{\numberline {6.1}AXI4-Stream и FIFO}{66}{section.6.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {6.1.1}AXI4-Stream}{66}{subsection.6.1.1}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {6.1}{\ignorespaces Временная диаграмма работы интерфейса AXI4-Stream\relax }}{66}{figure.caption.71}\protected@file@percent }
-\newlabel{axis}{{6.1}{66}{Временная диаграмма работы интерфейса AXI4-Stream\relax }{figure.caption.71}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {6.1.2}FIFO}{66}{subsection.6.1.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {6.2}Арифметика с плавающей точкой}{66}{section.6.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {6.3}Быстрое преобразование Фурье}{66}{section.6.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {6.4}Алгоритм CORDIC и его применение}{66}{section.6.4}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {6.2}{\ignorespaces Вкладка "Configuration Options"\relax }}{68}{figure.caption.72}\protected@file@percent }
-\newlabel{cordic_config_options}{{6.2}{68}{Вкладка "Configuration Options"\relax }{figure.caption.72}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {6.3}{\ignorespaces Вкладка "AXI4-Stream Options"\relax }}{69}{figure.caption.73}\protected@file@percent }
-\newlabel{cordic_axi4_stream_options}{{6.3}{69}{Вкладка "AXI4-Stream Options"\relax }{figure.caption.73}{}}
-\@writefile{toc}{\contentsline {section}{\numberline {6.5}Реализация окна Хэмминга на ПЛИС}{69}{section.6.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {chapter}{\numberline {7}Лабораторная работа №7. Взаимодействие ПЛИС с памятью типа DDR3}{70}{chapter.7}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {C}Основные конструкции для верификации}{94}{appendix.C}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {chapter}{\numberline {A}Конфигурация ПЛИС из флеш-памяти}{71}{appendix.A}\protected@file@percent }
-\@writefile{lof}{\addvspace {10\p@ }}
-\@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {chapter}{\numberline {B}Использование JTAG для отладки в Vivado}{72}{appendix.B}\protected@file@percent }
-\@writefile{lof}{\addvspace {10\p@ }}
-\@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {chapter}{\numberline {C}Основные конструкции для верификации}{73}{appendix.C}\protected@file@percent }
-\@writefile{lof}{\addvspace {10\p@ }}
-\@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {section}{\numberline {C.1}Инициализация: initial}{73}{section.C.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {C.2}Управление временем}{73}{section.C.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{Временная задержка}{73}{section*.74}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{События: символ @}{73}{section*.75}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{Ожидание: wait}{74}{section*.76}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {C.3}Создание тактового сигнала}{74}{section.C.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {C.4}Создание сценариев: task}{74}{section.C.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {C.5}Циклы}{74}{section.C.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {C.6}Системные функции Verilog}{74}{section.C.6}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {C.7}Вывод отладочной информации}{74}{section.C.7}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {C.8}Ввод/вывод информации из файла}{76}{section.C.8}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {C.9}Получение случайных чисел}{76}{section.C.9}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {C.10}Управление процессом симуляции}{76}{section.C.10}\protected@file@percent }
-\gdef \@abspage@last{77}
->>>>>>> 978c00574865e89e47278e1954e7daa712355d70
+\@writefile{toc}{\contentsline {section}{\numberline {C.1}Инициализация: initial}{94}{section.C.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {C.2}Управление временем}{94}{section.C.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{Временная задержка}{94}{section*.108}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{События: символ @}{94}{section*.109}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{Ожидание: wait}{95}{section*.110}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {C.3}Создание тактового сигнала}{95}{section.C.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {C.4}Создание сценариев: task}{95}{section.C.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {C.5}Циклы}{95}{section.C.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {C.6}Системные функции Verilog}{95}{section.C.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {C.7}Вывод отладочной информации}{95}{section.C.7}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {C.8}Ввод/вывод информации из файла}{97}{section.C.8}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {C.9}Получение случайных чисел}{97}{section.C.9}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {C.10}Управление процессом симуляции}{97}{section.C.10}\protected@file@percent }
+\gdef \@abspage@last{98}
