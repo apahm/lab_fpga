@@ -47,23 +47,9 @@
 \contentsline {section}{\numberline {8.2}Организация шины IIC на плате VC707}{89}{section.8.2}%
 \contentsline {section}{\numberline {8.3}Синтезатор частот Si570}{90}{section.8.3}%
 \contentsline {subsection}{\numberline {8.3.1}Программирование новой выходной частоты}{90}{subsection.8.3.1}%
-\contentsline {subsection}{\numberline {8.3.2}Перенастройка выходного тактового сигнала для небольшого изменения частоты}{90}{subsection.8.3.2}%
-\contentsline {section}{\numberline {8.4}AXI IIC Bus Interface IP Core}{91}{section.8.4}%
-\contentsline {section}{\numberline {8.5}Проект в Vivado}{91}{section.8.5}%
-\contentsline {section}{\numberline {8.6}Проект в Xilinx SDK}{91}{section.8.6}%
-\contentsline {chapter}{\numberline {A}Конфигурация ПЛИС из флеш-памяти}{92}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Использование JTAG для отладки в Vivado}{93}{appendix.B}%
-\contentsline {chapter}{\numberline {C}Основные конструкции для верификации}{94}{appendix.C}%
-\contentsline {section}{\numberline {C.1}Инициализация: initial}{94}{section.C.1}%
-\contentsline {section}{\numberline {C.2}Управление временем}{94}{section.C.2}%
-\contentsline {subsubsection}{Временная задержка}{94}{section*.108}%
-\contentsline {subsubsection}{События: символ @}{94}{section*.109}%
-\contentsline {subsubsection}{Ожидание: wait}{95}{section*.110}%
-\contentsline {section}{\numberline {C.3}Создание тактового сигнала}{95}{section.C.3}%
-\contentsline {section}{\numberline {C.4}Создание сценариев: task}{95}{section.C.4}%
-\contentsline {section}{\numberline {C.5}Циклы}{95}{section.C.5}%
-\contentsline {section}{\numberline {C.6}Системные функции Verilog}{95}{section.C.6}%
-\contentsline {section}{\numberline {C.7}Вывод отладочной информации}{95}{section.C.7}%
-\contentsline {section}{\numberline {C.8}Ввод/вывод информации из файла}{97}{section.C.8}%
-\contentsline {section}{\numberline {C.9}Получение случайных чисел}{97}{section.C.9}%
-\contentsline {section}{\numberline {C.10}Управление процессом симуляции}{97}{section.C.10}%
+\contentsline {subsection}{\numberline {8.3.2}Перенастройка выходной частоты в малом диапазоне}{92}{subsection.8.3.2}%
+\contentsline {section}{\numberline {8.4}AXI IIC Bus Interface IP Core}{93}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Проект в Vivado}{93}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Проект в Xilinx SDK}{93}{section.8.6}%
+\contentsline {chapter}{\numberline {A}Конфигурация ПЛИС из флеш-памяти}{95}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Использование JTAG для отладки в Vivado}{96}{appendix.B}%
