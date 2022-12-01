@@ -34,20 +34,19 @@
 \contentsline {subsection}{\numberline {6.1.2}FIFO}{115}{subsection.6.1.2}%
 \contentsline {subsection}{\numberline {6.1.3}AXI4-Stream FIFO IP Сore}{115}{subsection.6.1.3}%
 \contentsline {section}{\numberline {6.2}Арифметика с плавающей точкой}{115}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Быстрое преобразование Фурье}{115}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Алгоритм CORDIC и его применение}{115}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Реализация окна Хэмминга на ПЛИС}{119}{section.6.5}%
-\contentsline {subsection}{\numberline {6.5.1}Проект в Vivado}{120}{subsection.6.5.1}%
-\contentsline {subsection}{\numberline {6.5.2}Проект в Xilinx SDK}{120}{subsection.6.5.2}%
-\contentsline {chapter}{\numberline {7}Лабораторная работа №7. Взаимодействие ПЛИС с памятью типа DDR3 SODIMM}{121}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Проект в Vivado}{121}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Проект в Xilinx SDK}{129}{section.7.2}%
-\contentsline {chapter}{\numberline {8}Лабораторная работа №8. Программирование синтезатора частот с управлением по IIC}{132}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Интерфейс IIC}{132}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Организация шины IIC на плате VC707}{134}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Синтезатор частот Si570}{136}{section.8.3}%
-\contentsline {subsection}{\numberline {8.3.1}Программирование новой выходной частоты}{136}{subsection.8.3.1}%
-\contentsline {subsection}{\numberline {8.3.2}Перенастройка выходной частоты в малом диапазоне}{140}{subsection.8.3.2}%
-\contentsline {section}{\numberline {8.4}AXI IIC Bus Interface IP Core}{141}{section.8.4}%
-\contentsline {section}{\numberline {8.5}Проект в Vivado}{141}{section.8.5}%
-\contentsline {section}{\numberline {8.6}Проект в Xilinx SDK}{141}{section.8.6}%
+\contentsline {section}{\numberline {6.3}Алгоритм CORDIC и его применение}{115}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Реализация окна Хэмминга на ПЛИС}{119}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Проект в Vivado}{120}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Проект в Xilinx SDK}{120}{subsection.6.4.2}%
+\contentsline {chapter}{\numberline {7}Лабораторная работа №7. Взаимодействие ПЛИС с памятью типа DDR3 SODIMM}{124}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Проект в Vivado}{124}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Проект в Xilinx SDK}{132}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Лабораторная работа №8. Программирование синтезатора частот с управлением по IIC}{135}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Интерфейс IIC}{135}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Организация шины IIC на плате VC707}{137}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Синтезатор частот Si570}{139}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}Программирование новой выходной частоты}{139}{subsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.3.2}Перенастройка выходной частоты в малом диапазоне}{143}{subsection.8.3.2}%
+\contentsline {section}{\numberline {8.4}AXI IIC Bus Interface IP Core}{144}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Проект в Vivado}{144}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Проект в Xilinx SDK}{144}{section.8.6}%

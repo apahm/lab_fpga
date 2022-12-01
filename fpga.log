@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  30 NOV 2022 15:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  1 DEC 2022 17:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1594,6 +1594,12 @@ LaTeX Warning: Label `full_adder' multiply defined.
 LaTeX Warning: Label `fig:chirp_q' multiply defined.
 
 
+LaTeX Warning: Label `fig:chirp_q' multiply defined.
+
+
+LaTeX Warning: Label `fig:chirp_i' multiply defined.
+
+
 LaTeX Warning: Label `cordic_axi4_stream_options' multiply defined.
 
 
@@ -1713,12 +1719,12 @@ l.28 ...ЂС„РµР№СЃРѕРј AXI4-Lite}{104}{section.5.5}
 
  [2]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
-<image/m_3.png, id=262, 505.89pt x 614.295pt>
+<image/m_3.png, id=257, 505.89pt x 614.295pt>
 File: image/m_3.png Graphic file (type png)
 <use image/m_3.png>
 Package pdftex.def Info: image/m_3.png  used on input line 90.
 (pdftex.def)             Requested size: 153.8385pt x 186.80197pt.
-<image/2.png, id=264, 997.7275pt x 730.73pt>
+<image/2.png, id=259, 997.7275pt x 730.73pt>
 File: image/2.png Graphic file (type png)
 <use image/2.png>
 Package pdftex.def Info: image/2.png  used on input line 97.
@@ -1726,28 +1732,28 @@ Package pdftex.def Info: image/2.png  used on input line 97.
 [3
 
 ]
-<image/l1_lab_1.png, id=276, 590.205pt x 498.36188pt>
+<image/l1_lab_1.png, id=271, 590.205pt x 498.36188pt>
 File: image/l1_lab_1.png Graphic file (type png)
 <use image/l1_lab_1.png>
 Package pdftex.def Info: image/l1_lab_1.png  used on input line 108.
 (pdftex.def)             Requested size: 205.1128pt x 173.18974pt.
  [4 <./image/m_3.PNG> <./image/2.png> <./image/l1_lab_1.PNG>]
-<image/8.png, id=286, 993.7125pt x 735.74875pt>
+<image/8.png, id=281, 993.7125pt x 735.74875pt>
 File: image/8.png Graphic file (type png)
 <use image/8.png>
 Package pdftex.def Info: image/8.png  used on input line 116.
 (pdftex.def)             Requested size: 205.1128pt x 151.8623pt.
-<image/9.png, id=288, 995.72pt x 726.715pt>
+<image/9.png, id=283, 995.72pt x 726.715pt>
 File: image/9.png Graphic file (type png)
 <use image/9.png>
 Package pdftex.def Info: image/9.png  used on input line 125.
 (pdftex.def)             Requested size: 205.1128pt x 149.6983pt.
-<image/10.png, id=290, 996.72375pt x 728.7225pt>
+<image/10.png, id=285, 996.72375pt x 728.7225pt>
 File: image/10.png Graphic file (type png)
 <use image/10.png>
 Package pdftex.def Info: image/10.png  used on input line 136.
 (pdftex.def)             Requested size: 205.1128pt x 149.95616pt.
-<image/m_9.png, id=292, 590.95781pt x 503.63156pt>
+<image/m_9.png, id=287, 590.95781pt x 503.63156pt>
 File: image/m_9.png Graphic file (type png)
 <use image/m_9.png>
 Package pdftex.def Info: image/m_9.png  used on input line 147.
@@ -1758,12 +1764,12 @@ LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line
  (c:/texlive/2022/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-<image/summary.png, id=302, 994.71625pt x 726.715pt>
+<image/summary.png, id=297, 994.71625pt x 726.715pt>
 File: image/summary.png Graphic file (type png)
 <use image/summary.png>
 Package pdftex.def Info: image/summary.png  used on input line 156.
 (pdftex.def)             Requested size: 205.1128pt x 149.84245pt.
-<image/LEDS.png, id=304, 641.39626pt x 303.38344pt>
+<image/LEDS.png, id=299, 641.39626pt x 303.38344pt>
 File: image/LEDS.png Graphic file (type png)
 <use image/LEDS.png>
 Package pdftex.def Info: image/LEDS.png  used on input line 173.
@@ -1773,7 +1779,7 @@ Overfull \hbox (28.93192pt too wide) in paragraph at lines 173--173
  [][] 
  []
 
-<image/DIP_SWITCH.png, id=305, 625.58719pt x 350.81062pt>
+<image/DIP_SWITCH.png, id=300, 625.58719pt x 350.81062pt>
 File: image/DIP_SWITCH.png Graphic file (type png)
 <use image/DIP_SWITCH.png>
 Package pdftex.def Info: image/DIP_SWITCH.png  used on input line 181.
@@ -1784,7 +1790,7 @@ Overfull \hbox (22.6084pt too wide) in paragraph at lines 181--181
  []
 
 [6 <./image/10.png> <./image/m_9.PNG>]
-<image/module_0.png, id=317, 675.27281pt x 687.31781pt>
+<image/module_0.png, id=312, 675.27281pt x 687.31781pt>
 File: image/module_0.png Graphic file (type png)
 <use image/module_0.png>
 Package pdftex.def Info: image/module_0.png  used on input line 187.
@@ -1796,12 +1802,12 @@ Overfull \hbox (1.97433pt too wide) in paragraph at lines 198--199
 ли. Схе-ма элек-три-че-ская прин-
  []
 
-<image/l_1_sources.png, id=334, 539.01375pt x 318.18875pt>
+<image/l_1_sources.png, id=329, 539.01375pt x 318.18875pt>
 File: image/l_1_sources.png Graphic file (type png)
 <use image/l_1_sources.png>
 Package pdftex.def Info: image/l_1_sources.png  used on input line 210.
 (pdftex.def)             Requested size: 215.60167pt x 127.27324pt.
-<image/l_2_sources.png, id=335, 841.1425pt x 570.13pt>
+<image/l_2_sources.png, id=330, 841.1425pt x 570.13pt>
 File: image/l_2_sources.png Graphic file (type png)
 <use image/l_2_sources.png>
 Package pdftex.def Info: image/l_2_sources.png  used on input line 218.
@@ -1811,12 +1817,12 @@ Overfull \hbox (24.72266pt too wide) in paragraph at lines 218--218
  [][] 
  []
 
-<image/sw_led.png, id=336, 285.31593pt x 197.98969pt>
+<image/sw_led.png, id=331, 285.31593pt x 197.98969pt>
 File: image/sw_led.png Graphic file (type png)
 <use image/sw_led.png>
 Package pdftex.def Info: image/sw_led.png  used on input line 231.
 (pdftex.def)             Requested size: 171.19087pt x 118.79472pt.
-<image/sw_led_2.png, id=337, 649.67719pt x 438.13687pt>
+<image/sw_led_2.png, id=332, 649.67719pt x 438.13687pt>
 File: image/sw_led_2.png Graphic file (type png)
 <use image/sw_led_2.png>
 Package pdftex.def Info: image/sw_led_2.png  used on input line 239.
@@ -1828,12 +1834,12 @@ Overfull \hbox (32.24423pt too wide) in paragraph at lines 239--239
 
 [8 <./image/l_1_sources.png> <./image/l_2_sources.png>] [9 <./image/sw_led.PNG>
  <./image/sw_led_2.PNG>] [10]
-<image/xdc.png, id=366, 293.59688pt x 195.73125pt>
+<image/xdc.png, id=361, 293.59688pt x 195.73125pt>
 File: image/xdc.png Graphic file (type png)
 <use image/xdc.png>
 Package pdftex.def Info: image/xdc.png  used on input line 316.
 (pdftex.def)             Requested size: 176.15947pt x 117.43964pt.
-<image/xdc_2.png, id=367, 637.63219pt x 431.36156pt>
+<image/xdc_2.png, id=362, 637.63219pt x 431.36156pt>
 File: image/xdc_2.png Graphic file (type png)
 <use image/xdc_2.png>
 Package pdftex.def Info: image/xdc_2.png  used on input line 324.
@@ -1843,7 +1849,7 @@ Overfull \hbox (27.42632pt too wide) in paragraph at lines 324--324
  [][] 
  []
 
-<image/VC707.png, id=368, 1149.5447pt x 650.43pt>
+<image/VC707.png, id=363, 1149.5447pt x 650.43pt>
 File: image/VC707.png Graphic file (type png)
 <use image/VC707.png>
 Package pdftex.def Info: image/VC707.png  used on input line 330.
@@ -1855,22 +1861,22 @@ d or Create Constraintsї
  []
 
 [13] [14]
-<image/l1_sim_1.png, id=402, 635.37375pt x 434.37282pt>
+<image/l1_sim_1.png, id=397, 635.37375pt x 434.37282pt>
 File: image/l1_sim_1.png Graphic file (type png)
 <use image/l1_sim_1.png>
 Package pdftex.def Info: image/l1_sim_1.png  used on input line 421.
 (pdftex.def)             Requested size: 190.61359pt x 130.31284pt.
-<image/l1_sim_2.png, id=403, 641.39626pt x 437.38406pt>
+<image/l1_sim_2.png, id=398, 641.39626pt x 437.38406pt>
 File: image/l1_sim_2.png Graphic file (type png)
 <use image/l1_sim_2.png>
 Package pdftex.def Info: image/l1_sim_2.png  used on input line 429.
 (pdftex.def)             Requested size: 192.42035pt x 131.21622pt.
-<image/l1_sim_3.png, id=404, 279.29344pt x 191.9672pt>
+<image/l1_sim_3.png, id=399, 279.29344pt x 191.9672pt>
 File: image/l1_sim_3.png Graphic file (type png)
 <use image/l1_sim_3.png>
 Package pdftex.def Info: image/l1_sim_3.png  used on input line 441.
 (pdftex.def)             Requested size: 195.50407pt x 134.37611pt.
-<image/l1_sim_4.png, id=405, 638.385pt x 432.86719pt>
+<image/l1_sim_4.png, id=400, 638.385pt x 432.86719pt>
 File: image/l1_sim_4.png Graphic file (type png)
 <use image/l1_sim_4.png>
 Package pdftex.def Info: image/l1_sim_4.png  used on input line 449.
@@ -1882,12 +1888,12 @@ Overfull \hbox (27.72743pt too wide) in paragraph at lines 449--449
 
 [15 <./image/l1_sim_1.PNG> <./image/l1_sim_2.PNG> <./image/l1_sim_3.PNG> <./ima
 ge/l1_sim_4.PNG>] [16]
-<image/sim_rub.png, id=424, 380.92313pt x 350.81062pt>
+<image/sim_rub.png, id=419, 380.92313pt x 350.81062pt>
 File: image/sim_rub.png Graphic file (type png)
 <use image/sim_rub.png>
 Package pdftex.def Info: image/sim_rub.png  used on input line 523.
 (pdftex.def)             Requested size: 205.1128pt x 188.89426pt.
-<image/l1_sim_5.png, id=425, 1740.5025pt x 985.43156pt>
+<image/l1_sim_5.png, id=420, 1740.5025pt x 985.43156pt>
 File: image/l1_sim_5.png Graphic file (type png)
 <use image/l1_sim_5.png>
 Package pdftex.def Info: image/l1_sim_5.png  used on input line 530.
@@ -1899,18 +1905,18 @@ Overfull \hbox (23.27109pt too wide) in paragraph at lines 546--546
  []
 
 [18 <./image/sim_rub.PNG> <./image/l1_sim_5.PNG>]
-<image/synth.PNG, id=440, 757.32938pt x 673.76718pt>
+<image/synth.PNG, id=435, 757.32938pt x 673.76718pt>
 File: image/synth.PNG Graphic file (type png)
 <use image/synth.PNG>
 Package pdftex.def Info: image/synth.PNG  used on input line 556.
 (pdftex.def)             Requested size: 358.9513pt x 319.34363pt.
  [19 <./image/synth.PNG>]
-<image/l1_hard_1.png, id=455, 489.32813pt x 269.50688pt>
+<image/l1_hard_1.png, id=450, 489.32813pt x 269.50688pt>
 File: image/l1_hard_1.png Graphic file (type png)
 <use image/l1_hard_1.png>
 Package pdftex.def Info: image/l1_hard_1.png  used on input line 589.
 (pdftex.def)             Requested size: 195.72777pt x 107.80083pt.
-<image/l1_hard_2.png, id=456, 636.12656pt x 434.37282pt>
+<image/l1_hard_2.png, id=451, 636.12656pt x 434.37282pt>
 File: image/l1_hard_2.png Graphic file (type png)
 <use image/l1_hard_2.png>
 Package pdftex.def Info: image/l1_hard_2.png  used on input line 597.
@@ -1920,7 +1926,7 @@ Overfull \hbox (26.82407pt too wide) in paragraph at lines 597--597
  [][] 
  []
 
-<image/l1_hard_3.png, id=457, 642.90187pt x 432.11438pt>
+<image/l1_hard_3.png, id=452, 642.90187pt x 432.11438pt>
 File: image/l1_hard_3.png Graphic file (type png)
 <use image/l1_hard_3.png>
 Package pdftex.def Info: image/l1_hard_3.png  used on input line 609.
@@ -1930,7 +1936,7 @@ Overfull \hbox (1.08139pt too wide) in paragraph at lines 609--609
  [][] 
  []
 
-<image/l1_hard_4.png, id=458, 635.37375pt x 436.63126pt>
+<image/l1_hard_4.png, id=453, 635.37375pt x 436.63126pt>
 File: image/l1_hard_4.png Graphic file (type png)
 <use image/l1_hard_4.png>
 Package pdftex.def Info: image/l1_hard_4.png  used on input line 617.
@@ -1940,17 +1946,17 @@ Overfull \hbox (20.66882pt too wide) in paragraph at lines 609--618
 [][] [][] 
  []
 
-<image/l1_hard_sum.png, id=459, 639.13782pt x 432.11438pt>
+<image/l1_hard_sum.png, id=454, 639.13782pt x 432.11438pt>
 File: image/l1_hard_sum.png Graphic file (type png)
 <use image/l1_hard_sum.png>
 Package pdftex.def Info: image/l1_hard_sum.png  used on input line 623.
 (pdftex.def)             Requested size: 256.3949pt x 173.34378pt.
-<image/program_0.png, id=460, 407.27156pt x 411.03563pt>
+<image/program_0.png, id=455, 407.27156pt x 411.03563pt>
 File: image/program_0.png Graphic file (type png)
 <use image/program_0.png>
 Package pdftex.def Info: image/program_0.png  used on input line 636.
 (pdftex.def)             Requested size: 162.90573pt x 164.41133pt.
-<image/program.png, id=461, 465.99094pt x 246.9225pt>
+<image/program.png, id=456, 465.99094pt x 246.9225pt>
 File: image/program.png Graphic file (type png)
 <use image/program.png>
 Package pdftex.def Info: image/program.png  used on input line 644.
@@ -1963,7 +1969,7 @@ Overfull \hbox (51.97467pt too wide) in paragraph at lines 644--644
 [20] [21 <./image/l1_hard_1.PNG> <./image/l1_hard_2.PNG> <./image/l1_hard_3.PNG
 > <./image/l1_hard_4.PNG>] [22 <./image/l1_hard_sum.PNG> <./image/program_0.PNG
 > <./image/program.PNG>]
-<image/Full_Adder.PNG, id=492, 401.5pt x 180.675pt>
+<image/Full_Adder.PNG, id=487, 401.5pt x 180.675pt>
 File: image/Full_Adder.PNG Graphic file (type png)
 <use image/Full_Adder.PNG>
 Package pdftex.def Info: image/Full_Adder.PNG  used on input line 697.
@@ -1989,7 +1995,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [31
 
 ] [32]
-<image/MMCM2_BASE.PNG, id=575, 800.23969pt x 472.01344pt>
+<image/MMCM2_BASE.PNG, id=570, 800.23969pt x 472.01344pt>
 File: image/MMCM2_BASE.PNG Graphic file (type png)
 <use image/MMCM2_BASE.PNG>
 Package pdftex.def Info: image/MMCM2_BASE.PNG  used on input line 1040.
@@ -2026,7 +2032,7 @@ Overfull \hbox (11.4538pt too wide) in paragraph at lines 1083--1085
  []
 
 [36]
-<image/MMCM_INT.PNG, id=627, 627.84563pt x 577.40718pt>
+<image/MMCM_INT.PNG, id=622, 627.84563pt x 577.40718pt>
 File: image/MMCM_INT.PNG Graphic file (type png)
 <use image/MMCM_INT.PNG>
 Package pdftex.def Info: image/MMCM_INT.PNG  used on input line 1126.
@@ -2034,7 +2040,7 @@ Package pdftex.def Info: image/MMCM_INT.PNG  used on input line 1126.
  [37] [38 <./image/MMCM_INT.PNG>] [39] [40] [41] [42] [43] [44] [45]
 [46] [47] [48] [49] [50]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
-<image/LCD1602.PNG, id=701, 353.82187pt x 144.54pt>
+<image/LCD1602.PNG, id=696, 353.82187pt x 144.54pt>
 File: image/LCD1602.PNG Graphic file (type png)
 <use image/LCD1602.PNG>
 Package pdftex.def Info: image/LCD1602.PNG  used on input line 1552.
@@ -2042,7 +2048,7 @@ Package pdftex.def Info: image/LCD1602.PNG  used on input line 1552.
 [51
 
  <./image/LCD1602.PNG>] [52]
-<image/LCD_WR_2.PNG, id=713, 800.23969pt x 405.76593pt>
+<image/LCD_WR_2.PNG, id=708, 800.23969pt x 405.76593pt>
 File: image/LCD_WR_2.PNG Graphic file (type png)
 <use image/LCD_WR_2.PNG>
 Package pdftex.def Info: image/LCD_WR_2.PNG  used on input line 1638.
@@ -2059,7 +2065,7 @@ Overfull \hbox (5.43854pt too wide) in paragraph at lines 1669--1670
 нии ши-ны DB4...DB7. 
  []
 
-<image/LCD_READ_2.PNG, id=722, 817.55438pt x 403.5075pt>
+<image/LCD_READ_2.PNG, id=717, 817.55438pt x 403.5075pt>
 File: image/LCD_READ_2.PNG Graphic file (type png)
 <use image/LCD_READ_2.PNG>
 Package pdftex.def Info: image/LCD_READ_2.PNG  used on input line 1677.
@@ -2070,108 +2076,108 @@ Package pdftex.def Info: image/LCD_READ_2.PNG  used on input line 1677.
 [75
 
 ]
-<image/m_12.png, id=859, 627.84563pt x 600.74437pt>
+<image/m_12.png, id=854, 627.84563pt x 600.74437pt>
 File: image/m_12.png Graphic file (type png)
 <use image/m_12.png>
 Package pdftex.def Info: image/m_12.png  used on input line 2451.
 (pdftex.def)             Requested size: 188.35513pt x 180.2247pt.
-<image/m_13.png, id=860, 278.54062pt x 196.48407pt>
+<image/m_13.png, id=855, 278.54062pt x 196.48407pt>
 File: image/m_13.png Graphic file (type png)
 <use image/m_13.png>
 Package pdftex.def Info: image/m_13.png  used on input line 2459.
 (pdftex.def)             Requested size: 139.26996pt x 98.24179pt.
-<image/m_16.png, id=862, 241.65282pt x 344.78813pt>
+<image/m_16.png, id=857, 241.65282pt x 344.78813pt>
 File: image/m_16.png Graphic file (type png)
 <use image/m_16.png>
 Package pdftex.def Info: image/m_16.png  used on input line 2485.
 (pdftex.def)             Requested size: 153.8385pt x 219.50095pt.
  [76 <./image/m_12.PNG> <./image/m_13.PNG>] [77 <./image/m_16.PNG>]
-<image/m_18.png, id=887, 647.41875pt x 583.42969pt>
+<image/m_18.png, id=882, 647.41875pt x 583.42969pt>
 File: image/m_18.png Graphic file (type png)
 <use image/m_18.png>
 Package pdftex.def Info: image/m_18.png  used on input line 2527.
 (pdftex.def)             Requested size: 205.1128pt x 184.8407pt.
 
 [78 <./image/m_18.PNG>]
-<image/m_22.png, id=903, 788.19469pt x 593.21625pt>
+<image/m_22.png, id=898, 788.19469pt x 593.21625pt>
 File: image/m_22.png Graphic file (type png)
 <use image/m_22.png>
 Package pdftex.def Info: image/m_22.png  used on input line 2576.
 (pdftex.def)             Requested size: 205.1128pt x 154.36836pt.
  [79]
-<image/m_24.png, id=917, 642.14906pt x 401.24907pt>
+<image/m_24.png, id=912, 642.14906pt x 401.24907pt>
 File: image/m_24.png Graphic file (type png)
 <use image/m_24.png>
 Package pdftex.def Info: image/m_24.png  used on input line 2598.
 (pdftex.def)             Requested size: 205.1128pt x 128.16354pt.
  [80 <./image/m_22.PNG> <./image/m_24.PNG>]
-<image/m_28.png, id=926, 647.41875pt x 408.77719pt>
+<image/m_28.png, id=921, 647.41875pt x 408.77719pt>
 File: image/m_28.png Graphic file (type png)
 <use image/m_28.png>
 Package pdftex.def Info: image/m_28.png  used on input line 2643.
 (pdftex.def)             Requested size: 358.9513pt x 226.64323pt.
 
 [81]
-<image/gen.PNG, id=950, 408.77719pt x 563.85657pt>
+<image/gen.PNG, id=945, 408.77719pt x 563.85657pt>
 File: image/gen.PNG Graphic file (type png)
 <use image/gen.PNG>
 Package pdftex.def Info: image/gen.PNG  used on input line 2682.
 (pdftex.def)             Requested size: 204.38809pt x 281.9276pt.
-<image/m_35.png, id=951, 386.94562pt x 321.45094pt>
+<image/m_35.png, id=946, 386.94562pt x 321.45094pt>
 File: image/m_35.png Graphic file (type png)
 <use image/m_35.png>
 Package pdftex.def Info: image/m_35.png  used on input line 2690.
 (pdftex.def)             Requested size: 193.47234pt x 160.72507pt.
-<image/m_37.png, id=952, 412.54124pt x 561.59813pt>
+<image/m_37.png, id=947, 412.54124pt x 561.59813pt>
 File: image/m_37.png Graphic file (type png)
 <use image/m_37.png>
 Package pdftex.def Info: image/m_37.png  used on input line 2696.
 (pdftex.def)             Requested size: 153.8385pt x 209.42479pt.
-<image/m_39.png, id=953, 718.93594pt x 203.25937pt>
+<image/m_39.png, id=948, 718.93594pt x 203.25937pt>
 File: image/m_39.png Graphic file (type png)
 <use image/m_39.png>
 Package pdftex.def Info: image/m_39.png  used on input line 2703.
 (pdftex.def)             Requested size: 410.2334pt x 115.98619pt.
-<image/log_1_1.png, id=955, 494.59781pt x 402.75468pt>
+<image/log_1_1.png, id=950, 494.59781pt x 402.75468pt>
 File: image/log_1_1.png Graphic file (type png)
 <use image/log_1_1.png>
 Package pdftex.def Info: image/log_1_1.png  used on input line 2720.
 (pdftex.def)             Requested size: 205.1128pt x 167.0233pt.
  [82 <./image/m_28.PNG>]
-<image/log_1.png, id=965, 266.49562pt x 200.24812pt>
+<image/log_1.png, id=960, 266.49562pt x 200.24812pt>
 File: image/log_1.png Graphic file (type png)
 <use image/log_1.png>
 Package pdftex.def Info: image/log_1.png  used on input line 2734.
 (pdftex.def)             Requested size: 205.1128pt x 154.13042pt.
-<image/m_46.png, id=966, 680.5425pt x 478.78876pt>
+<image/m_46.png, id=961, 680.5425pt x 478.78876pt>
 File: image/m_46.png Graphic file (type png)
 <use image/m_46.png>
 Package pdftex.def Info: image/m_46.png  used on input line 2741.
 (pdftex.def)             Requested size: 205.1128pt x 144.30255pt.
  [83 <./image/gen.PNG> <./image/m_35.PNG> <./image/m_37.PNG>]
-<image/m_47.png, id=975, 385.44pt x 213.79875pt>
+<image/m_47.png, id=970, 385.44pt x 213.79875pt>
 File: image/m_47.png Graphic file (type png)
 <use image/m_47.png>
 Package pdftex.def Info: image/m_47.png  used on input line 2753.
 (pdftex.def)             Requested size: 205.1128pt x 113.77277pt.
  [84 <./image/m_39.PNG> <./image/log_1_1.PNG> <./image/log_1.PNG>]
 [85 <./image/m_46.PNG> <./image/m_47.PNG>] [86]
-<image/hw_1.png, id=1002, 331.99031pt x 393.72093pt>
+<image/hw_1.png, id=997, 331.99031pt x 393.72093pt>
 File: image/hw_1.png Graphic file (type png)
 <use image/hw_1.png>
 Package pdftex.def Info: image/hw_1.png  used on input line 2828.
 (pdftex.def)             Requested size: 165.99474pt x 196.85999pt.
-<image/hw_2.png, id=1003, 310.15875pt x 185.19188pt>
+<image/hw_2.png, id=998, 310.15875pt x 185.19188pt>
 File: image/hw_2.png Graphic file (type png)
 <use image/hw_2.png>
 Package pdftex.def Info: image/hw_2.png  used on input line 2836.
 (pdftex.def)             Requested size: 155.079pt x 92.5957pt.
-<image/image61.png, id=1005, 612.03656pt x 156.585pt>
+<image/image61.png, id=1000, 612.03656pt x 156.585pt>
 File: image/image61.png Graphic file (type png)
 <use image/image61.png>
 Package pdftex.def Info: image/image61.png  used on input line 2855.
 (pdftex.def)             Requested size: 183.61238pt x 46.97586pt.
-<image/image62.png, id=1006, 517.935pt x 581.17125pt>
+<image/image62.png, id=1001, 517.935pt x 581.17125pt>
 File: image/image62.png Graphic file (type png)
 <use image/image62.png>
 Package pdftex.def Info: image/image62.png  used on input line 2863.
@@ -2182,30 +2188,30 @@ Overfull \hbox (31.34482pt too wide) in paragraph at lines 2863--2863
  []
 
 [87 <./image/hw_1.PNG> <./image/hw_2.PNG>]
-<image/SDK_Exp.png, id=1020, 475.02469pt x 287.57437pt>
+<image/SDK_Exp.png, id=1015, 475.02469pt x 287.57437pt>
 File: image/SDK_Exp.png Graphic file (type png)
 <use image/SDK_Exp.png>
 Package pdftex.def Info: image/SDK_Exp.png  used on input line 2896.
 (pdftex.def)             Requested size: 256.3949pt x 155.22202pt.
  [88 <./image/image61.png (PNG copy)> <./image/image62.png (PNG copy)>] [89 <./
 image/SDK_Exp.PNG>]
-<image/Terra_0.png, id=1041, 287.57437pt x 343.2825pt>
+<image/Terra_0.png, id=1036, 287.57437pt x 343.2825pt>
 File: image/Terra_0.png Graphic file (type png)
 <use image/Terra_0.png>
 Package pdftex.def Info: image/Terra_0.png  used on input line 2948.
 (pdftex.def)             Requested size: 143.78683pt x 171.64082pt.
-<image/terra.png, id=1042, 313.9228pt x 330.48468pt>
+<image/terra.png, id=1037, 313.9228pt x 330.48468pt>
 File: image/terra.png Graphic file (type png)
 <use image/terra.png>
 Package pdftex.def Info: image/terra.png  used on input line 2956.
 (pdftex.def)             Requested size: 156.96101pt x 165.24193pt.
-<image/program_FPGA.png, id=1046, 643.6547pt x 430.60875pt>
+<image/program_FPGA.png, id=1041, 643.6547pt x 430.60875pt>
 File: image/program_FPGA.png Graphic file (type png)
 <use image/program_FPGA.png>
 Package pdftex.def Info: image/program_FPGA.png  used on input line 2965.
 (pdftex.def)             Requested size: 256.3949pt x 171.53082pt.
  [90 <./image/Terra_0.PNG> <./image/terra.PNG> <./image/Program_FPGA.PNG>]
-<image/terra_result.png, id=1060, 331.2375pt x 167.87718pt>
+<image/terra_result.png, id=1055, 331.2375pt x 167.87718pt>
 File: image/terra_result.png Graphic file (type png)
 <use image/terra_result.png>
 Package pdftex.def Info: image/terra_result.png  used on input line 2974.
@@ -2215,7 +2221,7 @@ Package pdftex.def Info: image/terra_result.png  used on input line 2974.
 [93
 
 ]
-<image/AXI_read_ch.png, id=1088, 579.16376pt x 275.0275pt>
+<image/AXI_read_ch.png, id=1083, 579.16376pt x 275.0275pt>
 File: image/AXI_read_ch.png Graphic file (type png)
 <use image/AXI_read_ch.png>
 Package pdftex.def Info: image/AXI_read_ch.png  used on input line 3024.
@@ -2225,23 +2231,23 @@ Overfull \hbox (4.03935pt too wide) in paragraph at lines 3024--3024
  [][] 
  []
 
-<image/AXI_write_ch.png, id=1089, 562.1pt x 354.32375pt>
+<image/AXI_write_ch.png, id=1084, 562.1pt x 354.32375pt>
 File: image/AXI_write_ch.png Graphic file (type png)
 <use image/AXI_write_ch.png>
 Package pdftex.def Info: image/AXI_write_ch.png  used on input line 3032.
 (pdftex.def)             Requested size: 224.83601pt x 141.72697pt.
 [94 <./image/AXI_read_ch.png> <./image/AXI_write_ch.png>] [95]
-<image/AXI-handshape.png, id=1104, 533.995pt x 241.90375pt>
+<image/AXI-handshape.png, id=1099, 533.995pt x 241.90375pt>
 File: image/AXI-handshape.png Graphic file (type png)
 <use image/AXI-handshape.png>
 Package pdftex.def Info: image/AXI-handshape.png  used on input line 3123.
 (pdftex.def)             Requested size: 205.1128pt x 92.9173pt.
-<image/AXI-hand-valid.png, id=1106, 503.8825pt x 217.81375pt>
+<image/AXI-hand-valid.png, id=1101, 503.8825pt x 217.81375pt>
 File: image/AXI-hand-valid.png Graphic file (type png)
 <use image/AXI-hand-valid.png>
 Package pdftex.def Info: image/AXI-hand-valid.png  used on input line 3133.
 (pdftex.def)             Requested size: 205.1128pt x 88.66275pt.
-<image/AXI-hand_ready.png, id=1108, 522.95375pt x 226.8475pt>
+<image/AXI-hand_ready.png, id=1103, 522.95375pt x 226.8475pt>
 File: image/AXI-hand_ready.png Graphic file (type png)
 <use image/AXI-hand_ready.png>
 Package pdftex.def Info: image/AXI-hand_ready.png  used on input line 3143.
@@ -2251,7 +2257,7 @@ Overfull \hbox (7.2893pt too wide) in paragraph at lines 3150--3150
 []\T2A/cmr/bx/n/20.74 Транзакции чте-ния и за-пи-си ин-тер-фей-са AXI4-
  []
 
-<image/axi_lite_write.png, id=1111, 791.95876pt x 370.38374pt>
+<image/axi_lite_write.png, id=1106, 791.95876pt x 370.38374pt>
 File: image/axi_lite_write.png Graphic file (type png)
 <use image/axi_lite_write.png>
 Package pdftex.def Info: image/axi_lite_write.png  used on input line 3157.
@@ -2260,7 +2266,7 @@ Package pdftex.def Info: image/axi_lite_write.png  used on input line 3157.
 
  <./image/AXI-handshape.png> <./image/AXI-hand-valid.png>] [97 <./image/AXI-han
 d_ready.png> <./image/axi_lite_write.png>]
-<image/axi_lite_read.png, id=1133, 948.54375pt x 324.21124pt>
+<image/axi_lite_read.png, id=1128, 948.54375pt x 324.21124pt>
 File: image/axi_lite_read.png Graphic file (type png)
 <use image/axi_lite_read.png>
 Package pdftex.def Info: image/axi_lite_read.png  used on input line 3175.
@@ -2290,13 +2296,13 @@ Overfull \hbox (45.54851pt too wide) in paragraph at lines 3205--3207
 ][]\T2A/cmtt/m/n/14.4 Create a new AXI4 peripheral[]\T2A/cmr/m/n/14.4 (см.
  []
 
-<image/create_and_pkg_new_ip_0.png, id=1158, 255.20343pt x 294.34969pt>
+<image/create_and_pkg_new_ip_0.png, id=1153, 255.20343pt x 294.34969pt>
 File: image/create_and_pkg_new_ip_0.png Graphic file (type png)
 <use image/create_and_pkg_new_ip_0.png>
 Package pdftex.def Info: image/create_and_pkg_new_ip_0.png  used on input line 
 3216.
 (pdftex.def)             Requested size: 127.6014pt x 147.17447pt.
-<image/create_and_pkg_new_ip_1.png, id=1159, 846.16125pt x 585.18625pt>
+<image/create_and_pkg_new_ip_1.png, id=1154, 846.16125pt x 585.18625pt>
 File: image/create_and_pkg_new_ip_1.png Graphic file (type png)
 <use image/create_and_pkg_new_ip_1.png>
 Package pdftex.def Info: image/create_and_pkg_new_ip_1.png  used on input line 
@@ -2307,25 +2313,25 @@ Overfull \hbox (26.22829pt too wide) in paragraph at lines 3224--3224
  [][] 
  []
 
-<image/create_and_pkg_new_ip_2.png, id=1160, 638.385pt x 432.11438pt>
+<image/create_and_pkg_new_ip_2.png, id=1155, 638.385pt x 432.11438pt>
 File: image/create_and_pkg_new_ip_2.png Graphic file (type png)
 <use image/create_and_pkg_new_ip_2.png>
 Package pdftex.def Info: image/create_and_pkg_new_ip_2.png  used on input line 
 3237.
 (pdftex.def)             Requested size: 191.51697pt x 129.6353pt.
-<image/create_and_pkg_new_ip_3.png, id=1161, 642.14906pt x 434.37282pt>
+<image/create_and_pkg_new_ip_3.png, id=1156, 642.14906pt x 434.37282pt>
 File: image/create_and_pkg_new_ip_3.png Graphic file (type png)
 <use image/create_and_pkg_new_ip_3.png>
 Package pdftex.def Info: image/create_and_pkg_new_ip_3.png  used on input line 
 3245.
 (pdftex.def)             Requested size: 192.6462pt x 130.31284pt.
-<image/create_and_pkg_new_ip_4.png, id=1162, 639.89063pt x 435.12563pt>
+<image/create_and_pkg_new_ip_4.png, id=1157, 639.89063pt x 435.12563pt>
 File: image/create_and_pkg_new_ip_4.png Graphic file (type png)
 <use image/create_and_pkg_new_ip_4.png>
 Package pdftex.def Info: image/create_and_pkg_new_ip_4.png  used on input line 
 3257.
 (pdftex.def)             Requested size: 191.96866pt x 130.53868pt.
-<image/create_and_pkg_new_ip_5.png, id=1163, 643.6547pt x 438.13687pt>
+<image/create_and_pkg_new_ip_5.png, id=1158, 643.6547pt x 438.13687pt>
 File: image/create_and_pkg_new_ip_5.png Graphic file (type png)
 <use image/create_and_pkg_new_ip_5.png>
 Package pdftex.def Info: image/create_and_pkg_new_ip_5.png  used on input line 
@@ -2336,7 +2342,7 @@ Package pdftex.def Info: image/create_and_pkg_new_ip_5.png  used on input line
 PNG> <./image/create_and_pkg_new_ip_4.PNG> <./image/create_and_pkg_new_ip_5.PNG
 >] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 6.
-<image/axis_0.png, id=1237, 702.625pt x 210.7875pt>
+<image/axis_0.png, id=1232, 702.625pt x 210.7875pt>
 File: image/axis_0.png Graphic file (type png)
 <use image/axis_0.png>
 Package pdftex.def Info: image/axis_0.png  used on input line 3678.
@@ -2344,374 +2350,395 @@ Package pdftex.def Info: image/axis_0.png  used on input line 3678.
 [114
 
  <./image/axis_0.PNG>]
-Overfull \hbox (0.86566pt too wide) in paragraph at lines 3727--3728
+Overfull \hbox (0.86566pt too wide) in paragraph at lines 3725--3726
 []\T2A/cmr/m/n/14.4 Проделав про-стей-шие три-го-но-мет-ри-че-ские пре-об-ра-зо
 -ва-ния, эти фор-му-лы мож-
  []
 
 [115]
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 3771.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 3769.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 3771.
-
-Missing character: There is no ° in font cmr12!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 3774.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 3774.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 3769.
 
 Missing character: There is no ° in font cmr12!
 
-Overfull \hbox (0.29694pt too wide) in paragraph at lines 3777--3779
+LaTeX Warning: Command \textdegree invalid in math mode on input line 3772.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 3772.
+
+Missing character: There is no ° in font cmr12!
+
+Overfull \hbox (0.29694pt too wide) in paragraph at lines 3775--3777
 []\T2A/cmr/m/n/14.4 Напомним, что окон-ча-тель-ные ре-зуль-та-ты, рас-счи-тан-н
 ые с по-мо-щью CORDIC-
  []
 
 [116]
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 3790.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 3788.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 3790.
-
-Missing character: There is no ° in font cmr12!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 3806.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 3806.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 3788.
 
 Missing character: There is no ° in font cmr12!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 3828.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 3804.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 3828.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 3804.
+
+Missing character: There is no ° in font cmr12!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 3826.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 3826.
 
 Missing character: There is no ° in font cmr12!
 [117]
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 3849.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 3847.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 3849.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 3847.
 
 Missing character: There is no ° in font cmr12!
-<image/cordic_config_options.png, id=1262, 970.3753pt x 693.34032pt>
+<image/cordic_config_options.png, id=1257, 970.3753pt x 693.34032pt>
 File: image/cordic_config_options.png Graphic file (type png)
 <use image/cordic_config_options.png>
 Package pdftex.def Info: image/cordic_config_options.png  used on input line 38
-69.
+67.
 (pdftex.def)             Requested size: 256.3949pt x 183.19475pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<image/cordic_axi4_stream_options.png, id=1263, 967.36406pt x 688.82344pt>
+<image/cordic_axi4_stream_options.png, id=1258, 967.36406pt x 688.82344pt>
 File: image/cordic_axi4_stream_options.png Graphic file (type png)
 <use image/cordic_axi4_stream_options.png>
 Package pdftex.def Info: image/cordic_axi4_stream_options.png  used on input li
-ne 3876.
+ne 3874.
 (pdftex.def)             Requested size: 256.3949pt x 182.56888pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [118]
-PGFPlots: reading {Synopsis/data/third-party/lfm_im.dat}
+<image/win_ham.png, id=1265, 880.79062pt x 344.78813pt>
+File: image/win_ham.png Graphic file (type png)
+<use image/win_ham.png>
+Package pdftex.def Info: image/win_ham.png  used on input line 3897.
+(pdftex.def)             Requested size: 256.3949pt x 100.36478pt.
 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+pdfTeX warning: pdflatex.exe (file ./ham.pdf): PDF inclusion: found PDF version
+ <1.7>, but at most version <1.5> allowed
+<ham.pdf, id=1266, 521.0667pt x 451.6875pt>
+File: ham.pdf Graphic file (type pdf)
+<use ham.pdf>
+Package pdftex.def Info: ham.pdf  used on input line 3904.
+(pdftex.def)             Requested size: 410.2334pt x 355.60928pt.
+PGFPlots: reading {Synopsis/data/third-party/lfm_im.dat}
 Missing character: There is no ; in font nullfont!
 [119 <./image/cordic_config_options.PNG> <./image/cordic_axi4_stream_options.PN
 G>]
-PGFPlots: reading {Synopsis/data/third-party/lfm_re.dat}
 
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+PGFPlots: reading {Synopsis/data/third-party/lfm_re.dat}
 Missing character: There is no ; in font nullfont!
-[120]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+PGFPlots: reading {Synopsis/data/third-party/lfm_hamming_re.dat}
+Missing character: There is no ; in font nullfont!
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+PGFPlots: reading {Synopsis/data/third-party/lfm_hamming_im.dat}
+Missing character: There is no ; in font nullfont!
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[120 <./image/win_ham.PNG>] [121 <./ham.pdf>] [122] [123]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 7.
-<image/mig_0_2.png, id=1286, 943.27406pt x 466.74374pt>
+<image/mig_0_2.png, id=1311, 943.27406pt x 466.74374pt>
 File: image/mig_0_2.png Graphic file (type png)
 <use image/mig_0_2.png>
-Package pdftex.def Info: image/mig_0_2.png  used on input line 3952.
+Package pdftex.def Info: image/mig_0_2.png  used on input line 4011.
 (pdftex.def)             Requested size: 256.3949pt x 126.87pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<image/mig_1.png, id=1288, 782.925pt x 578.91281pt>
+<image/mig_1.png, id=1313, 782.925pt x 578.91281pt>
 File: image/mig_1.png Graphic file (type png)
 <use image/mig_1.png>
-Package pdftex.def Info: image/mig_1.png  used on input line 3961.
+Package pdftex.def Info: image/mig_1.png  used on input line 4020.
 (pdftex.def)             Requested size: 205.1128pt x 151.66212pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[121
+[124
 
 ]
-<image/mig_2.png, id=1297, 779.91376pt x 571.38469pt>
+<image/mig_2.png, id=1320, 779.91376pt x 571.38469pt>
 File: image/mig_2.png Graphic file (type png)
 <use image/mig_2.png>
-Package pdftex.def Info: image/mig_2.png  used on input line 3970.
+Package pdftex.def Info: image/mig_2.png  used on input line 4029.
 (pdftex.def)             Requested size: 205.1128pt x 150.26535pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<image/mig_3.png, id=1298, 777.65532pt x 575.14874pt>
+<image/mig_3.png, id=1321, 777.65532pt x 575.14874pt>
 File: image/mig_3.png Graphic file (type png)
 <use image/mig_3.png>
-Package pdftex.def Info: image/mig_3.png  used on input line 3979.
+Package pdftex.def Info: image/mig_3.png  used on input line 4038.
 (pdftex.def)             Requested size: 205.1128pt x 151.69405pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<image/mig_4.png, id=1299, 782.925pt x 749.80125pt>
+<image/mig_4.png, id=1322, 782.925pt x 749.80125pt>
 File: image/mig_4.png Graphic file (type png)
 <use image/mig_4.png>
-Package pdftex.def Info: image/mig_4.png  used on input line 3988.
+Package pdftex.def Info: image/mig_4.png  used on input line 4047.
 (pdftex.def)             Requested size: 205.1128pt x 196.43106pt.
+[125 <./image/mig_0_2.png> <./image/mig_1.PNG>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[122 <./image/mig_0_2.png> <./image/mig_1.PNG>]
-<image/mig_5.png, id=1306, 777.65532pt x 749.04843pt>
+<image/mig_5.png, id=1330, 777.65532pt x 749.04843pt>
 File: image/mig_5.png Graphic file (type png)
 <use image/mig_5.png>
-Package pdftex.def Info: image/mig_5.png  used on input line 3999.
+Package pdftex.def Info: image/mig_5.png  used on input line 4058.
 (pdftex.def)             Requested size: 205.1128pt x 197.55966pt.
 
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<image/mig_6.png, id=1307, 779.91376pt x 919.93687pt>
+[126 <./image/mig_2.PNG> <./image/mig_3.PNG>]
+<image/mig_6.png, id=1339, 779.91376pt x 919.93687pt>
 File: image/mig_6.png Graphic file (type png)
 <use image/mig_6.png>
-Package pdftex.def Info: image/mig_6.png  used on input line 4010.
+Package pdftex.def Info: image/mig_6.png  used on input line 4069.
 (pdftex.def)             Requested size: 205.1128pt x 241.92921pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<image/mig_7.png, id=1308, 957.5775pt x 730.22812pt>
+<image/mig_7.png, id=1340, 957.5775pt x 730.22812pt>
 File: image/mig_7.png Graphic file (type png)
 <use image/mig_7.png>
-Package pdftex.def Info: image/mig_7.png  used on input line 4017.
+Package pdftex.def Info: image/mig_7.png  used on input line 4076.
 (pdftex.def)             Requested size: 205.1128pt x 156.41658pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[123 <./image/mig_2.PNG> <./image/mig_3.PNG>] [124 <./image/mig_4.PNG> <./image
-/mig_5.PNG>]
-Overfull \hbox (6.36168pt too wide) in paragraph at lines 4028--4029
+[127 <./image/mig_4.PNG> <./image/mig_5.PNG>] [128 <./image/mig_6.PNG> <./image
+/mig_7.PNG>]
+Overfull \hbox (6.36168pt too wide) in paragraph at lines 4087--4088
 \T2A/cmr/m/n/14.4 па-зон от 199 МГц до 201 МГц. Она нуж-на для так-ти-ро-ва-ния
  мо-ду-лей IDELAYCTRL
  []
 
-[125 <./image/mig_6.PNG> <./image/mig_7.PNG>]
-<image/mig_10.png, id=1332, 877.77937pt x 691.83469pt>
+<image/mig_10.png, id=1357, 877.77937pt x 691.83469pt>
 File: image/mig_10.png Graphic file (type png)
 <use image/mig_10.png>
-Package pdftex.def Info: image/mig_10.png  used on input line 4032.
+Package pdftex.def Info: image/mig_10.png  used on input line 4091.
 (pdftex.def)             Requested size: 256.3949pt x 202.08371pt.
-<image/mig_11.png, id=1333, 879.285pt x 877.02657pt>
+<image/mig_11.png, id=1358, 879.285pt x 877.02657pt>
 File: image/mig_11.png Graphic file (type png)
 <use image/mig_11.png>
-Package pdftex.def Info: image/mig_11.png  used on input line 4042.
+Package pdftex.def Info: image/mig_11.png  used on input line 4101.
 (pdftex.def)             Requested size: 256.3949pt x 255.73633pt.
 
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<image/mig_m_0.png, id=1334, 635.37375pt x 573.64313pt>
+[129 <./image/mig_10.PNG>]
+<image/mig_m_0.png, id=1365, 635.37375pt x 573.64313pt>
 File: image/mig_m_0.png Graphic file (type png)
 <use image/mig_m_0.png>
-Package pdftex.def Info: image/mig_m_0.png  used on input line 4051.
+Package pdftex.def Info: image/mig_m_0.png  used on input line 4110.
 (pdftex.def)             Requested size: 256.3949pt x 231.49265pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[126 <./image/mig_10.PNG>]
-<image/mig_m_1.png, id=1342, 1315.16344pt x 462.97969pt>
+ [130 <./image/mig_11.PNG> <./image/mig_m_0.PNG>]
+<image/mig_m_1.png, id=1373, 1315.16344pt x 462.97969pt>
 File: image/mig_m_1.png Graphic file (type png)
 <use image/mig_m_1.png>
-Package pdftex.def Info: image/mig_m_1.png  used on input line 4067.
+Package pdftex.def Info: image/mig_m_1.png  used on input line 4126.
 (pdftex.def)             Requested size: 256.3949pt x 90.25594pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[127 <./image/mig_11.PNG>]
-<image/mig_m_3.png, id=1348, 639.13782pt x 393.72093pt>
+<image/mig_m_3.png, id=1374, 639.13782pt x 393.72093pt>
 File: image/mig_m_3.png Graphic file (type png)
 <use image/mig_m_3.png>
-Package pdftex.def Info: image/mig_m_3.png  used on input line 4087.
+Package pdftex.def Info: image/mig_m_3.png  used on input line 4146.
 (pdftex.def)             Requested size: 256.3949pt x 157.94217pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[128 <./image/mig_m_0.PNG> <./image/mig_m_1.PNG>]
-<image/mig_m_4.png, id=1357, 1396.4672pt x 646.66594pt>
+[131 <./image/mig_m_1.PNG>]
+<image/mig_m_4.png, id=1381, 1396.4672pt x 646.66594pt>
 File: image/mig_m_4.png Graphic file (type png)
 <use image/mig_m_4.png>
-Package pdftex.def Info: image/mig_m_4.png  used on input line 4110.
+Package pdftex.def Info: image/mig_m_4.png  used on input line 4169.
 (pdftex.def)             Requested size: 256.3949pt x 118.72353pt.
-<image/mig_m_sdk_0.png, id=1358, 379.4175pt x 517.18219pt>
+<image/mig_m_sdk_0.png, id=1382, 379.4175pt x 517.18219pt>
 File: image/mig_m_sdk_0.png Graphic file (type png)
 <use image/mig_m_sdk_0.png>
-Package pdftex.def Info: image/mig_m_sdk_0.png  used on input line 4117.
+Package pdftex.def Info: image/mig_m_sdk_0.png  used on input line 4176.
 (pdftex.def)             Requested size: 256.3949pt x 349.49327pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<image/mig_m_sdk_1.png, id=1359, 379.4175pt x 512.66531pt>
+<image/mig_m_sdk_1.png, id=1383, 379.4175pt x 512.66531pt>
 File: image/mig_m_sdk_1.png Graphic file (type png)
 <use image/mig_m_sdk_1.png>
-Package pdftex.def Info: image/mig_m_sdk_1.png  used on input line 4124.
+Package pdftex.def Info: image/mig_m_sdk_1.png  used on input line 4183.
 (pdftex.def)             Requested size: 205.1128pt x 277.14804pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<image/mig_result.png, id=1360, 783.67781pt x 160.34906pt>
+<image/mig_result.png, id=1384, 783.67781pt x 160.34906pt>
 File: image/mig_result.png Graphic file (type png)
 <use image/mig_result.png>
-Package pdftex.def Info: image/mig_result.png  used on input line 4133.
+Package pdftex.def Info: image/mig_result.png  used on input line 4192.
 (pdftex.def)             Requested size: 256.3949pt x 52.46025pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[129 <./image/mig_m_3.PNG> <./image/mig_m_4.PNG>] [130 <./image/mig_m_sdk_0.PNG
->] [131 <./image/mig_m_sdk_1.PNG> <./image/mig_result.PNG>]
+[132 <./image/mig_m_3.PNG> <./image/mig_m_4.PNG>] [133 <./image/mig_m_sdk_0.PNG
+>] [134 <./image/mig_m_sdk_1.PNG> <./image/mig_result.PNG>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 8.
-[132
+[135
 
-] [133]
-<image/PCA9548.png, id=1393, 557.83406pt x 231.11343pt>
+] [136]
+<image/PCA9548.png, id=1417, 557.83406pt x 231.11343pt>
 File: image/PCA9548.png Graphic file (type png)
 <use image/PCA9548.png>
-Package pdftex.def Info: image/PCA9548.png  used on input line 4200.
+Package pdftex.def Info: image/PCA9548.png  used on input line 4259.
 (pdftex.def)             Requested size: 307.677pt x 127.476pt.
-<image/PCA9548_addr.png, id=1394, 491.58656pt x 97.86563pt>
+<image/PCA9548_addr.png, id=1418, 491.58656pt x 97.86563pt>
 File: image/PCA9548_addr.png Graphic file (type png)
 <use image/PCA9548_addr.png>
-Package pdftex.def Info: image/PCA9548_addr.png  used on input line 4232.
+Package pdftex.def Info: image/PCA9548_addr.png  used on input line 4291.
 (pdftex.def)             Requested size: 256.3949pt x 51.04572pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<image/PCA9548_CR.png, id=1395, 435.87843pt x 316.93407pt>
+<image/PCA9548_CR.png, id=1419, 435.87843pt x 316.93407pt>
 File: image/PCA9548_CR.png Graphic file (type png)
 <use image/PCA9548_CR.png>
-Package pdftex.def Info: image/PCA9548_CR.png  used on input line 4239.
+Package pdftex.def Info: image/PCA9548_CR.png  used on input line 4298.
 (pdftex.def)             Requested size: 256.3949pt x 186.4285pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[134 <./image/PCA9548.PNG>] [135 <./image/PCA9548_addr.PNG> <./image/PCA9548_CR
+[137 <./image/PCA9548.PNG>] [138 <./image/PCA9548_addr.PNG> <./image/PCA9548_CR
 .PNG>]
-<image/Si570.png, id=1411, 956.82469pt x 564.60938pt>
+<image/Si570.png, id=1436, 956.82469pt x 564.60938pt>
 File: image/Si570.png Graphic file (type png)
 <use image/Si570.png>
-Package pdftex.def Info: image/Si570.png  used on input line 4258.
+Package pdftex.def Info: image/Si570.png  used on input line 4317.
 (pdftex.def)             Requested size: 256.3949pt x 151.29211pt.
 
-Overfull \hbox (11.36502pt too wide) in paragraph at lines 4265--4266
+Overfull \hbox (11.36502pt too wide) in paragraph at lines 4324--4325
 \T2A/cmr/m/n/14.4 ра-то-ра c циф-ро-вым управ-ле-ни-ем $[][]$ и вы-ход-ных де-л
 и-те-лей устрой-ства ($[][][][][][]$,
  []
 
-<image/si570_0.png, id=1412, 660.96938pt x 149.8097pt>
+<image/si570_0.png, id=1437, 660.96938pt x 149.8097pt>
 File: image/si570_0.png Graphic file (type png)
 <use image/si570_0.png>
-Package pdftex.def Info: image/si570_0.png  used on input line 4275.
+Package pdftex.def Info: image/si570_0.png  used on input line 4334.
 (pdftex.def)             Requested size: 256.3949pt x 58.11465pt.
-[136 <./image/Si570.PNG> <./image/si570_0.PNG>] [137]
+[139 <./image/Si570.PNG> <./image/si570_0.PNG>] [140]
 
-LaTeX Warning: Command \CYRM invalid in math mode on input line 4305.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 4305.
+LaTeX Warning: Command \CYRM invalid in math mode on input line 4364.
 
 
-LaTeX Warning: Command \cyrc invalid in math mode on input line 4305.
-
-Missing character: There is no М in font cmr12!
-Missing character: There is no Г in font cmr12!
-Missing character: There is no ц in font cmr12!
-
-LaTeX Warning: Command \CYRM invalid in math mode on input line 4313.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 4364.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 4313.
-
-
-LaTeX Warning: Command \cyrc invalid in math mode on input line 4313.
+LaTeX Warning: Command \cyrc invalid in math mode on input line 4364.
 
 Missing character: There is no М in font cmr12!
 Missing character: There is no Г in font cmr12!
 Missing character: There is no ц in font cmr12!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 4319.
+LaTeX Warning: Command \CYRM invalid in math mode on input line 4372.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 4319.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 4372.
 
 
-LaTeX Warning: Command \cyrc invalid in math mode on input line 4319.
-
-Missing character: There is no Г in font cmr12!
-Missing character: There is no Г in font cmr12!
-Missing character: There is no ц in font cmr12!
-[138] [139]
-
-LaTeX Warning: Command \CYRM invalid in math mode on input line 4403.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 4403.
-
-
-LaTeX Warning: Command \cyrc invalid in math mode on input line 4403.
+LaTeX Warning: Command \cyrc invalid in math mode on input line 4372.
 
 Missing character: There is no М in font cmr12!
 Missing character: There is no Г in font cmr12!
 Missing character: There is no ц in font cmr12!
-[140]
 
-LaTeX Warning: Command \CYRM invalid in math mode on input line 4407.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 4407.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 4378.
 
 
-LaTeX Warning: Command \cyrc invalid in math mode on input line 4407.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 4378.
+
+
+LaTeX Warning: Command \cyrc invalid in math mode on input line 4378.
+
+Missing character: There is no Г in font cmr12!
+Missing character: There is no Г in font cmr12!
+Missing character: There is no ц in font cmr12!
+[141] [142]
+
+LaTeX Warning: Command \CYRM invalid in math mode on input line 4462.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 4462.
+
+
+LaTeX Warning: Command \cyrc invalid in math mode on input line 4462.
 
 Missing character: There is no М in font cmr12!
 Missing character: There is no Г in font cmr12!
 Missing character: There is no ц in font cmr12!
-<image/IIC_core_0.png, id=1467, 785.18344pt x 402.00188pt>
+[143]
+
+LaTeX Warning: Command \CYRM invalid in math mode on input line 4466.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 4466.
+
+
+LaTeX Warning: Command \cyrc invalid in math mode on input line 4466.
+
+Missing character: There is no М in font cmr12!
+Missing character: There is no Г in font cmr12!
+Missing character: There is no ц in font cmr12!
+<image/IIC_core_0.png, id=1491, 785.18344pt x 402.00188pt>
 File: image/IIC_core_0.png Graphic file (type png)
 <use image/IIC_core_0.png>
-Package pdftex.def Info: image/IIC_core_0.png  used on input line 4431.
+Package pdftex.def Info: image/IIC_core_0.png  used on input line 4490.
 (pdftex.def)             Requested size: 256.3949pt x 131.26859pt.
-(./fpga.bbl [141] [142 <./image/IIC_core_0.PNG>]) [143
+(./fpga.bbl [144] [145 <./image/IIC_core_0.PNG>]) [146
 
 ] (./fpga.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `fpga.out' has not changed.
-(rerunfilecheck)             Checksum: 21ADDC26EBFA10B1440216A2E6DCEF5F;14181.
+(rerunfilecheck)             Checksum: BD3B4054E75882FD2F4D73F64838EF2E;13902.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 40 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 47063 strings out of 475075
- 1093488 string characters out of 5783001
- 1866546 words of memory out of 5000000
- 67145 multiletter control sequences out of 15000+600000
+ 47113 strings out of 475075
+ 1094364 string characters out of 5783001
+ 1952016 words of memory out of 5000000
+ 67182 multiletter control sequences out of 15000+600000
  496255 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,20n,89p,1828b,4706s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2732,10 +2759,10 @@ blic/cm-super/sfrm1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-su
 per/sfrm1728.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm24
 88.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><c:
 /texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on fpga.pdf (144 pages, 5953639 bytes).
+Output written on fpga.pdf (147 pages, 6021921 bytes).
 PDF statistics:
- 1683 PDF objects out of 1728 (max. 8388607)
- 1291 compressed objects within 13 object streams
- 535 named destinations out of 1000 (max. 500000)
- 886 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1712 PDF objects out of 1728 (max. 8388607)
+ 1311 compressed objects within 14 object streams
+ 542 named destinations out of 1000 (max. 500000)
+ 888 words of extra memory for PDF output out of 10000 (max. 10000000)
 
