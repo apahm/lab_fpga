@@ -34,31 +34,31 @@
 \contentsline {section}{\numberline {6.3}Сигнал с линейной-частотной модуляцией}{116}{section.6.3}%
 \contentsline {section}{\numberline {6.4}Реализация свёртки сигналов с применением БПФ}{118}{section.6.4}%
 \contentsline {section}{\numberline {6.5}Практическая часть}{118}{section.6.5}%
-\contentsline {chapter}{\numberline {7}Лабораторная работа №7. Основы работы с интерфейсом Ethernet}{121}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Сетевая модель OSI}{121}{section.7.1}%
-\contentsline {section}{\numberline {7.2}IEEE 802.3}{121}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Структура пакета}{121}{section.7.3}%
-\contentsline {subsection}{\numberline {7.3.1}Общая структура Ethernet пакета}{121}{subsection.7.3.1}%
-\contentsline {subsection}{\numberline {7.3.2}Internet Protocol}{122}{subsection.7.3.2}%
-\contentsline {subsection}{\numberline {7.3.3}User Datagram Protocol}{128}{subsection.7.3.3}%
-\contentsline {subsection}{\numberline {7.3.4}Address Resolution Protocol}{131}{subsection.7.3.4}%
-\contentsline {section}{\numberline {7.4}Media-independent interface}{134}{section.7.4}%
-\contentsline {subsection}{\numberline {7.4.1}Gigabit Media-Independent Interface}{134}{subsection.7.4.1}%
-\contentsline {subsection}{\numberline {7.4.2}Reduced Gigabit Media-Independent Interface}{135}{subsection.7.4.2}%
-\contentsline {subsection}{\numberline {7.4.3}Serial Gigabit Media-Independent Interface}{137}{subsection.7.4.3}%
-\contentsline {section}{\numberline {7.5}Общая структура ядра}{137}{section.7.5}%
-\contentsline {section}{\numberline {7.6}Принцип работы отдельных модулей}{137}{section.7.6}%
-\contentsline {section}{\numberline {7.7}Тестирование ядра в симуляторе ISIM}{137}{section.7.7}%
-\contentsline {section}{\numberline {7.8}Тестирование ядра на практике}{137}{section.7.8}%
-\contentsline {subsection}{\numberline {7.8.1}Wireshark}{137}{subsection.7.8.1}%
-\contentsline {subsection}{\numberline {7.8.2}Сокеты ОС Unix}{137}{subsection.7.8.2}%
-\contentsline {subsection}{\numberline {7.8.3}Результаты тестирования}{137}{subsection.7.8.3}%
-\contentsline {chapter}{\numberline {8}Лабораторная работа №8. Программирование синтезатора частот с управлением по IIC}{138}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Интерфейс IIC}{138}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Организация шины IIC на плате VC707}{140}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Синтезатор частот Si570}{142}{section.8.3}%
-\contentsline {subsection}{\numberline {8.3.1}Программирование новой выходной частоты}{142}{subsection.8.3.1}%
-\contentsline {subsection}{\numberline {8.3.2}Перенастройка выходной частоты в малом диапазоне}{146}{subsection.8.3.2}%
-\contentsline {section}{\numberline {8.4}AXI IIC Bus Interface IP Core}{147}{section.8.4}%
-\contentsline {section}{\numberline {8.5}Проект в Vivado}{147}{section.8.5}%
-\contentsline {section}{\numberline {8.6}Проект в Xilinx SDK}{147}{section.8.6}%
+\contentsline {chapter}{\numberline {7}Лабораторная работа №7. Основы работы с интерфейсом Ethernet}{122}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Сетевая модель OSI}{122}{section.7.1}%
+\contentsline {section}{\numberline {7.2}IEEE 802.3}{122}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Структура пакета}{122}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Общая структура Ethernet пакета}{122}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}Internet Protocol}{123}{subsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.3.3}User Datagram Protocol}{129}{subsection.7.3.3}%
+\contentsline {subsection}{\numberline {7.3.4}Address Resolution Protocol}{132}{subsection.7.3.4}%
+\contentsline {section}{\numberline {7.4}Media-independent interface}{135}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Gigabit Media-Independent Interface}{135}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Reduced Gigabit Media-Independent Interface}{136}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7.4.3}Serial Gigabit Media-Independent Interface}{138}{subsection.7.4.3}%
+\contentsline {section}{\numberline {7.5}Общая структура ядра}{138}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Принцип работы отдельных модулей}{138}{section.7.6}%
+\contentsline {section}{\numberline {7.7}Тестирование ядра в симуляторе ISIM}{138}{section.7.7}%
+\contentsline {section}{\numberline {7.8}Тестирование ядра на практике}{138}{section.7.8}%
+\contentsline {subsection}{\numberline {7.8.1}Wireshark}{138}{subsection.7.8.1}%
+\contentsline {subsection}{\numberline {7.8.2}Сокеты ОС Unix}{138}{subsection.7.8.2}%
+\contentsline {subsection}{\numberline {7.8.3}Результаты тестирования}{138}{subsection.7.8.3}%
+\contentsline {chapter}{\numberline {8}Лабораторная работа №8. Программирование синтезатора частот с управлением по IIC}{139}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Интерфейс IIC}{139}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Организация шины IIC на плате VC707}{141}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Синтезатор частот Si570}{143}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}Программирование новой выходной частоты}{143}{subsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.3.2}Перенастройка выходной частоты в малом диапазоне}{147}{subsection.8.3.2}%
+\contentsline {section}{\numberline {8.4}AXI IIC Bus Interface IP Core}{148}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Проект в Vivado}{148}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Проект в Xilinx SDK}{148}{section.8.6}%

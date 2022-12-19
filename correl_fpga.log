@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.10)  11 DEC 2022 13:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  19 DEC 2022 16:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **correl_fpga.tex
 (./correl_fpga.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2022-11-02>
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-08-30>
 ! Undefined control sequence.
 l.1 \chapter
             {Лабораторная работа №6. Цифровая о...
@@ -624,37 +624,7 @@ Overfull \hbox (29.16443pt too wide) in paragraph at lines 1--2
  []
 
 ! Undefined control sequence.
-l.3 \subsection
-               {FIFO}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3 \subsection{F
-                 IFO}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no F in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no O in font nullfont!
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 3--4
-[] 
- []
-
-! Undefined control sequence.
-l.5 \section
+l.3 \section
             {Арифметика с плавающей точкой}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -670,7 +640,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \section{А
+l.3 \section{А
                рифметика с плавающей точкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -683,7 +653,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \section{Ар
+l.3 \section{Ар
                  ифметика с плавающей точкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -696,7 +666,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \section{Ари
+l.3 \section{Ари
                    фметика с плавающей точкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -709,7 +679,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \section{Ариф
+l.3 \section{Ариф
                      метика с плавающей точкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -722,7 +692,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \section{Арифм
+l.3 \section{Арифм
                        етика с плавающей точкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -735,7 +705,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \section{Арифме
+l.3 \section{Арифме
                          тика с плавающей точкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -748,7 +718,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \section{Арифмет
+l.3 \section{Арифмет
                            ика с плавающей точкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -761,7 +731,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \section{Арифмети
+l.3 \section{Арифмети
                              ка с плавающей точкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -774,7 +744,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \section{Арифметик
+l.3 \section{Арифметик
                                а с плавающей точкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -787,7 +757,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \section{Арифметика
+l.3 \section{Арифметика
                                   с плавающей точкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -800,7 +770,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \section{Арифметика с
+l.3 \section{Арифметика с
                                      плавающей точкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -813,7 +783,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \section{Арифметика с п
+l.3 \section{Арифметика с п
                                        лавающей точкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -826,7 +796,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \section{Арифметика с пл
+l.3 \section{Арифметика с пл
                                          авающей точкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -839,7 +809,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \section{Арифметика с пла
+l.3 \section{Арифметика с пла
                                            вающей точкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -852,7 +822,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \section{Арифметика с плав
+l.3 \section{Арифметика с плав
                                              ающей точкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -865,7 +835,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \section{Арифметика с плава
+l.3 \section{Арифметика с плава
                                                ющей точкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -878,7 +848,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \section{Арифметика с плаваю
+l.3 \section{Арифметика с плаваю
                                                  щей точкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -891,7 +861,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...tion{Арифметика с плавающ
+l.3 ...tion{Арифметика с плавающ
                                                   ей точкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -904,7 +874,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...on{Арифметика с плавающе
+l.3 ...on{Арифметика с плавающе
                                                   й точкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -917,7 +887,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...{Арифметика с плавающей
+l.3 ...{Арифметика с плавающей
                                                    точкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -930,7 +900,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...рифметика с плавающей т
+l.3 ...рифметика с плавающей т
                                                   очкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -943,7 +913,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...ифметика с плавающей то
+l.3 ...ифметика с плавающей то
                                                   чкой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -956,7 +926,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...фметика с плавающей точ
+l.3 ...фметика с плавающей точ
                                                   кой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -969,7 +939,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...метика с плавающей точк
+l.3 ...метика с плавающей точк
                                                   ой}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -982,7 +952,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...етика с плавающей точко
+l.3 ...етика с плавающей точко
                                                   й}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -995,7 +965,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...тика с плавающей точкой
+l.3 ...тика с плавающей точкой
                                                   }
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1007,7 +977,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.7 \begin{figure}
+l.5 \begin{figure}
                   [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1020,7 +990,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.7 \begin{figure}[
+l.5 \begin{figure}[
                    h]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1029,7 +999,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.9 	\includegraphics
+l.7 	\includegraphics
                      [width=0.9\textwidth]{image/axis_0.png}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1050,7 +1020,7 @@ Missing character: There is no 9 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.9 	\includegraphics[width=0.9\textwidth]
+l.7 	\includegraphics[width=0.9\textwidth]
                                           {image/axis_0.png}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1059,7 +1029,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.9 	\includegraphics[width=0.9\textwidth]
+l.7 	\includegraphics[width=0.9\textwidth]
                                           {image/axis_0.png}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -1082,17 +1052,17 @@ Missing character: There is no s in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.9 ...degraphics[width=0.9\textwidth]{image/axis_
+l.7 ...degraphics[width=0.9\textwidth]{image/axis_
                                                   0.png}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 9.
+(Font)              <7> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 9.
+(Font)              <5> on input line 7.
 ! Extra }, or forgotten $.
-l.9 ...hics[width=0.9\textwidth]{image/axis_0.png}
+l.7 ...hics[width=0.9\textwidth]{image/axis_0.png}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1107,8 +1077,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 	\caption
-              {Временная диаграмма работы интер...
+l.8 	\caption
+             {Временная диаграмма работы интер�...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1121,8 +1091,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 	\caption{В
-                 ременная диаграмма работы интер...
+l.8 	\caption{В
+                ременная диаграмма работы интер�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1135,8 +1105,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 	\caption{Вр
-                   еменная диаграмма работы интер...
+l.8 	\caption{Вр
+                  еменная диаграмма работы интер�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1149,8 +1119,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 	\caption{Вре
-                     менная диаграмма работы интер...
+l.8 	\caption{Вре
+                    менная диаграмма работы интер�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1163,8 +1133,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 	\caption{Врем
-                       енная диаграмма работы интер...
+l.8 	\caption{Врем
+                      енная диаграмма работы интер�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1177,8 +1147,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 	\caption{Време
-                         нная диаграмма работы интер...
+l.8 	\caption{Време
+                        нная диаграмма работы интер�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1191,8 +1161,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 	\caption{Времен
-                           ная диаграмма работы интер...
+l.8 	\caption{Времен
+                          ная диаграмма работы интер�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1205,8 +1175,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 	\caption{Временн
-                             ая диаграмма работы интер...
+l.8 	\caption{Временн
+                            ая диаграмма работы интер�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1219,8 +1189,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 	\caption{Временна
-                               я диаграмма работы интер...
+l.8 	\caption{Временна
+                              я диаграмма работы интер�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1233,8 +1203,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 	\caption{Временная
-                                  диаграмма работы интер...
+l.8 	\caption{Временная
+                                 диаграмма работы интер�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1247,8 +1217,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 	\caption{Временная д
-                                    иаграмма работы интер...
+l.8 	\caption{Временная д
+                                   иаграмма работы интер�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1261,8 +1231,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 	\caption{Временная ди
-                                      аграмма работы интер...
+l.8 	\caption{Временная ди
+                                     аграмма работы интер�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1275,8 +1245,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 	\caption{Временная диа
-                                        грамма работы интер...
+l.8 	\caption{Временная диа
+                                       грамма работы интер�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1289,8 +1259,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 	\caption{Временная диаг
-                                          рамма работы интер...
+l.8 	\caption{Временная диаг
+                                         рамма работы интер�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1303,8 +1273,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 	\caption{Временная диагр
-                                            амма работы интер...
+l.8 	\caption{Временная диагр
+                                           амма работы интер�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1317,8 +1287,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 	\caption{Временная диагра
-                                              мма работы интер...
+l.8 	\caption{Временная диагра
+                                             мма работы интер�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1331,8 +1301,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 	\caption{Временная диаграм
-                                                ма работы интер...
+l.8 	\caption{Временная диаграм
+                                               ма работы интер�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1345,8 +1315,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 	\caption{Временная диаграмм
-                                                  а работы интер...
+l.8 	\caption{Временная диаграмм
+                                                 а работы интер�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1359,7 +1329,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 ...tion{Временная диаграмма
+l.8 ...ption{Временная диаграмма
                                                    работы интерф...
 
 You may provide a definition with
@@ -1373,7 +1343,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 ...n{Временная диаграмма р
+l.8 ...on{Временная диаграмма р
                                                   аботы интерфе�...
 
 You may provide a definition with
@@ -1387,7 +1357,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 ...Временная диаграмма ра
+l.8 ...{Временная диаграмма ра
                                                   боты интерфей�...
 
 You may provide a definition with
@@ -1401,7 +1371,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 ...ременная диаграмма раб
+l.8 ...�ременная диаграмма раб
                                                   оты интерфейс�...
 
 You may provide a definition with
@@ -1415,7 +1385,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 ...еменная диаграмма рабо
+l.8 ...�еменная диаграмма рабо
                                                   ты интерфейса ...
 
 You may provide a definition with
@@ -1429,7 +1399,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 ...менная диаграмма работ
+l.8 ...�менная диаграмма работ
                                                   ы интерфейса AX...
 
 You may provide a definition with
@@ -1443,7 +1413,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 ...енная диаграмма работы
+l.8 ...�енная диаграмма работы
                                                    интерфейса AXI4...
 
 You may provide a definition with
@@ -1457,7 +1427,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 ...�ная диаграмма работы и
+l.8 ...нная диаграмма работы и
                                                   нтерфейса AXI4-St...
 
 You may provide a definition with
@@ -1471,7 +1441,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 ...�ая диаграмма работы ин
+l.8 ...ная диаграмма работы ин
                                                   терфейса AXI4-Stream}
 
 You may provide a definition with
@@ -1485,7 +1455,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 ...�я диаграмма работы инт
+l.8 ...ая диаграмма работы инт
                                                   ерфейса AXI4-Stream}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1498,7 +1468,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 ...� диаграмма работы инте
+l.8 ...я диаграмма работы инте
                                                   рфейса AXI4-Stream}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1511,7 +1481,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 ...диаграмма работы интер
+l.8 ... диаграмма работы интер
                                                   фейса AXI4-Stream}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1524,7 +1494,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 ...иаграмма работы интерф
+l.8 ...�иаграмма работы интерф
                                                   ейса AXI4-Stream}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1537,7 +1507,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 ...аграмма работы интерфе
+l.8 ...�аграмма работы интерфе
                                                   йса AXI4-Stream}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1550,7 +1520,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 ...грамма работы интерфей
+l.8 ...�грамма работы интерфей
                                                   са AXI4-Stream}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1563,7 +1533,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 ...рамма работы интерфейс
+l.8 ...�рамма работы интерфейс
                                                   а AXI4-Stream}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1576,7 +1546,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 ...амма работы интерфейса
+l.8 ...�амма работы интерфейса
                                                    AXI4-Stream}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1588,7 +1558,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 \end{figure}
+l.10 \end{figure}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1597,7 +1567,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.12 \end{figure}
+l.10 \end{figure}
                  
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1608,7 +1578,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.12 \end{figure}
+l.10 \end{figure}
                  
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1617,12 +1587,12 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 7--13
+Overfull \hbox (20.0pt too wide) in paragraph at lines 5--11
 []
  []
 
 
-Overfull \hbox (96.2292pt too wide) in paragraph at lines 7--13
+Overfull \hbox (96.2292pt too wide) in paragraph at lines 5--11
 []\OML/cmm/m/it/10 :png[][]$ 
  []
 
@@ -1633,7 +1603,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 A
+l.12 A
       XI4-Stream — это протокол, предназначенный...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -1658,7 +1628,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 AXI4-Stream — э
+l.12 AXI4-Stream — э
                        то протокол, предназначенный...
 
 You may provide a definition with
@@ -1672,7 +1642,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 AXI4-Stream — эт
+l.12 AXI4-Stream — эт
                          о протокол, предназначенный...
 
 You may provide a definition with
@@ -1686,7 +1656,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 AXI4-Stream — это
+l.12 AXI4-Stream — это
                             протокол, предназначенный...
 
 You may provide a definition with
@@ -1700,7 +1670,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 AXI4-Stream — это п
+l.12 AXI4-Stream — это п
                               ротокол, предназначенный...
 
 You may provide a definition with
@@ -1714,7 +1684,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 AXI4-Stream — это пр
+l.12 AXI4-Stream — это пр
                                 отокол, предназначенный...
 
 You may provide a definition with
@@ -1728,7 +1698,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 AXI4-Stream — это про
+l.12 AXI4-Stream — это про
                                   токол, предназначенный...
 
 You may provide a definition with
@@ -1742,7 +1712,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 AXI4-Stream — это прот
+l.12 AXI4-Stream — это прот
                                     окол, предназначенный...
 
 You may provide a definition with
@@ -1756,7 +1726,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 AXI4-Stream — это прото
+l.12 AXI4-Stream — это прото
                                       кол, предназначенный...
 
 You may provide a definition with
@@ -1770,7 +1740,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 AXI4-Stream — это проток
+l.12 AXI4-Stream — это проток
                                         ол, предназначенный...
 
 You may provide a definition with
@@ -1784,7 +1754,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 AXI4-Stream — это протоко
+l.12 AXI4-Stream — это протоко
                                           л, предназначенный...
 
 You may provide a definition with
@@ -1798,7 +1768,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 AXI4-Stream — это протокол
+l.12 AXI4-Stream — это протокол
                                             , предназначенный...
 
 You may provide a definition with
@@ -1813,7 +1783,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 AXI4-Stream — это протокол, п
+l.12 AXI4-Stream — это протокол, п
                                                 редназначенный...
 
 You may provide a definition with
@@ -1827,7 +1797,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 AXI4-Stream — это протокол, пр
+l.12 AXI4-Stream — это протокол, пр
                                                   едназначенный...
 
 You may provide a definition with
@@ -1841,7 +1811,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...Stream — это протокол, пре
+l.12 ...Stream — это протокол, пре
                                                   дназначенный �...
 
 You may provide a definition with
@@ -1855,7 +1825,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...ream — это протокол, пред
+l.12 ...ream — это протокол, пред
                                                   назначенный д�...
 
 You may provide a definition with
@@ -1869,7 +1839,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...am — это протокол, предн
+l.12 ...am — это протокол, предн
                                                   азначенный дл�...
 
 You may provide a definition with
@@ -1883,7 +1853,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ... — это протокол, предна
+l.12 ... — это протокол, предна
                                                   значенный для ...
 
 You may provide a definition with
@@ -1897,7 +1867,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�� это протокол, предназ
+l.12 ...�� это протокол, предназ
                                                   наченный для п...
 
 You may provide a definition with
@@ -1911,7 +1881,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ... это протокол, предназн
+l.12 ... это протокол, предназн
                                                   аченный для пе...
 
 You may provide a definition with
@@ -1925,7 +1895,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�то протокол, предназна
+l.12 ...�то протокол, предназна
                                                   ченный для пер...
 
 You may provide a definition with
@@ -1939,7 +1909,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�о протокол, предназнач
+l.12 ...�о протокол, предназнач
                                                   енный для пере...
 
 You may provide a definition with
@@ -1953,7 +1923,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...� протокол, предназначе
+l.12 ...� протокол, предназначе
                                                   нный для перед...
 
 You may provide a definition with
@@ -1967,7 +1937,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...протокол, предназначен
+l.12 ...протокол, предназначен
                                                   ный для переда...
 
 You may provide a definition with
@@ -1981,7 +1951,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...ротокол, предназначенн
+l.12 ...ротокол, предназначенн
                                                   ый для передач...
 
 You may provide a definition with
@@ -1995,7 +1965,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...отокол, предназначенны
+l.12 ...отокол, предназначенны
                                                   й для передачи...
 
 You may provide a definition with
@@ -2009,7 +1979,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...токол, предназначенный
+l.12 ...токол, предназначенный
                                                    для передачи �...
 
 You may provide a definition with
@@ -2023,7 +1993,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�кол, предназначенный д
+l.12 ...�кол, предназначенный д
                                                   ля передачи од...
 
 You may provide a definition with
@@ -2037,7 +2007,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�ол, предназначенный дл
+l.12 ...�ол, предназначенный дл
                                                   я передачи одн...
 
 You may provide a definition with
@@ -2051,7 +2021,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�л, предназначенный для
+l.12 ...�л, предназначенный для
                                                    передачи одно...
 
 You may provide a definition with
@@ -2065,7 +2035,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ..., предназначенный для п
+l.12 ..., предназначенный для п
                                                   ередачи однон�...
 
 You may provide a definition with
@@ -2079,7 +2049,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...предназначенный для пе
+l.12 ...предназначенный для пе
                                                   редачи однона�...
 
 You may provide a definition with
@@ -2093,7 +2063,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...редназначенный для пер
+l.12 ...редназначенный для пер
                                                   едачи однонап�...
 
 You may provide a definition with
@@ -2107,7 +2077,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...едназначенный для пере
+l.12 ...едназначенный для пере
                                                   дачи однонапр�...
 
 You may provide a definition with
@@ -2121,7 +2091,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...дназначенный для перед
+l.12 ...дназначенный для перед
                                                   ачи однонапра�...
 
 You may provide a definition with
@@ -2135,7 +2105,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...назначенный для переда
+l.12 ...назначенный для переда
                                                   чи однонаправ�...
 
 You may provide a definition with
@@ -2149,7 +2119,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...азначенный для передач
+l.12 ...азначенный для передач
                                                   и однонаправл�...
 
 You may provide a definition with
@@ -2163,7 +2133,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...значенный для передачи
+l.12 ...значенный для передачи
                                                    однонаправле�...
 
 You may provide a definition with
@@ -2177,7 +2147,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�аченный для передачи о
+l.12 ...�аченный для передачи о
                                                   днонаправленн...
 
 You may provide a definition with
@@ -2191,7 +2161,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�ченный для передачи од
+l.12 ...�ченный для передачи од
                                                   нонаправленны...
 
 You may provide a definition with
@@ -2205,7 +2175,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�енный для передачи одн
+l.12 ...�енный для передачи одн
                                                   онаправленных...
 
 You may provide a definition with
@@ -2219,7 +2189,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�нный для передачи одно
+l.12 ...�нный для передачи одно
                                                   направленных �...
 
 You may provide a definition with
@@ -2233,7 +2203,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�ный для передачи однон
+l.12 ...�ный для передачи однон
                                                   аправленных д�...
 
 You may provide a definition with
@@ -2247,7 +2217,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�ый для передачи однона
+l.12 ...�ый для передачи однона
                                                   правленных да�...
 
 You may provide a definition with
@@ -2261,7 +2231,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�й для передачи однонап
+l.12 ...�й для передачи однонап
                                                   равленных дан�...
 
 You may provide a definition with
@@ -2275,7 +2245,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...� для передачи однонапр
+l.12 ...� для передачи однонапр
                                                   авленных данн�...
 
 You may provide a definition with
@@ -2289,7 +2259,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...для передачи однонапра
+l.12 ...для передачи однонапра
                                                   вленных данны�...
 
 You may provide a definition with
@@ -2303,7 +2273,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...ля передачи однонаправ
+l.12 ...ля передачи однонаправ
                                                   ленных данных(...
 
 You may provide a definition with
@@ -2317,7 +2287,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...я передачи однонаправл
+l.12 ...я передачи однонаправл
                                                   енных данных(с...
 
 You may provide a definition with
@@ -2331,7 +2301,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ... передачи однонаправле
+l.12 ... передачи однонаправле
                                                   нных данных(см...
 
 You may provide a definition with
@@ -2345,7 +2315,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�ередачи однонаправлен
+l.12 ...�ередачи однонаправлен
                                                   ных данных(см.�...
 
 You may provide a definition with
@@ -2359,7 +2329,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�редачи однонаправленн
+l.12 ...�редачи однонаправленн
                                                   ых данных(см.р�...
 
 You may provide a definition with
@@ -2373,7 +2343,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�едачи однонаправленны
+l.12 ...�едачи однонаправленны
                                                   х данных(см.ри�...
 
 You may provide a definition with
@@ -2387,7 +2357,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�дачи однонаправленных
+l.12 ...�дачи однонаправленных
                                                    данных(см.рис....
 
 You may provide a definition with
@@ -2401,7 +2371,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...ачи однонаправленных д
+l.12 ...ачи однонаправленных д
                                                   анных(см.рис.~\r...
 
 You may provide a definition with
@@ -2415,7 +2385,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...чи однонаправленных да
+l.12 ...чи однонаправленных да
                                                   нных(см.рис.~\ref...
 
 You may provide a definition with
@@ -2429,7 +2399,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...и однонаправленных дан
+l.12 ...и однонаправленных дан
                                                   ных(см.рис.~\ref{a...
 
 You may provide a definition with
@@ -2443,7 +2413,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ... однонаправленных данн
+l.12 ... однонаправленных данн
                                                   ых(см.рис.~\ref{axi...
 
 You may provide a definition with
@@ -2457,7 +2427,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�днонаправленных данны
+l.12 ...�днонаправленных данны
                                                   х(см.рис.~\ref{axis}...
 
 You may provide a definition with
@@ -2471,7 +2441,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�нонаправленных данных
+l.12 ...�нонаправленных данных
                                                   (см.рис.~\ref{axis})....
 
 You may provide a definition with
@@ -2486,7 +2456,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...онаправленных данных(с
+l.12 ...онаправленных данных(с
                                                   м.рис.~\ref{axis}). В...
 
 You may provide a definition with
@@ -2500,7 +2470,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...направленных данных(см
+l.12 ...направленных данных(см
                                                   .рис.~\ref{axis}). В A...
 
 You may provide a definition with
@@ -2515,7 +2485,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�правленных данных(см.р
+l.12 ...�правленных данных(см.р
                                                   ис.~\ref{axis}). В AXI4...
 
 You may provide a definition with
@@ -2529,7 +2499,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�равленных данных(см.ри
+l.12 ...�равленных данных(см.ри
                                                   с.~\ref{axis}). В AXI4-S...
 
 You may provide a definition with
@@ -2543,7 +2513,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�авленных данных(см.рис
+l.12 ...�авленных данных(см.рис
                                                   .~\ref{axis}). В AXI4-Str...
 
 You may provide a definition with
@@ -2553,7 +2523,7 @@ Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
 <write> ...ing: Reference `axis' on page \thepage 
                                                   \space undefined\on@line .
-l.14 ...�ых данных(см.рис.~\ref{axis}
+l.12 ...�ых данных(см.рис.~\ref{axis}
                                                   ). В AXI4-Stream биты...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2562,7 +2532,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `axis' on page  undefined on input line 14.
+LaTeX Warning: Reference `axis' on page  undefined on input line 12.
 
 Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
@@ -2574,7 +2544,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ... данных(см.рис.~\ref{axis}). В
+l.12 ... данных(см.рис.~\ref{axis}). В
                                                    AXI4-Stream биты ши...
 
 You may provide a definition with
@@ -2599,7 +2569,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�м.рис.~\ref{axis}). В AXI4-Stream б
+l.12 ...�м.рис.~\ref{axis}). В AXI4-Stream б
                                                   иты ширины TDATA ...
 
 You may provide a definition with
@@ -2613,7 +2583,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�.рис.~\ref{axis}). В AXI4-Stream би
+l.12 ...�.рис.~\ref{axis}). В AXI4-Stream би
                                                   ты ширины TDATA п...
 
 You may provide a definition with
@@ -2627,7 +2597,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...рис.~\ref{axis}). В AXI4-Stream бит
+l.12 ...рис.~\ref{axis}). В AXI4-Stream бит
                                                   ы ширины TDATA пе...
 
 You may provide a definition with
@@ -2641,7 +2611,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...ис.~\ref{axis}). В AXI4-Stream биты
+l.12 ...ис.~\ref{axis}). В AXI4-Stream биты
                                                    ширины TDATA пер...
 
 You may provide a definition with
@@ -2655,7 +2625,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�.~\ref{axis}). В AXI4-Stream биты ш
+l.12 ...�.~\ref{axis}). В AXI4-Stream биты ш
                                                   ирины TDATA пере�...
 
 You may provide a definition with
@@ -2669,7 +2639,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...~\ref{axis}). В AXI4-Stream биты ши
+l.12 ...~\ref{axis}). В AXI4-Stream биты ши
                                                   рины TDATA перед�...
 
 You may provide a definition with
@@ -2683,7 +2653,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...ref{axis}). В AXI4-Stream биты шир
+l.12 ...ref{axis}). В AXI4-Stream биты шир
                                                   ины TDATA переда�...
 
 You may provide a definition with
@@ -2697,7 +2667,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...f{axis}). В AXI4-Stream биты шири
+l.12 ...f{axis}). В AXI4-Stream биты шири
                                                   ны TDATA передаю�...
 
 You may provide a definition with
@@ -2711,7 +2681,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...axis}). В AXI4-Stream биты ширин
+l.12 ...axis}). В AXI4-Stream биты ширин
                                                   ы TDATA передают�...
 
 You may provide a definition with
@@ -2725,7 +2695,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...is}). В AXI4-Stream биты ширины
+l.12 ...is}). В AXI4-Stream биты ширины
                                                    TDATA передаютс�...
 
 You may provide a definition with
@@ -2744,7 +2714,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...AXI4-Stream биты ширины TDATA п
+l.12 ...AXI4-Stream биты ширины TDATA п
                                                   ередаются за т...
 
 You may provide a definition with
@@ -2758,7 +2728,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...I4-Stream биты ширины TDATA пе
+l.12 ...I4-Stream биты ширины TDATA пе
                                                   редаются за та...
 
 You may provide a definition with
@@ -2772,7 +2742,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...-Stream биты ширины TDATA пер
+l.12 ...-Stream биты ширины TDATA пер
                                                   едаются за так...
 
 You may provide a definition with
@@ -2786,7 +2756,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...tream биты ширины TDATA пере
+l.12 ...tream биты ширины TDATA пере
                                                   даются за такт...
 
 You may provide a definition with
@@ -2800,7 +2770,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...eam биты ширины TDATA перед
+l.12 ...eam биты ширины TDATA перед
                                                   аются за такт. ...
 
 You may provide a definition with
@@ -2814,7 +2784,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...m биты ширины TDATA переда
+l.12 ...m биты ширины TDATA переда
                                                   ются за такт. П...
 
 You may provide a definition with
@@ -2828,7 +2798,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...биты ширины TDATA передаю
+l.12 ...биты ширины TDATA передаю
                                                   тся за такт. Пе...
 
 You may provide a definition with
@@ -2842,7 +2812,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...иты ширины TDATA передают
+l.12 ...иты ширины TDATA передают
                                                   ся за такт. Пер...
 
 You may provide a definition with
@@ -2856,7 +2826,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...ты ширины TDATA передаютс
+l.12 ...ты ширины TDATA передаютс
                                                   я за такт. Пере...
 
 You may provide a definition with
@@ -2870,7 +2840,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...ы ширины TDATA передаются
+l.12 ...ы ширины TDATA передаются
                                                    за такт. Перед...
 
 You may provide a definition with
@@ -2884,7 +2854,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...ширины TDATA передаются з
+l.12 ...ширины TDATA передаются з
                                                   а такт. Переда�...
 
 You may provide a definition with
@@ -2898,7 +2868,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...ирины TDATA передаются за
+l.12 ...ирины TDATA передаются за
                                                    такт. Передач�...
 
 You may provide a definition with
@@ -2912,7 +2882,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�ины TDATA передаются за т
+l.12 ...�ины TDATA передаются за т
                                                   акт. Передача �...
 
 You may provide a definition with
@@ -2926,7 +2896,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�ны TDATA передаются за та
+l.12 ...�ны TDATA передаются за та
                                                   кт. Передача н�...
 
 You may provide a definition with
@@ -2940,7 +2910,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...�ы TDATA передаются за так
+l.12 ...�ы TDATA передаются за так
                                                   т. Передача на�...
 
 You may provide a definition with
@@ -2954,7 +2924,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...� TDATA передаются за такт
+l.12 ...� TDATA передаются за такт
                                                   . Передача нач�...
 
 You may provide a definition with
@@ -2969,7 +2939,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...ATA передаются за такт. П
+l.12 ...ATA передаются за такт. П
                                                   ередача начин�...
 
 You may provide a definition with
@@ -2983,7 +2953,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...A передаются за такт. Пе
+l.12 ...A передаются за такт. Пе
                                                   редача начина�...
 
 You may provide a definition with
@@ -2997,7 +2967,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...передаются за такт. Пер
+l.12 ...передаются за такт. Пер
                                                   едача начинае�...
 
 You may provide a definition with
@@ -3011,7 +2981,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...ередаются за такт. Пере
+l.12 ...ередаются за такт. Пере
                                                   дача начинает�...
 
 You may provide a definition with
@@ -3025,7 +2995,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...редаются за такт. Перед
+l.12 ...редаются за такт. Перед
                                                   ача начинаетс�...
 
 You may provide a definition with
@@ -3039,7 +3009,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...едаются за такт. Переда
+l.12 ...едаются за такт. Переда
                                                   ча начинается,...
 
 You may provide a definition with
@@ -3053,16 +3023,16 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...даются за такт. Передач
+l.12 ...даются за такт. Передач
                                                   а начинается, �...
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 60 strings out of 474968
- 854 string characters out of 5776088
- 342107 words of memory out of 5000000
- 21663 multiletter control sequences out of 15000+600000
+ 60 strings out of 475075
+ 854 string characters out of 5783001
+ 340267 words of memory out of 5000000
+ 21556 multiletter control sequences out of 15000+600000
  469902 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 18i,2n,14p,1198b,92s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 18i,2n,14p,1198b,91s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 !  ==> Fatal error occurred, no output PDF file produced!

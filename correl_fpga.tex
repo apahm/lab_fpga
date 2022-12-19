@@ -122,6 +122,8 @@ AXI4-Stream — это протокол, предназначенный для �
             ]
             \addplot table {Synopsis/data/third-party/lfm_im.dat};
             \addlegendentry{Q(t)};
+            \addplot table {Synopsis/data/third-party/lfm_re.dat};
+            \addlegendentry{I(t)};
         \end{axis}
     \end{tikzpicture}
     \caption{Квадратурная составляющая ЛЧМ сигнала}
@@ -141,12 +143,14 @@ AXI4-Stream — это протокол, предназначенный для �
             ylabel={Амплитуда, отсчётов},
             legend pos = south east
             ]
-            \addplot table {Synopsis/data/third-party/lfm_re.dat};
+            \addplot table {Synopsis/data/third-party/lfm_shift_im.dat};
+            \addlegendentry{Q(t)};
+            \addplot table {Synopsis/data/third-party/lfm_shift_re.dat};
             \addlegendentry{I(t)};
         \end{axis}
     \end{tikzpicture}
-    \caption{Синфазная составляющая ЛЧМ сигнала}
-    \label{fig:chirp_i}
+    \caption{Квадратурная составляющая ЛЧМ сигнала}
+    \label{fig:chirp_q}
 \end{figure}
 
 \begin{figure}[h]
@@ -162,12 +166,28 @@ AXI4-Stream — это протокол, предназначенный для �
             ylabel={Амплитуда, отсчётов},
             legend pos = south east
             ]
-            \addplot table {Synopsis/data/third-party/fft.dat};
-            \addlegendentry{БПФ};
+            \addplot table {Synopsis/data/third-party/correl_re.dat};
+            \addlegendentry{I(t)};
+			\addplot table {Synopsis/data/third-party/correl_im.dat};
+            \addlegendentry{I(t)};
         \end{axis}
     \end{tikzpicture}
-    \caption{БПФ ЛЧМ сигнала}
-    \label{fig:chirp_fft}
+    \caption{Синфазная составляющая ЛЧМ сигнала}
+    \label{fig:chirp_i}
+\end{figure}
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.5\textwidth]{image/result_conv.png}
+	\caption{Временная диаграмма работы интерфейса AXI4-Stream}
+	\label{fft_result}
+\end{figure}
+	
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.5\textwidth]{image/lfm.png}
+	\caption{Временная диаграмма работы интерфейса AXI4-Stream}
+	\label{fft_detailed_implem}
 \end{figure}
 
 \section{Реализация свёртки сигналов с применением БПФ}
