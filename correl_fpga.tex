@@ -41,7 +41,76 @@ AXI4-Stream — это протокол, предназначенный для �
 
 \section{Быстрое преобразование Фурье}
 	Выражение для дискретного преобразования Фурье имеет следующий вид:
+
+\begin{align*}
+f[k] &= \sum_{j=0}^{N-1} x[j]\left(e^{-2\pi i k/N}\right)^j\\
+0 &\leq k < N
+\end{align*}
+
+\begin{figure}[h]
+    \centering
+    \noindent
+	\begin{tikzpicture}% Example:
+	  \draw[fill=white, draw=white] (-0.5, 0.7) rectangle (8, -7.7); 
+	  \draw (0,0) node {$x[0]$};
+	  \draw (0,-1) node {$x[2]$} ;
+	  \draw (0,-2) node {$x[4]$} ;
+	  \draw (0,-3) node {$x[6]$} ;
 	
+	  \draw (0,-4) node {$x[1]$} ;
+	  \draw (0,-5) node {$x[3]$} ;
+	  \draw (0,-6) node {$x[5]$} ;
+	  \draw (0,-7) node {$x[7]$} ;
+	
+	  % arrow on the right of x's
+	  \foreach \n in {0,...,7} {
+	    \draw (0.5,-\n) circle(0.05)[fill=white]; 
+	    \draw [-latex] (0.55,-\n) -- (1, -\n); 
+	    \draw (1, -\n) -- (1.4, -\n); 
+	  }
+	
+	  % blocks
+	  \draw(1.4, 0.3) rectangle (4, -3.3); 
+	  \draw(1.4, -3.7) rectangle (4, -7.3); 
+	  \draw(2.7, -1.5) node[text centered, text width=2cm] {$N/2$-point DFT};
+	  \draw(2.7, -5.5) node[text centered, text width=2cm] {$N/2$-point DFT};
+	
+	  % E's and O's 
+	  \foreach \n in {0,...,7} {
+	    \draw [-latex] (4,-\n) -- (4.95, -\n); 
+	    \draw (5,-\n) circle(0.05)[fill=white]; 
+	  }
+	  \foreach \n in {0,...,3} {
+	    \draw (4.9,-\n + 0.3) node {$E[\n]$};
+	  }
+	  \foreach \n in {0,...,3} {
+	    \draw (4.9,-\n - 4 - 0.3) node {$O[\n]$};
+	  }
+	
+	  % X's 
+	  \foreach \n in {0,...,7} {
+	    \draw (7,-\n) circle(0.05)[fill=white]; 
+	    \draw (7.5,-\n) node {$X[\n]$};
+	  }
+	
+	  % Connecting X and E
+	  \foreach \n in {0,...,7} {
+	    \draw [-latex] (5.05, -\n) -- (6.95, -\n);
+	  }
+	  \foreach \n in {0,...,3} {
+	    \draw [-latex] (5.05, -\n) -- (6.95, -\n - 4);
+	  }
+	  \foreach \n in {0,...,3} {
+	    \draw [-latex] (5.05, -\n-4) -- (6.95, -\n);
+	  }
+	
+	  % W's
+	  \foreach \n in {0,...,7} {
+	    \draw (7.1,-\n - 0.3) node {\scriptsize $W_N^{\n}$};
+	  }
+	\end{tikzpicture}
+\end{figure}
+
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.5\textwidth]{image/fft_config.png}
@@ -176,21 +245,20 @@ AXI4-Stream — это протокол, предназначенный для �
     \label{fig:chirp_i}
 \end{figure}
 
+
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.5\textwidth]{image/result_conv.png}
+	\includegraphics[width=0.5\textwidth]{image/lfm_sim.png}
 	\caption{Временная диаграмма работы интерфейса AXI4-Stream}
 	\label{fft_result}
 \end{figure}
 	
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.5\textwidth]{image/lfm.png}
+	\includegraphics[width=0.5\textwidth]{image/conv_sim.png}
 	\caption{Временная диаграмма работы интерфейса AXI4-Stream}
 	\label{fft_detailed_implem}
 \end{figure}
-
-\section{Реализация свёртки сигналов с применением БПФ}
 
 \section{Практическая часть}
 
