@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  21 DEC 2022 15:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  22 DEC 2022 13:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1596,6 +1596,9 @@ LaTeX Warning: Label `full_adder' multiply defined.
 LaTeX Warning: Label `fig:chirp_q' multiply defined.
 
 
+LaTeX Warning: Label `fig:chirp_q' multiply defined.
+
+
 LaTeX Warning: Label `fft_detailed_implem' multiply defined.
 
 ) (./ethernet_fpga.aux
@@ -2450,6 +2453,13 @@ Missing character: There is no ; in font nullfont!
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+PGFPlots: reading {Synopsis/data/third-party/lfm_shift_noise_im.dat}
+Missing character: There is no ; in font nullfont!
+PGFPlots: reading {Synopsis/data/third-party/lfm_shift_noise_re.dat}
+Missing character: There is no ; in font nullfont!
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 PGFPlots: reading {Synopsis/data/third-party/correl_re.dat}
 Missing character: There is no ; in font nullfont!
 PGFPlots: reading {Synopsis/data/third-party/correl_im.dat}
@@ -2457,34 +2467,35 @@ Missing character: There is no ; in font nullfont!
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<image/lfm_sim.png, id=1288, 1836.10968pt x 338.01282pt>
-File: image/lfm_sim.png Graphic file (type png)
-<use image/lfm_sim.png>
-Package pdftex.def Info: image/lfm_sim.png  used on input line 251.
-(pdftex.def)             Requested size: 256.3949pt x 47.19768pt.
+<image/lfm_with_noise.png, id=1288, 1172.88188pt x 639.89063pt>
+File: image/lfm_with_noise.png Graphic file (type png)
+<use image/lfm_with_noise.png>
+Package pdftex.def Info: image/lfm_with_noise.png  used on input line 274.
+(pdftex.def)             Requested size: 256.3949pt x 139.87808pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<image/conv_sim.png, id=1289, 1824.06468pt x 338.01282pt>
-File: image/conv_sim.png Graphic file (type png)
-<use image/conv_sim.png>
-Package pdftex.def Info: image/conv_sim.png  used on input line 258.
-(pdftex.def)             Requested size: 256.3949pt x 47.5123pt.
+<image/correl_with_noise.png, id=1289, 1819.5478pt x 639.89063pt>
+File: image/correl_with_noise.png Graphic file (type png)
+<use image/correl_with_noise.png>
+Package pdftex.def Info: image/correl_with_noise.png  used on input line 281.
+(pdftex.def)             Requested size: 256.3949pt x 90.16014pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 ) [117] [118 <./image/fft_config.PNG>] [119 <./image/fft_implemetation.PNG>]
-[120] [121 <./image/lfm_sim.PNG> <./image/conv_sim.PNG>]
+[120] [121 <./image/lfm_with_noise.PNG>] [122 <./image/correl_with_noise.PNG>]
 \openout2 = `ethernet_fpga.aux'.
 
- (./ethernet_fpga.tex
+
+(./ethernet_fpga.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 7.
-<image/Ethernet_frame.png, id=1333, 1927.2pt x 237.88875pt>
+<image/Ethernet_frame.png, id=1338, 1927.2pt x 237.88875pt>
 File: image/Ethernet_frame.png Graphic file (type png)
 <use image/Ethernet_frame.png>
 Package pdftex.def Info: image/Ethernet_frame.png  used on input line 12.
 (pdftex.def)             Requested size: 461.50769pt x 56.9674pt.
-[122
+[123
 
 
 
@@ -2495,35 +2506,35 @@ Overfull \hbox (0.26758pt too wide) in paragraph at lines 28--30
 -то-ко-лов TCP/IP. Функ-
  []
 
-<image/IP.png, id=1343, 904.37875pt x 161.60374pt>
+<image/IP.png, id=1348, 904.37875pt x 161.60374pt>
 File: image/IP.png Graphic file (type png)
 <use image/IP.png>
 Package pdftex.def Info: image/IP.png  used on input line 33.
 (pdftex.def)             Requested size: 461.50769pt x 82.46613pt.
-[123]
-<image/IP-Protocol.png, id=1353, 1059.96pt x 231.86626pt>
+[124]
+<image/IP-Protocol.png, id=1358, 1059.96pt x 231.86626pt>
 File: image/IP-Protocol.png Graphic file (type png)
 <use image/IP-Protocol.png>
 Package pdftex.def Info: image/IP-Protocol.png  used on input line 40.
 (pdftex.def)             Requested size: 461.50769pt x 100.95653pt.
- [124 <./image/IP.png> <./image/IP-Protocol.png>] [125] [126]
-<image/check.png, id=1385, 306.14375pt x 134.5025pt>
+ [125 <./image/IP.png> <./image/IP-Protocol.png>] [126] [127]
+<image/check.png, id=1390, 306.14375pt x 134.5025pt>
 File: image/check.png Graphic file (type png)
 <use image/check.png>
 Package pdftex.def Info: image/check.png  used on input line 94.
 (pdftex.def)             Requested size: 205.1128pt x 90.11414pt.
- [127 <./image/check.png>] [128]
-<image/UDP.png, id=1405, 501.875pt x 150.5625pt>
+ [128 <./image/check.png>] [129]
+<image/UDP.png, id=1410, 501.875pt x 150.5625pt>
 File: image/UDP.png Graphic file (type png)
 <use image/UDP.png>
 Package pdftex.def Info: image/UDP.png  used on input line 153.
 (pdftex.def)             Requested size: 461.50769pt x 138.45943pt.
-<image/udp.png, id=1406, 501.875pt x 150.5625pt>
+<image/udp.png, id=1411, 501.875pt x 150.5625pt>
 File: image/udp.png Graphic file (type png)
 <use image/udp.png>
 Package pdftex.def Info: image/udp.png  used on input line 160.
 (pdftex.def)             Requested size: 307.677pt x 92.30705pt.
-<image/example_UDP.png, id=1407, 798.985pt x 647.41875pt>
+<image/example_UDP.png, id=1412, 798.985pt x 647.41875pt>
 File: image/example_UDP.png Graphic file (type png)
 <use image/example_UDP.png>
 Package pdftex.def Info: image/example_UDP.png  used on input line 167.
@@ -2532,8 +2543,8 @@ Package pdftex.def Info: image/example_UDP.png  used on input line 167.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[129 <./image/udp.png> <./image/udp.png>] [130 <./image/example_UDP.png>]
-<image/pheader.png, id=1422, 406.51875pt x 229.85875pt>
+[130 <./image/udp.png> <./image/udp.png>] [131 <./image/example_UDP.png>]
+<image/pheader.png, id=1427, 406.51875pt x 229.85875pt>
 File: image/pheader.png Graphic file (type png)
 <use image/pheader.png>
 Package pdftex.def Info: image/pheader.png  used on input line 185.
@@ -2542,30 +2553,30 @@ Package pdftex.def Info: image/pheader.png  used on input line 185.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<image/ARP.png, id=1423, 712.6625pt x 215.80624pt>
+<image/ARP.png, id=1428, 712.6625pt x 215.80624pt>
 File: image/ARP.png Graphic file (type png)
 <use image/ARP.png>
 Package pdftex.def Info: image/ARP.png  used on input line 196.
 (pdftex.def)             Requested size: 461.50769pt x 139.7521pt.
-[131]
-<image/arp.png, id=1428, 712.6625pt x 215.80624pt>
+[132]
+<image/arp.png, id=1434, 712.6625pt x 215.80624pt>
 File: image/arp.png Graphic file (type png)
 <use image/arp.png>
 Package pdftex.def Info: image/arp.png  used on input line 205.
 (pdftex.def)             Requested size: 461.50769pt x 139.7521pt.
- [132 <./image/pheader.png> <./image/arp.png>]
+ [133 <./image/pheader.png> <./image/arp.png>]
 Overfull \hbox (8.83353pt too wide) in paragraph at lines 215--216
 []\T2A/cmr/m/n/14.4 Hardware length (HLEN) - дли-на фи-зи-че-ско-го ад-ре-са в 
 бай-тах. Ад-ре-са Ethernet
  []
 
-[133 <./image/arp.png>]
-<image/arp2.png, id=1454, 704.6325pt x 231.86626pt>
+[134 <./image/arp.png>]
+<image/arp2.png, id=1459, 704.6325pt x 231.86626pt>
 File: image/arp2.png Graphic file (type png)
 <use image/arp2.png>
 Package pdftex.def Info: image/arp2.png  used on input line 228.
 (pdftex.def)             Requested size: 461.50769pt x 151.86465pt.
-<image/arp1.png, id=1455, 705.63625pt x 232.87pt>
+<image/arp1.png, id=1460, 705.63625pt x 232.87pt>
 File: image/arp1.png Graphic file (type png)
 <use image/arp1.png>
 Package pdftex.def Info: image/arp1.png  used on input line 239.
@@ -2574,46 +2585,46 @@ Package pdftex.def Info: image/arp1.png  used on input line 239.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[134 <./image/arp2.png>]
-<image/GMII_transaction.png, id=1462, 695.59875pt x 278.03876pt>
+[135 <./image/arp2.png>]
+<image/GMII_transaction.png, id=1467, 695.59875pt x 278.03876pt>
 File: image/GMII_transaction.png Graphic file (type png)
 <use image/GMII_transaction.png>
 Package pdftex.def Info: image/GMII_transaction.png  used on input line 253.
 (pdftex.def)             Requested size: 461.50769pt x 184.4692pt.
-<image/GMII_RX.png, id=1463, 694.595pt x 219.82124pt>
+<image/GMII_RX.png, id=1468, 694.595pt x 219.82124pt>
 File: image/GMII_RX.png Graphic file (type png)
 <use image/GMII_RX.png>
 Package pdftex.def Info: image/GMII_RX.png  used on input line 260.
 (pdftex.def)             Requested size: 461.50769pt x 146.05853pt.
- [135 <./image/arp1.png> <./image/GMII_transaction.png>] [136 <./image/GMII_RX.
+ [136 <./image/arp1.png> <./image/GMII_transaction.png>] [137 <./image/GMII_RX.
 png>]
-<image/TX_RGMII.png, id=1480, 685.56125pt x 344.28625pt>
+<image/TX_RGMII.png, id=1485, 685.56125pt x 344.28625pt>
 File: image/TX_RGMII.png Graphic file (type png)
 <use image/TX_RGMII.png>
 Package pdftex.def Info: image/TX_RGMII.png  used on input line 282.
 (pdftex.def)             Requested size: 410.2334pt x 206.02173pt.
-<image/RX_RGMII.png, id=1481, 685.56125pt x 343.2825pt>
+<image/RX_RGMII.png, id=1486, 685.56125pt x 343.2825pt>
 File: image/RX_RGMII.png Graphic file (type png)
 <use image/RX_RGMII.png>
 Package pdftex.def Info: image/RX_RGMII.png  used on input line 289.
 (pdftex.def)             Requested size: 410.2334pt x 205.42108pt.
- [137 <./image/TX_RGMII.png> <./image/RX_RGMII.png>]) [138]
+ [138 <./image/TX_RGMII.png> <./image/RX_RGMII.png>]) [139]
 \openout2 = `synth_iic_fpga.aux'.
 
  (./synth_iic_fpga.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 8.
-[139
+[140
 
 
 
 
-] [140]
-<image/PCA9548.png, id=1504, 557.83406pt x 231.11343pt>
+] [141]
+<image/PCA9548.png, id=1509, 557.83406pt x 231.11343pt>
 File: image/PCA9548.png Graphic file (type png)
 <use image/PCA9548.png>
 Package pdftex.def Info: image/PCA9548.png  used on input line 57.
 (pdftex.def)             Requested size: 307.677pt x 127.476pt.
-<image/PCA9548_addr.png, id=1505, 491.58656pt x 97.86563pt>
+<image/PCA9548_addr.png, id=1510, 491.58656pt x 97.86563pt>
 File: image/PCA9548_addr.png Graphic file (type png)
 <use image/PCA9548_addr.png>
 Package pdftex.def Info: image/PCA9548_addr.png  used on input line 89.
@@ -2622,7 +2633,7 @@ Package pdftex.def Info: image/PCA9548_addr.png  used on input line 89.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<image/PCA9548_CR.png, id=1506, 435.87843pt x 316.93407pt>
+<image/PCA9548_CR.png, id=1511, 435.87843pt x 316.93407pt>
 File: image/PCA9548_CR.png Graphic file (type png)
 <use image/PCA9548_CR.png>
 Package pdftex.def Info: image/PCA9548_CR.png  used on input line 96.
@@ -2630,9 +2641,9 @@ Package pdftex.def Info: image/PCA9548_CR.png  used on input line 96.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[141 <./image/PCA9548.PNG>] [142 <./image/PCA9548_addr.PNG> <./image/PCA9548_CR
+[142 <./image/PCA9548.PNG>] [143 <./image/PCA9548_addr.PNG> <./image/PCA9548_CR
 .PNG>]
-<image/Si570.png, id=1522, 956.82469pt x 564.60938pt>
+<image/Si570.png, id=1527, 956.82469pt x 564.60938pt>
 File: image/Si570.png Graphic file (type png)
 <use image/Si570.png>
 Package pdftex.def Info: image/Si570.png  used on input line 115.
@@ -2643,12 +2654,12 @@ Overfull \hbox (11.36502pt too wide) in paragraph at lines 122--123
 и-те-лей устрой-ства ($[][][][][][]$,
  []
 
-<image/si570_0.png, id=1523, 660.96938pt x 149.8097pt>
+<image/si570_0.png, id=1528, 660.96938pt x 149.8097pt>
 File: image/si570_0.png Graphic file (type png)
 <use image/si570_0.png>
 Package pdftex.def Info: image/si570_0.png  used on input line 132.
 (pdftex.def)             Requested size: 256.3949pt x 58.11465pt.
-[143 <./image/Si570.PNG> <./image/si570_0.PNG>] [144]
+[144 <./image/Si570.PNG> <./image/si570_0.PNG>] [145]
 
 LaTeX Warning: Command \CYRM invalid in math mode on input line 162.
 
@@ -2685,7 +2696,7 @@ LaTeX Warning: Command \cyrc invalid in math mode on input line 176.
 Missing character: There is no Г in font cmr12!
 Missing character: There is no Г in font cmr12!
 Missing character: There is no ц in font cmr12!
-[145] [146]
+[146] [147]
 
 LaTeX Warning: Command \CYRM invalid in math mode on input line 260.
 
@@ -2698,7 +2709,7 @@ LaTeX Warning: Command \cyrc invalid in math mode on input line 260.
 Missing character: There is no М in font cmr12!
 Missing character: There is no Г in font cmr12!
 Missing character: There is no ц in font cmr12!
-[147]
+[148]
 
 LaTeX Warning: Command \CYRM invalid in math mode on input line 264.
 
@@ -2711,16 +2722,16 @@ LaTeX Warning: Command \cyrc invalid in math mode on input line 264.
 Missing character: There is no М in font cmr12!
 Missing character: There is no Г in font cmr12!
 Missing character: There is no ц in font cmr12!
-<image/IIC_core_0.png, id=1578, 785.18344pt x 402.00188pt>
+<image/IIC_core_0.png, id=1583, 785.18344pt x 402.00188pt>
 File: image/IIC_core_0.png Graphic file (type png)
 <use image/IIC_core_0.png>
 Package pdftex.def Info: image/IIC_core_0.png  used on input line 288.
 (pdftex.def)             Requested size: 256.3949pt x 131.26859pt.
-) [148] [149 <./image/IIC_core_0.PNG>] (./fpga.bbl
+) [149] [150 <./image/IIC_core_0.PNG>] (./fpga.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 10.
 
-) [150
+) [151
 
 
 
@@ -2738,10 +2749,10 @@ Package rerunfilecheck Info: File `fpga.out' has not changed.
 ### semi simple group (level 1) entered at line 40 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 47421 strings out of 475075
- 1101964 string characters out of 5783001
- 2109446 words of memory out of 5000000
- 67372 multiletter control sequences out of 15000+600000
+ 47439 strings out of 475075
+ 1102410 string characters out of 5783001
+ 2174629 words of memory out of 5000000
+ 67384 multiletter control sequences out of 15000+600000
  494491 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,20n,89p,1887b,4804s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2763,10 +2774,10 @@ er/sfrm1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm172
 8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/
 texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><c:/texlive/20
 22/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on fpga.pdf (151 pages, 5806351 bytes).
+Output written on fpga.pdf (152 pages, 5875847 bytes).
 PDF statistics:
- 1811 PDF objects out of 2073 (max. 8388607)
- 1398 compressed objects within 14 object streams
- 600 named destinations out of 1000 (max. 500000)
+ 1818 PDF objects out of 2073 (max. 8388607)
+ 1403 compressed objects within 15 object streams
+ 602 named destinations out of 1000 (max. 500000)
  935 words of extra memory for PDF output out of 10000 (max. 10000000)
 

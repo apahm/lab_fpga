@@ -235,6 +235,29 @@ f[k] &= \sum_{j=0}^{N-1} x[j]\left(e^{-2\pi i k/N}\right)^j\\
             ylabel={Амплитуда, отсчётов},
             legend pos = south east
             ]
+            \addplot table {Synopsis/data/third-party/lfm_shift_noise_im.dat};
+            \addlegendentry{Q(t)};
+            \addplot table {Synopsis/data/third-party/lfm_shift_noise_re.dat};
+            \addlegendentry{I(t)};
+        \end{axis}
+    \end{tikzpicture}
+    \caption{Квадратурная составляющая ЛЧМ сигнала}
+    \label{fig:chirp_q}
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+    \noindent
+    \begin{tikzpicture}
+        \begin{axis}
+            [
+            RCS Plot,
+            title={},
+            height=0.4\textwidth,
+            xlabel={Время, мкс},
+            ylabel={Амплитуда, отсчётов},
+            legend pos = south east
+            ]
             \addplot table {Synopsis/data/third-party/correl_re.dat};
             \addlegendentry{I(t)};
 			\addplot table {Synopsis/data/third-party/correl_im.dat};
@@ -248,14 +271,14 @@ f[k] &= \sum_{j=0}^{N-1} x[j]\left(e^{-2\pi i k/N}\right)^j\\
 
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.5\textwidth]{image/lfm_sim.png}
+	\includegraphics[width=0.5\textwidth]{image/lfm_with_noise.png}
 	\caption{Временная диаграмма работы интерфейса AXI4-Stream}
 	\label{fft_result}
 \end{figure}
 	
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.5\textwidth]{image/conv_sim.png}
+	\includegraphics[width=0.5\textwidth]{image/correl_with_noise.png}
 	\caption{Временная диаграмма работы интерфейса AXI4-Stream}
 	\label{fft_detailed_implem}
 \end{figure}
