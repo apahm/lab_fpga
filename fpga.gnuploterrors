@@ -1,0 +1,6 @@
+"./fpga-gnuplottex-fig1.gnuplot" line 5: warning: Cannot find or open file "mat.txt"
+
+splot "mat.txt" using 1:2:3
+                           ^
+"./fpga-gnuplottex-fig1.gnuplot" line 5: no functions or data to plot
+

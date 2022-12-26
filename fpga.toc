@@ -28,11 +28,10 @@
 \contentsline {section}{\numberline {5.5}Верификация ядра с интерфейсом AXI4-Lite}{104}{section.5.5}%
 \contentsline {section}{\numberline {5.6}Проект в Vivado}{111}{section.5.6}%
 \contentsline {section}{\numberline {5.7}Проект в Xilinx SDK}{111}{section.5.7}%
-\contentsline {chapter}{\numberline {6}Лабораторная работа №6. Цифровая обработка сигналов}{114}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Арифметика с плавающей точкой}{114}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Быстрое преобразование Фурье}{115}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Сигнал с линейной-частотной модуляцией}{121}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Практическая часть}{123}{section.6.4}%
+\contentsline {chapter}{\numberline {6}Лабораторная работа №6. Реализация корреляционного устройства на ПЛИС}{114}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Быстрое преобразование Фурье}{114}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Сигнал с линейной-частотной модуляцией}{122}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Практическая часть}{123}{section.6.3}%
 \contentsline {chapter}{\numberline {7}Лабораторная работа №7. Основы работы с интерфейсом Ethernet}{127}{chapter.7}%
 \contentsline {section}{\numberline {7.1}Структура пакета}{127}{section.7.1}%
 \contentsline {subsection}{\numberline {7.1.1}Общая структура Ethernet пакета}{127}{subsection.7.1.1}%
