@@ -1,56 +1,59 @@
 \babel@toc {russian}{}\relax 
-\contentsline {chapter}{\numberline {1}Лабораторная работа №1. Реализация комбинационных логических элементов}{3}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Основы работы в САПР Vivado}{3}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}Шаг 1: создаём проект}{3}{subsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.1.2}Шаг 2: создаём исходные файлы проекта}{7}{subsection.1.1.2}%
-\contentsline {subsubsection}{Создание HDL-файлов}{8}{section*.12}%
-\contentsline {subsubsection}{Создание файлов ограничений}{11}{section*.15}%
-\contentsline {subsubsection}{Основы моделирования в Vivado}{14}{section*.18}%
-\contentsline {subsection}{\numberline {1.1.3}Шаг 3: Synthesis, Implementation, and Generate Bitstream}{18}{subsection.1.1.3}%
-\contentsline {subsubsection}{Синтез}{18}{section*.23}%
-\contentsline {subsubsection}{Размещение и трассировка проекта}{19}{section*.25}%
-\contentsline {subsubsection}{Генерация .bit файла}{20}{section*.26}%
-\contentsline {subsection}{\numberline {1.1.4}Шаг 4: Загрузка конфигурационного файла в ПЛИС}{20}{subsection.1.1.4}%
-\contentsline {section}{\numberline {1.2}Иерархия проекта и простые логические элементы}{22}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Мультиплексор и параметризация модуля}{26}{section.1.3}%
-\contentsline {chapter}{\numberline {2}Лабораторная работа №2. Реализация ШИМ-контроллера скорости вентилятора}{31}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Лабораторная работа №3. Реализация конечного автомата для управления ЖКИ}{51}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Протокол работы с ЖКИ S162D}{51}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Разработка конечного автомата для управления ЖКИ}{56}{section.3.2}%
-\contentsline {chapter}{\numberline {4}Лабораторная работа №4. Софт-процессор MicroBlaze}{75}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Проект в Vivado}{75}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Проект в Xilinx SDK}{86}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Лабораторная работа №5. Создание IP ядра с управлением по AXI4-Lite}{93}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Интерфейс AXI4-Lite}{93}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Транзакции чтения и записи интерфейса AXI4-Lite}{97}{section.5.2}%
-\contentsline {section}{\numberline {5.3}AXI4-Lite и конфигурационные регистры ядра}{99}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Создание IP ядра в Vivado}{100}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Верификация ядра с интерфейсом AXI4-Lite}{104}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Проект в Vivado}{111}{section.5.6}%
-\contentsline {section}{\numberline {5.7}Проект в Xilinx SDK}{111}{section.5.7}%
-\contentsline {chapter}{\numberline {6}Лабораторная работа №6. Реализация корреляционного устройства на ПЛИС}{114}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Сжатие сигналов с применением быстрой свёрки}{114}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Сжатие ЛЧМ-сигнала}{115}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Выполнение быстрого преобразование Фурье на ПЛИС}{118}{section.6.3}%
+\contentsline {chapter}{\numberline {1}Лабораторная работа №1. Реализация комбинационных логических элементов}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Основы работы в САПР Vivado}{4}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Шаг 1: создаём проект}{4}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Шаг 2: создаём исходные файлы проекта}{8}{subsection.1.1.2}%
+\contentsline {subsubsection}{Создание HDL-файлов}{9}{section*.12}%
+\contentsline {subsubsection}{Создание файлов ограничений}{12}{section*.15}%
+\contentsline {subsubsection}{Основы моделирования в Vivado}{15}{section*.18}%
+\contentsline {subsection}{\numberline {1.1.3}Шаг 3: Synthesis, Implementation, and Generate Bitstream}{19}{subsection.1.1.3}%
+\contentsline {subsubsection}{Синтез}{19}{section*.23}%
+\contentsline {subsubsection}{Размещение и трассировка проекта}{20}{section*.25}%
+\contentsline {subsubsection}{Генерация .bit файла}{21}{section*.26}%
+\contentsline {subsection}{\numberline {1.1.4}Шаг 4: Загрузка конфигурационного файла в ПЛИС}{21}{subsection.1.1.4}%
+\contentsline {section}{\numberline {1.2}Иерархия проекта и простые логические элементы}{23}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Мультиплексор и параметризация модуля}{27}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Лабораторная работа №2. Реализация ШИМ-контроллера скорости вентилятора}{32}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Лабораторная работа №3. Реализация конечного автомата для управления ЖКИ}{52}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Протокол работы с ЖКИ S162D}{52}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Разработка конечного автомата для управления ЖКИ}{57}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Лабораторная работа №4. Софт-процессор MicroBlaze}{76}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Проект в Vivado}{76}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Проект в Xilinx SDK}{87}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Лабораторная работа №5. Создание IP ядра с управлением по AXI4-Lite}{94}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Интерфейс AXI4-Lite}{94}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Транзакции чтения и записи интерфейса AXI4-Lite}{98}{section.5.2}%
+\contentsline {section}{\numberline {5.3}AXI4-Lite и конфигурационные регистры ядра}{100}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Создание IP ядра в Vivado}{101}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Верификация ядра с интерфейсом AXI4-Lite}{105}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Проект в Vivado}{112}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Проект в Xilinx SDK}{112}{section.5.7}%
+\contentsline {chapter}{\numberline {6}Лабораторная работа №6. Реализация корреляционного устройства на ПЛИС}{115}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Сжатие сигналов с применением быстрой свёрки}{115}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Сжатие ЛЧМ-сигнала}{116}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Выполнение быстрого преобразование Фурье на ПЛИС}{119}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Возможности ядра}{119}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Порты ввода/вывода}{122}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Создание и настройка ядра}{125}{subsection.6.3.3}%
 \contentsline {section}{\numberline {6.4}Практическая часть}{125}{section.6.4}%
-\contentsline {chapter}{\numberline {7}Лабораторная работа №7. Основы работы с интерфейсом Ethernet}{126}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Структура пакета}{126}{section.7.1}%
-\contentsline {subsection}{\numberline {7.1.1}Общая структура Ethernet пакета}{126}{subsection.7.1.1}%
-\contentsline {subsection}{\numberline {7.1.2}Internet Protocol}{127}{subsection.7.1.2}%
-\contentsline {subsection}{\numberline {7.1.3}User Datagram Protocol}{133}{subsection.7.1.3}%
-\contentsline {subsection}{\numberline {7.1.4}Address Resolution Protocol}{135}{subsection.7.1.4}%
-\contentsline {section}{\numberline {7.2}Media-independent interface}{139}{section.7.2}%
-\contentsline {subsection}{\numberline {7.2.1}Gigabit Media-Independent Interface}{139}{subsection.7.2.1}%
-\contentsline {subsection}{\numberline {7.2.2}Reduced Gigabit Media-Independent Interface}{140}{subsection.7.2.2}%
-\contentsline {subsection}{\numberline {7.2.3}Serial Gigabit Media-Independent Interface}{142}{subsection.7.2.3}%
-\contentsline {section}{\numberline {7.3}Практическая часть}{142}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Моделирование ядра}{142}{section.7.4}%
-\contentsline {chapter}{\numberline {8}Лабораторная работа №8. Программирование синтезатора частот с управлением по IIC}{143}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Интерфейс IIC}{143}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Организация шины IIC на плате VC707}{145}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Синтезатор частот Si570}{147}{section.8.3}%
-\contentsline {subsection}{\numberline {8.3.1}Программирование новой выходной частоты}{147}{subsection.8.3.1}%
-\contentsline {subsection}{\numberline {8.3.2}Перенастройка выходной частоты в малом диапазоне}{151}{subsection.8.3.2}%
-\contentsline {section}{\numberline {8.4}AXI IIC Bus Interface IP Core}{152}{section.8.4}%
-\contentsline {section}{\numberline {8.5}Проект в Vivado}{152}{section.8.5}%
-\contentsline {section}{\numberline {8.6}Проект в Xilinx SDK}{152}{section.8.6}%
+\contentsline {chapter}{\numberline {7}Лабораторная работа №7. Основы работы с интерфейсом Ethernet}{128}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Структура пакета}{128}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Общая структура Ethernet пакета}{128}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Internet Protocol}{129}{subsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.1.3}User Datagram Protocol}{135}{subsection.7.1.3}%
+\contentsline {subsection}{\numberline {7.1.4}Address Resolution Protocol}{137}{subsection.7.1.4}%
+\contentsline {section}{\numberline {7.2}Media-independent interface}{141}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Gigabit Media-Independent Interface}{141}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Reduced Gigabit Media-Independent Interface}{142}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}Serial Gigabit Media-Independent Interface}{144}{subsection.7.2.3}%
+\contentsline {section}{\numberline {7.3}Практическая часть}{144}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Моделирование ядра}{144}{section.7.4}%
+\contentsline {chapter}{\numberline {8}Лабораторная работа №8. Программирование синтезатора частот с управлением по IIC}{145}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Интерфейс IIC}{145}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Организация шины IIC на плате VC707}{147}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Синтезатор частот Si570}{149}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}Программирование новой выходной частоты}{149}{subsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.3.2}Перенастройка выходной частоты в малом диапазоне}{153}{subsection.8.3.2}%
+\contentsline {section}{\numberline {8.4}AXI IIC Bus Interface IP Core}{154}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Проект в Vivado}{154}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Проект в Xilinx SDK}{154}{section.8.6}%
