@@ -172,7 +172,7 @@ R = \frac{c \cdot \tau}{2},
             \addplot table {Synopsis/data/third-party/correl_re.dat};
             \addlegendentry{I(t)};
 			\addplot table {Synopsis/data/third-party/correl_im.dat};
-            \addlegendentry{I(t)};
+            \addlegendentry{Q(t)};
         \end{axis}
     \end{tikzpicture}
     \caption{Квадратурная и синфазная составляющая сигнала на выходе фильтра сжатия}
@@ -236,6 +236,53 @@ S(t)= 0, вне интервала $T$; где $A_{0}$ - амплитуда зо
     \end{equation}
     \item Из полученной матрицы X формируем код:
 \end{enumerate}
+
+\begin{figure}[h]
+    \centering
+    \noindent
+    \begin{tikzpicture}
+        \begin{axis}
+            [
+            RCS Plot,
+            title={},
+            height=0.35\textwidth,
+            xlabel={Время, мкс},
+            ylabel={Амплитуда, отсчётов},
+            legend pos = south east
+            ]
+            \addplot table {Synopsis/data/third-party/m_seq_re_sf.dat};
+            \addlegendentry{Q(t)};
+            \addplot table {Synopsis/data/third-party/m_seq_im_sf.dat};
+            \addlegendentry{I(t)};
+        \end{axis}
+    \end{tikzpicture}
+    \caption{Квадратурная и синфазная составляющая задержненного ЛЧМ сигнала при наличии шума}
+    \label{fig:chirp_shift_noise}
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+    \noindent
+    \begin{tikzpicture}
+        \begin{axis}
+            [
+            RCS Plot,
+            title={},
+            height=0.35\textwidth,
+            xlabel={Время, мкс},
+            ylabel={Амплитуда, отсчётов},
+            legend pos = south east
+            ]
+            \addplot table {Synopsis/data/third-party/m_seq_re_recv.dat};
+            \addlegendentry{I(t)};
+            \addplot table {Synopsis/data/third-party/m_seq_im_recv.dat};
+            \addlegendentry{Q(t)};
+        \end{axis}
+    \end{tikzpicture}
+    \caption{Квадратурная и синфазная составляющая сигнала на выходе фильтра сжатия}
+    \label{fig:correl}
+\end{figure}
+
 
 \section{Выполнение быстрого преобразование Фурье на ПЛИС}
 
