@@ -46,5 +46,5 @@
 \contentsline {subsection}{\numberline {7.2.1}Возможности ядра}{138}{subsection.7.2.1}%
 \contentsline {subsection}{\numberline {7.2.2}Интерфейс настройки ядра и сигналы событий}{141}{subsection.7.2.2}%
 \contentsline {subsection}{\numberline {7.2.3}Создание и настройка ядра}{143}{subsection.7.2.3}%
-\contentsline {section}{\numberline {7.3}Практическая часть}{144}{section.7.3}%
-\contentsline {subsection}{\numberline {7.3.1}Моделирование подсистемы сжатия сигналов}{147}{subsection.7.3.1}%
+\contentsline {section}{\numberline {7.3}Практическая часть}{143}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Моделирование подсистемы сжатия сигналов}{148}{subsection.7.3.1}%

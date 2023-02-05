@@ -283,6 +283,50 @@ S(t)= 0, вне интервала $T$; где $A_{0}$ - амплитуда зо
     \label{fig:correl}
 \end{figure}
 
+\begin{figure}[h]
+    \centering
+    \noindent
+    \begin{tikzpicture}
+        \begin{axis}
+            [
+            RCS Plot,
+            title={},
+            height=0.35\textwidth,
+            xlabel={Время, мкс},
+            ylabel={Амплитуда, отсчётов},
+            legend pos = south east
+            ]
+            \addplot table {Synopsis/data/third-party/correl_re_m_seq.dat};
+            \addlegendentry{I(t)};
+            \addplot table {Synopsis/data/third-party/correl_im_m_seq.dat};
+            \addlegendentry{Q(t)};
+        \end{axis}
+    \end{tikzpicture}
+    \caption{Квадратурная и синфазная составляющая сигнала на выходе фильтра сжатия}
+    \label{fig:correl}
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+    \noindent
+    \begin{tikzpicture}
+        \begin{axis}
+            [
+            RCS Plot,
+            title={},
+            height=0.35\textwidth,
+            xlabel={Время, мкс},
+            ylabel={Амплитуда, отсчётов},
+            legend pos = south east
+            ]
+            \addplot table {Synopsis/data/third-party/lfm_freq.dat};
+            \addlegendentry{I(t)};
+        \end{axis}
+    \end{tikzpicture}
+    \caption{Квадратурная и синфазная составляющая сигнала на выходе фильтра сжатия}
+    \label{fig:correl}
+\end{figure}
+
 
 \section{Выполнение быстрого преобразование Фурье на ПЛИС}
 

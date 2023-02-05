@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  26 DEC 2022 16:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.25)  5 FEB 2023 16:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **correl_fpga.tex
 (./correl_fpga.tex
-LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-08-30>
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2022-12-17>
 ! Undefined control sequence.
 l.1 \chapter
-            {Лабораторная работа №6. Реализаци�...
+            {Лабораторная работа №7. Реализаци�...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -24,7 +24,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \chapter{Л
-               абораторная работа №6. Реализаци�...
+               абораторная работа №7. Реализаци�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -38,7 +38,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \chapter{Ла
-                 бораторная работа №6. Реализаци�...
+                 бораторная работа №7. Реализаци�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -52,7 +52,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \chapter{Лаб
-                   ораторная работа №6. Реализаци�...
+                   ораторная работа №7. Реализаци�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -66,7 +66,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \chapter{Лабо
-                     раторная работа №6. Реализаци�...
+                     раторная работа №7. Реализаци�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -80,7 +80,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \chapter{Лабор
-                       аторная работа №6. Реализаци�...
+                       аторная работа №7. Реализаци�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -94,7 +94,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \chapter{Лабора
-                         торная работа №6. Реализаци�...
+                         торная работа №7. Реализаци�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -108,7 +108,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \chapter{Лаборат
-                           орная работа №6. Реализаци�...
+                           орная работа №7. Реализаци�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -122,7 +122,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \chapter{Лаборато
-                             рная работа №6. Реализаци�...
+                             рная работа №7. Реализаци�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -136,7 +136,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \chapter{Лаборатор
-                               ная работа №6. Реализаци�...
+                               ная работа №7. Реализаци�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -150,7 +150,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \chapter{Лабораторн
-                                 ая работа №6. Реализаци�...
+                                 ая работа №7. Реализаци�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -164,7 +164,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \chapter{Лабораторна
-                                   я работа №6. Реализаци�...
+                                   я работа №7. Реализаци�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -178,7 +178,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \chapter{Лабораторная
-                                      работа №6. Реализаци�...
+                                      работа №7. Реализаци�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -192,7 +192,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \chapter{Лабораторная р
-                                        абота №6. Реализаци�...
+                                        абота №7. Реализаци�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -206,7 +206,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \chapter{Лабораторная ра
-                                          бота №6. Реализаци�...
+                                          бота №7. Реализаци�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -220,7 +220,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \chapter{Лабораторная раб
-                                            ота №6. Реализаци�...
+                                            ота №7. Реализаци�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -234,7 +234,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \chapter{Лабораторная рабо
-                                              та №6. Реализаци�...
+                                              та №7. Реализаци�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -248,7 +248,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \chapter{Лабораторная работ
-                                                а №6. Реализаци�...
+                                                а №7. Реализаци�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -262,7 +262,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \chapter{Лабораторная работа
-                                                   №6. Реализаци�...
+                                                   №7. Реализаци�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -275,12 +275,12 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 ...r{Лабораторная работа №
-                                                  6. Реализация к...
+                                                  7. Реализация к...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no 6 in font nullfont!
+Missing character: There is no 7 in font nullfont!
 Missing character: There is no . in font nullfont!
 
 ! LaTeX Error: Unicode character Р (U+0420)
@@ -290,7 +290,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...�бораторная работа №6. Р
+l.1 ...�бораторная работа №7. Р
                                                   еализация кор�...
 
 You may provide a definition with
@@ -304,7 +304,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...�ораторная работа №6. Ре
+l.1 ...�ораторная работа №7. Ре
                                                   ализация корр�...
 
 You may provide a definition with
@@ -318,7 +318,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...�раторная работа №6. Реа
+l.1 ...�раторная работа №7. Реа
                                                   лизация корре�...
 
 You may provide a definition with
@@ -332,7 +332,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...�аторная работа №6. Реал
+l.1 ...�аторная работа №7. Реал
                                                   изация коррел�...
 
 You may provide a definition with
@@ -346,7 +346,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...�торная работа №6. Реали
+l.1 ...�торная работа №7. Реали
                                                   зация корреля�...
 
 You may provide a definition with
@@ -360,7 +360,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...�орная работа №6. Реализ
+l.1 ...�орная работа №7. Реализ
                                                   ация корреляц�...
 
 You may provide a definition with
@@ -374,7 +374,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...�рная работа №6. Реализа
+l.1 ...�рная работа №7. Реализа
                                                   ция корреляци�...
 
 You may provide a definition with
@@ -388,7 +388,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...�ная работа №6. Реализац
+l.1 ...�ная работа №7. Реализац
                                                   ия корреляцио�...
 
 You may provide a definition with
@@ -402,7 +402,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...�ая работа №6. Реализаци
+l.1 ...�ая работа №7. Реализаци
                                                   я корреляцион�...
 
 You may provide a definition with
@@ -416,7 +416,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...�я работа №6. Реализация
+l.1 ...�я работа №7. Реализация
                                                    корреляционн�...
 
 You may provide a definition with
@@ -430,7 +430,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ... работа №6. Реализация к
+l.1 ... работа №7. Реализация к
                                                   орреляционног...
 
 You may provide a definition with
@@ -444,7 +444,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...�абота №6. Реализация ко
+l.1 ...�абота №7. Реализация ко
                                                   рреляционного...
 
 You may provide a definition with
@@ -458,7 +458,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...�бота №6. Реализация кор
+l.1 ...�бота №7. Реализация кор
                                                   реляционного �...
 
 You may provide a definition with
@@ -472,7 +472,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...�ота №6. Реализация корр
+l.1 ...�ота №7. Реализация корр
                                                   еляционного у�...
 
 You may provide a definition with
@@ -486,7 +486,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...�та №6. Реализация корре
+l.1 ...�та №7. Реализация корре
                                                   ляционного ус�...
 
 You may provide a definition with
@@ -500,7 +500,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...�а №6. Реализация коррел
+l.1 ...�а №7. Реализация коррел
                                                   яционного уст�...
 
 You may provide a definition with
@@ -514,7 +514,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...� №6. Реализация корреля
+l.1 ...� №7. Реализация корреля
                                                   ционного устр�...
 
 You may provide a definition with
@@ -528,7 +528,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...№6. Реализация корреляц
+l.1 ...№7. Реализация корреляц
                                                   ионного устро�...
 
 You may provide a definition with
@@ -542,7 +542,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...�6. Реализация корреляци
+l.1 ...�7. Реализация корреляци
                                                   онного устрой�...
 
 You may provide a definition with
@@ -2183,7 +2183,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.5 ...�ов, используемый в ради
-                                                  олокационных, ...
+                                                  олокационных �...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2197,7 +2197,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.5 ...�в, используемый в радио
-                                                  локационных, г...
+                                                  локационных с�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2211,7 +2211,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.5 ...�, используемый в радиол
-                                                  окационных, ги...
+                                                  окационных си�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2225,7 +2225,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.5 ... используемый в радиоло
-                                                  кационных, гид...
+                                                  кационных сис�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2239,7 +2239,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.5 ...�спользуемый в радиолок
-                                                  ационных, гидр...
+                                                  ационных сист�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2253,7 +2253,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.5 ...�пользуемый в радиолока
-                                                  ционных, гидро...
+                                                  ционных систе�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2267,7 +2267,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.5 ...�ользуемый в радиолокац
-                                                  ионных, гидроа...
+                                                  ионных систем�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2281,8 +2281,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.5 ...�льзуемый в радиолокаци
-                                                  онных, гидроак...
-
+                                                  онных системах,
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -2295,8 +2294,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.5 ...�ьзуемый в радиолокацио
-                                                  нных, гидроаку...
-
+                                                  нных системах,
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -2309,8 +2307,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.5 ...�зуемый в радиолокацион
-                                                  ных, гидроакус...
-
+                                                  ных системах,
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -2323,8 +2320,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.5 ...�уемый в радиолокационн
-                                                  ых, гидроакуст...
-
+                                                  ых системах,
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -2337,8 +2333,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.5 ...�емый в радиолокационны
-                                                  х, гидроакусти...
-
+                                                  х системах,
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -2351,23 +2346,20 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.5 ...�мый в радиолокационных
-                                                  , гидроакустич...
-
+                                                   системах,
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-Missing character: There is no , in font nullfont!
 
-! LaTeX Error: Unicode character г (U+0433)
+! LaTeX Error: Unicode character с (U+0441)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�й в радиолокационных, г
-                                                  идроакустичес...
-
+l.5 ...ый в радиолокационных с
+                                                  истемах,
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -2379,36 +2371,100 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...� в радиолокационных, ги
-                                                  дроакустическ...
-
+l.5 ...й в радиолокационных си
+                                                  стемах,
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-! LaTeX Error: Unicode character д (U+0434)
+! LaTeX Error: Unicode character с (U+0441)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...в радиолокационных, гид
-                                                  роакустически...
-
+l.5 ... в радиолокационных сис
+                                                  темах,
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-! LaTeX Error: Unicode character р (U+0440)
+! LaTeX Error: Unicode character т (U+0442)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ... радиолокационных, гидр
-                                                  оакустических...
+l.5 ...� радиолокационных сист
+                                                  емах,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...радиолокационных систе
+                                                  мах,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character м (U+043C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...адиолокационных систем
+                                                  ах,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...диолокационных система
+                                                  х,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character х (U+0445)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...иолокационных системах
+                                                  ,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no , in font nullfont!
+
+! LaTeX Error: Unicode character п (U+043F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 п
+      озволяет максимизировать отношение с�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2421,64 +2477,92 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�адиолокационных, гидро
-                                                  акустических, ...
+l.6 по
+        зволяет максимизировать отношение с�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-! LaTeX Error: Unicode character а (U+0430)
+! LaTeX Error: Unicode character з (U+0437)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�диолокационных, гидроа
-                                                  кустических, с...
+l.6 поз
+          воляет максимизировать отношение с�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-! LaTeX Error: Unicode character к (U+043A)
+! LaTeX Error: Unicode character в (U+0432)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�иолокационных, гидроак
-                                                  устических, се...
+l.6 позв
+            оляет максимизировать отношение с�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-! LaTeX Error: Unicode character у (U+0443)
+! LaTeX Error: Unicode character о (U+043E)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�олокационных, гидроаку
-                                                  стических, сей...
+l.6 позво
+              ляет максимизировать отношение с�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-! LaTeX Error: Unicode character с (U+0441)
+! LaTeX Error: Unicode character л (U+043B)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�локационных, гидроакус
-                                                  тических, сейс...
+l.6 позвол
+                яет максимизировать отношение с�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character я (U+044F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 позволя
+                  ет максимизировать отношение с�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 позволяе
+                    т максимизировать отношение с�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2491,163 +2575,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�окационных, гидроакуст
-                                                  ических, сейсм...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character и (U+0438)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ...�кационных, гидроакусти
-                                                  ческих, сейсми...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character ч (U+0447)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ...�ационных, гидроакустич
-                                                  еских, сейсмич...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character е (U+0435)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ...�ционных, гидроакустиче
-                                                  ских, сейсмиче...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character с (U+0441)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ...�ионных, гидроакустичес
-                                                  ких, сейсмичес...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character к (U+043A)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ...�онных, гидроакустическ
-                                                  их, сейсмическ...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character и (U+0438)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ...�нных, гидроакустически
-                                                  х, сейсмически...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character х (U+0445)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ...�ных, гидроакустических
-                                                  , сейсмических...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no , in font nullfont!
-
-! LaTeX Error: Unicode character с (U+0441)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ...�х, гидроакустических, с
-                                                  ейсмических и ...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character е (U+0435)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ...�, гидроакустических, се
-                                                  йсмических и д...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character й (U+0439)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ... гидроакустических, сей
-                                                  смических и др...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character с (U+0441)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ...�идроакустических, сейс
-                                                  мических и дру...
+l.6 позволяет
+                       максимизировать отношение с�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2660,64 +2589,22 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�дроакустических, сейсм
-                                                  ических и друг...
+l.6 позволяет м
+                         аксимизировать отношение с�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-! LaTeX Error: Unicode character и (U+0438)
+! LaTeX Error: Unicode character а (U+0430)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�роакустических, сейсми
-                                                  ческих и други...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character ч (U+0447)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ...�оакустических, сейсмич
-                                                  еских и других...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character е (U+0435)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ...�акустических, сейсмиче
-                                                  ских и других �...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character с (U+0441)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ...�кустических, сейсмичес
-                                                  ких и других «�...
+l.6 позволяет ма
+                           ксимизировать отношение с�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2730,8 +2617,22 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�устических, сейсмическ
-                                                  их и других «з�...
+l.6 позволяет мак
+                             симизировать отношение с�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character с (U+0441)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 позволяет макс
+                               имизировать отношение с�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2744,22 +2645,22 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�стических, сейсмически
-                                                  х и других «зо�...
+l.6 позволяет макси
+                                 мизировать отношение с�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-! LaTeX Error: Unicode character х (U+0445)
+! LaTeX Error: Unicode character м (U+043C)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�тических, сейсмических
-                                                   и других «зон�...
+l.6 позволяет максим
+                                   изировать отношение с�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2772,22 +2673,36 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...ических, сейсмических и
-                                                   других «зонди...
+l.6 позволяет максими
+                                     зировать отношение с�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-! LaTeX Error: Unicode character д (U+0434)
+! LaTeX Error: Unicode character з (U+0437)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�еских, сейсмических и д
-                                                  ругих «зондир�...
+l.6 позволяет максимиз
+                                       ировать отношение с�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 позволяет максимизи
+                                         ровать отношение с�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2800,92 +2715,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�ских, сейсмических и др
-                                                  угих «зондиру�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character у (U+0443)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ...�ких, сейсмических и дру
-                                                  гих «зондирую�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character г (U+0433)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ...�их, сейсмических и друг
-                                                  их «зондирующ�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character и (U+0438)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ...�х, сейсмических и други
-                                                  х «зондирующи�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character х (U+0445)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ...�, сейсмических и других
-                                                   «зондирующих�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Command \guillemetleft unavailable in encoding .
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ...сейсмических и других «
-                                                  зондирующих» �...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Unicode character з (U+0437)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ...ейсмических и других «з
-                                                  ондирующих» с�...
+l.6 позволяет максимизир
+                                           овать отношение с�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2898,8 +2729,92 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...йсмических и других «зо
-                                                  ндирующих» си�...
+l.6 позволяет максимизиро
+                                             вать отношение с�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character в (U+0432)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 позволяет максимизиров
+                                               ать отношение с�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 позволяет максимизирова
+                                                 ть отношение с�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character т (U+0442)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...зволяет максимизироват
+                                                  ь отношение си...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ь (U+044C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...воляет максимизировать
+                                                   отношение сиг...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...�ляет максимизировать о
+                                                  тношение сигн�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character т (U+0442)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...�яет максимизировать от
+                                                  ношение сигна�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2912,22 +2827,64 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...смических и других «зон
-                                                  дирующих» сис�...
+l.6 ...�ет максимизировать отн
+                                                  ошение сигнал/...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-! LaTeX Error: Unicode character д (U+0434)
+! LaTeX Error: Unicode character о (U+043E)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...мических и других «зонд
-                                                  ирующих» сист�...
+l.6 ...�т максимизировать отно
+                                                  шение сигнал/ш...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ш (U+0448)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...� максимизировать отнош
+                                                  ение сигнал/шу...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...максимизировать отноше
+                                                  ние сигнал/шум...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...аксимизировать отношен
+                                                  ие сигнал/шум �...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2940,58 +2897,86 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...ических и других «зонди
-                                                  рующих» систе�...
+l.6 ...ксимизировать отношени
+                                                  е сигнал/шум и ...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-! LaTeX Error: Unicode character р (U+0440)
+! LaTeX Error: Unicode character е (U+0435)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...ческих и других «зондир
-                                                  ующих» систем�...
+l.6 ...симизировать отношение
+                                                   сигнал/шум и п...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-! LaTeX Error: Unicode character у (U+0443)
+! LaTeX Error: Unicode character с (U+0441)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...еских и других «зондиру
-                                                  ющих» система�...
+l.6 ...�мизировать отношение с
+                                                  игнал/шум и по�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-! LaTeX Error: Unicode character ю (U+044E)
+! LaTeX Error: Unicode character и (U+0438)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...ских и других «зондирую
-                                                  щих» системах....
+l.6 ...�изировать отношение си
+                                                  гнал/шум и пол�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character г (U+0433)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...�зировать отношение сиг
+                                                  нал/шум и полу�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...�ировать отношение сигн
+                                                  ал/шум и получ�...
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 58 strings out of 475075
- 829 string characters out of 5783001
- 340267 words of memory out of 5000000
- 21555 multiletter control sequences out of 15000+600000
- 469594 words of font info for 29 fonts, out of 8000000 for 9000
+ 55 strings out of 476093
+ 795 string characters out of 5795582
+ 1848787 words of memory out of 5000000
+ 20534 multiletter control sequences out of 15000+600000
+ 512622 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 14i,0n,13p,1052b,60s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 14i,0n,13p,1389b,60s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 !  ==> Fatal error occurred, no output PDF file produced!
